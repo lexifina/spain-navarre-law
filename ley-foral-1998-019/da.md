@@ -1,0 +1,2 @@
+Disposición adicional.
+La decisión sobre la aplicación de las cantidades abonadas al personal de la Universidad Pública de Navarra en concepto de abonos por los denominados complementos de residencia, dedicación docente o equiparación docente, entre el 1 de enero de 1993 y el 1 de enero de 1998, será adoptada por el Consejo Social, de conformidad con lo dispuesto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, sin que pueda implicar en ningún caso incremento de la cuantía total efectivamente abonada en cada ejercicio presupuestario.

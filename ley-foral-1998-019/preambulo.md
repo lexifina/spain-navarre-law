@@ -1,0 +1,4 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Retribuciones del Profesorado de la Universidad Pública de Navarra.
+EXPOSICIÓN DE MOTIVOS
+El artículo 22 de la Ley Foral 1/1997, de 31 de enero, de Presupuestos Generales de Navarra para 1997, estableció una partida, a integrar en el capítulo de gastos de personal del presupuesto de la Universidad Pública de Navarra, «a fin de incrementar, de conformidad con la legislación vigente, las retribuciones del personal docente universitario. No obstante, la disposición de la citada cuantía quedará condicionada a la decisión que, con efectos de 1 de enero de 1993, y a propuesta de los órganos competentes, adopte el Parlamento de Navarra en materia de retribuciones del personal docente universitario de la Universidad Pública de Navarra».
