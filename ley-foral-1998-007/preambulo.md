@@ -1,0 +1,9 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber: Que el Parlamento de Navarra ha aprobado la siguiente Ley Foral reguladora del Transporte Público Urbano por Carretera.
+EXPOSICIÓN DE MOTIVOS
+El establecimiento de la normativa reguladora del transporte urbano constituye el ejercicio de la competencia exclusiva que en materia de transportes que transcurran íntegramente en Navarra corresponde a la Comunidad Foral.
+Sin embargo, la compleja problemática en que está inmerso el transporte por carretera hace necesario ejercer esta competencia cooperando lealmente las distintas instancias de poder, de ahí que las Comunidades Autónomas y la Administración Central hayan formulado los aspectos comunes de este transporte como fruto de una coparticipación real de todos y respetuosa con la delimitación competencial fijada por el bloque de constitucionalidad y las necesidades de los profesionales del transporte.
+Se recogen, en la presente Ley Foral, aquellos aspectos comunes del transporte urbano y se integran en una ordenación completa de esta materia.
+En concreto, el concepto de transporte urbano recogido es plenamente respetuoso con las competencias de las entidades locales en esta materia, aunque con ello se aparte de otros antecedentes normativos.
+Se mantienen, sin embargo, las clasificaciones tradicionales de las diversas modalidades de transportes, por entender que ello favorece la homogeneidad del sistema de transporte y, asimismo, el régimen sancionador conserva un paralelismo al de Leyes anteriores y específicas de transportes.
+Por último, teniendo en cuenta la aplicación con carácter general de la normativa reguladora de la contratación administrativa aplicable a los municipios de Navarra, se regulan únicamente aquellos aspectos que son peculiares de la gestión de los servicios públicos de transporte.
