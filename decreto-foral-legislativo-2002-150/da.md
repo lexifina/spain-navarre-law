@@ -1,0 +1,2 @@
+Disposición adicional.
+Este Decreto Foral Legislativo será remitido al Parlamento de Navarra, a los efectos del artículo 158 del Reglamento de la Cámara.
