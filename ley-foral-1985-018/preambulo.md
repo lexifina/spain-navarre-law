@@ -1,0 +1,8 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente:
+LEY FORAL POR LA QUE SE DECLARA «DÍA DE NAVARRA» EL DÍA 3 DE DICIEMBRE, FESTIVIDAD DE SAN FRANCISCO JAVIER
+EXPOSICIÓN DE MOTIVOS
+Es costumbre de todas las comunidades y voluntad de los ciudadanos que las integran contar con una festividad que, al tiempo que simbolice la unidad y la identidad en un proyecto histórico común, sea ocasión para exaltar de manera señalada la personalidad del territorio, de su cultura y de sus gentes. El respeto a la tradición heredada y el reconocimiento del pasado propio como factor básico de la definición de los pueblos hace aconsejable la institucionalización a tal efecto de fechas y motivos asentados en el patrimonio común, de tal modo que contribuyan a fortalecer la concordia, la solidaridad y la conciencia de hermandad que sostienen la vida de las sociedades.
+La figura de San Francisco Javier ha sido para los navarros un ejemplo señero de inquietud humana e intelectual, de talante entregado y aventurero, del hombre que no desdeñó dificultades ni esfuerzos para recorrer las zonas más alejadas de la tierra. San Francisco Javier es el prototipo del navarro universal abierto a las culturas y a los pueblos del mundo entero, recordado y admirado todavía hoy, por comunidades de gran número de países, en todos los continentes.
+Instituida de forma permanente la fiesta de San Francisco Javier en el día 3 de diciembre, aniversario de su muerte, la Comunidad Foral de Navarra desea vincular la norma a la tradición y fijar en esa misma fecha el «Día de Navarra».
+TEXTO ARTICULADO
