@@ -54,6 +54,7 @@ Ortofotomapa de Navarra 1:10.000 (Papel Normal) | 9,00
 Litovales escala media 1:5.000 | 3,00
 Mapa Geológico de Navarra 1:25.000 | 20,00
 Mapa Geomorfológico de Navarra 1:25.000 | 20,00
+Mapa de usos del suelo. | 20,00
 3) Cartografía digital:
 Denominación | Tasa – Euros
 Cartografía Topográfica 1:500 (dgn, dwg, dxf) | 18,00
@@ -70,6 +71,7 @@ Ortofotografía 1:25.000 (tiff, jpeg) | 30,00
 Modelo Digital del Terreno malla 40 ó 200 mts (por hoja 1:5.000) | 30,00
 Memoria de una hoja Mapa Geológico de Navarra 1:25.000 (Word) | 10,00
 CD Mapa Geotécnico de Pamplona 1:25.000 y Memoria (PDF) | 10,00
+Fotogramas escaneados a 20 micras (tiff). | 30,00
 4) Fotografías en blanco y negro:
 Denominación | Papel – Euros | Película – Euros
 Fotograma (24 × 24) | 2,40 | 
@@ -107,5 +109,6 @@ A partir de 10 unidades | 5%
 A partir de 20 unidades | 10%
 A partir de 50 unidades | 15%
 A partir de 100 unidades | 20%
+Se modifican los apartados 2 y 3, con efectos de 1 de enero de 2004, por el art. 7.15 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077
 Se modifican, con efectos de 1 de enero de 2003, los apartados 4 y 5 por el art. 8.5 de la Ley Foral 16/2003, de 17 de marzo. Ref. BOE-A-2003-8524
 Se añade, con efectos de 1 de enero de 2002, por el art. 9.7 de la Ley Foral 3/2002, de 14 de marzo. Ref. BOE-A-2002-8354
