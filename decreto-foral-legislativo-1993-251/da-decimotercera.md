@@ -1,0 +1,3 @@
+Disposición adicional decimotercera.
+1. Los funcionarios que sean objeto de transferencia del Estado a la Comunidad Foral de Navarra quedarán integrados en la organización de la Administración de la Comunidad Foral de conformidad con los términos establecidos en los Acuerdos del Gobierno de Navarra de 26 de septiembre de 1988 y 25 de enero de 1990 y, en el caso de los funcionarios docentes no universitarios, con las especialidades previstas en este Estatuto.
+2. El personal laboral que sea objeto de transferencia del Estado a la Comunidad Foral de Navarra quedará integrado en la organización de la Administración de la Comunidad Foral con sujeción al Convenio Colectivo vigente para su personal laboral. Se garantizará el cumplimiento del convenio estatal que le afecta.
