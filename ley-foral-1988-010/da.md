@@ -1,0 +1,2 @@
+Disposición adicional.
+De conformidad con lo previsto en el artículo 9.o, b), de la Ley Foral del Gobierno y de la Administración de la Comunidad Foral de Navarra, se autoriza al Gobierno de Navarra para la formalización de los convenios de cooperación a suscribir con la Confederación Hidrográfica del Ebro y con la Confederación Hidrográfica del Norte de España según modelo anexo a la presente Ley Foral.
