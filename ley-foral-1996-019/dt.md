@@ -1,0 +1,2 @@
+Disposición transitoria.
+Las personas que de conformidad con lo señalado en el artículo 2 de esta Ley Foral, ocupen en la actualidad un alto cargo, deberán presentar sus declaraciones de actividades y de bienes y derechos, en los términos establecidos en los artículos 11 y 12, en el plazo de dos meses desde la fecha de entrada en vigor del Decreto Foral que reglamente el funcionamiento del Registro de actividades e intereses de altos cargos del Gobierno y la Administración de la Comunidad Foral de Navarra.
