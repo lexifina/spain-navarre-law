@@ -1,0 +1,2 @@
+Disposición adicional.
+Los Concejos que, aun teniendo una población de derecho inferior a 16 habitantes, no hubiesen quedado extinguidos, por no concurrir las condiciones para decretar la extinción conforme a lo establecido en la regla primera de la disposición adicional primera de la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra, se regirán en régimen de Concejo abierto mientras conserven el carácter de Entidad local concejil.
