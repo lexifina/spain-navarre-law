@@ -1,0 +1,3 @@
+Disposición adicional [sic].
+En el marco de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, y de las decisiones que a tal fin adopten el Parlamento de Navarra y el Gobierno de Navarra, la Universidad Pública de Navarra procederá, en el plazo de dos años a partir de la entrada en vigor de esta Ley Foral, a establecer en la ciudad de Tudela los estudios presenciales oficiales de la Universidad Pública de Navarra, preferentemente de nivel de Escuela Universitaria, adecuados para completar su oferta de titulaciones y para satisfacer las necesidades educativas de la sociedad navarra, así como para potenciar el desarrollo socioeconómico de la zona.
+Se añade por el art. único de la Ley Foral 25/2002, de 2 de julio. Ref. BOE-A-2002-16667
