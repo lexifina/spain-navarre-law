@@ -1,0 +1,8 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral reguladora de las elecciones al Parlamento de Navarra.
+EXPOSICIÓN DE MOTIVOS
+El artículo 15 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra establece en su apartado 1.º que el Parlamento de Navarra será elegido por sufragio universal, libre, igual, directo y secreto, por un período de cuatro años.
+En su apartado 2.º, el mencionado precepto, tras determinar que el número de miembros del Parlamento de Navarra no será inferior a 40 ni superior a 60, establece que una Ley Foral fijará el número concreto de parlamentarios y regulará su elección, atendiendo a criterios de representación proporcional, así como los supuestos de su inelegibilidad e incompatibilidad, todo ello de conformidad con la legislación general electoral.
+Esta Ley Foral viene a dar cumplimiento al referido precepto, en la medida en que, respetando escrupulosamente los principios que en el mismo se contienen y las disposiciones comunes para todas las elecciones por sufragio universal directo contenidas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, establece el marco jurídico adecuado para la convocatoria y la celebración de las elecciones al Parlamento de Navarra.
+Con ello quedan plenamente garantizados tanto el carácter representativo de esta Institución y su adecuación a la voluntad, libremente expresada, del pueblo navarro, como el derecho fundamental de los ciudadanos de esta Comunidad Foral a participar en los asuntos públicos.
+TEXTO ARTICULADO

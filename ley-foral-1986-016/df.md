@@ -1,0 +1,2 @@
+DISPOSICIÓN FINAL
+Se faculta al Gobierno de Navarra para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de esta Ley Foral.
