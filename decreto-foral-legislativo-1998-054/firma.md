@@ -1,0 +1,1 @@
+Pamplona, dieciséis de febrero de mil novecientos noventa y ocho.–El Presidente del Gobierno de Navarra, Miguel Sanz Sesma.–El Consejero de Agricultura, Ganadería y Alimentación, Ignacio Javier Martínez Alfaro.
