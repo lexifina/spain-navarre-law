@@ -1,0 +1,5 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente
+LEY FORAL DE ORGANOS RECTORES DE LAS CAJAS DE AHORRO DE NAVARRA
+El artículo 56.1.f) de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra, atribuye a la Comunidad Foral, de acuerdo con las bases de la actividad económica general y de la política monetaria, crediticia, bancaria y de seguros del Estado, en los términos de los pertinentes preceptos constitucionales, competencia exclusiva en materia de Cajas de Ahorro, sin perjuicio del régimen especial de Convenios en esta materia.
+En el marco establecido en el referido precepto, esta Ley Foral pretende, por una parte, conseguir la democratización de los órganos de gobierno de las Cajas de Ahorro para que en ellos tengan cabida todos los intereses que confluyen en la gestión de las mismas y, por otra parte, diversificar las competencias de acuerdo con el principio de especialización, al objeto de dinamizar y hacer más eficaces las funciones encomendadas a los mencionados órganos de gobierno.
