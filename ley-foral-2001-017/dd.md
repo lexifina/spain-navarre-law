@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley Foral y, en particular, el Decreto Foral 154/1993, de 10 de mayo, por el que se regula la implantación territorial y urbanística de las instalaciones comerciales de gran superficie y el Decreto Foral 378/2000, de 18 de diciembre, por el que se regulan los horarios comerciales.
