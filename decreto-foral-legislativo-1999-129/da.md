@@ -1,0 +1,2 @@
+Disposición adicional.
+Las referencias contenidas en la presente Norma a importes monetarios expresados en pesetas se entenderán también realizadas al correspondiente importe monetario expresado en euros que se obtenga con arreglo al tipo de conversión y, en su caso, redondeado con arreglo a lo dispuesto en el artículo 11 de la Ley 46/1998, de 17 de diciembre, sobre introducción del euro, teniendo unas y otras la misma validez y eficacia.

@@ -1,0 +1,4 @@
+La disposición adicional segunda de la Ley Foral 14/1999, de 6 de abril, de modificaciones fiscales, autoriza al Gobierno de Navarra, al amparo de lo dispuesto en el artículo 21 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, para que, antes del 31 de diciembre de 1999, refunda las disposiciones actualmente vigentes referidas al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+A fin de dar efectividad a dicha autorización se ha elaborado el presente Texto Refundido, por el que se recogen todas las normas de rango legal que actualmente regulan el Impuesto en Navarra, las cuales aparecían dispersas en diversos textos normativos.
+En su virtud, a propuesta del Consejero de Economía y Hacienda y de conformidad con el acuerdo adoptado por el Gobierno de Navarra en sesión celebrada el día veintiséis de abril de mil novecientos noventa y nueve,
+DECRETO:
