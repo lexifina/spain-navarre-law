@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Las quejas que tengan su origen en un acto administrativo dictado con anterioridad a un año de la toma de posesión del Defensor del Pueblo de la Comunidad Foral de Navarra o, en caso de silencio administrativo, cuando el plazo hubiese vencido con anterioridad a un año de su toma de posesión, serán desatendidas, sin perjuicio de que el Defensor del Pueblo de la Comunidad Foral de Navarra pueda iniciar de oficio una investigación por entender que la causa de la queja se debe a un mal funcionamiento general de la Administración.
