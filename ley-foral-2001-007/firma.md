@@ -1,2 +1,4 @@
 Yo, en cumplimiento de lo dispuesto en el artículo 22 de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, promulgo, en nombre de S. M. el Rey, esta Ley Foral, ordeno su inmediata publicación en el «Boletín Oficial de Navarra» y su remisión al «Boletín Oficial del Estado» y mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 Pamplona, 27 de marzo de 2001.–Presidente, Miguel Sanz Sesma.
+Información relacionada
+Téngase en cuenta que, con efectos de 1 de julio de 2004, las referencias efectuadas al salario mínimo interprofesional se entenderán hechas al indicador público de renta de efectos múltiples (IPREM) creado por el Real Decreto-ley 3/2004, de 25 de junio, según establece la disposición adicional 4 de la Ley Foral 19/2004, de 29 de diciembre. Ref. BOE-A-2005-1581
