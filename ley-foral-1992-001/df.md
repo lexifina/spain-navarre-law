@@ -1,0 +1,2 @@
+Disposición final.
+Esta Ley Foral entrará en vigor el mismo día de su publicación en el «Boletín oficial de Navarra».
