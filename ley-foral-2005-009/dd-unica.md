@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogados los artículos 20 y 21 de la Ley Foral 7/1998, de 1 de junio, por la que se regula el transporte público urbano por carretera, las Normas reguladoras de los servicios discrecionales de transporte de clase VT (taxis) aprobadas por Acuerdo de la Diputación Foral de Navarra de 6 de junio de 1979 y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley Foral.
