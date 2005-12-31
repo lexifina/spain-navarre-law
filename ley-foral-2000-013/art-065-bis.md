@@ -1,0 +1,7 @@
+Artículo 65 bis. Control de las obligaciones materiales y formales de los obligados tributarios y de los censos y registros.
+Sin perjuicio de lo establecido en el artículo 118 de esta Ley Foral, para garantizar el correcto cumplimiento de las obligaciones materiales y formales por parte de los obligados tributarios, así como para asegurar que las declaraciones de alta, de modificación y de baja en los censos y registros establecidos en la normativa tributaria cumplen apropiadamente su cometido en la gestión de los tributos, la Administración tributaria podrá adoptar las siguientes medidas:
+a) Exigencia de adecuada garantía para acceder a los citados censos y registros. Dicha garantía podrá consistir en fianza personal solidaria, hipoteca, prenda, aval solidario de entidad de crédito o de sociedad de garantía recíproca o certificado de seguro de caución.
+b) Rectificar de oficio los datos censales y registrales en el caso de que se compruebe que no son verdaderos o exactos.
+Las medidas señaladas habrán de ser notificadas a los obligados tributarios con expresión de los motivos que hayan fundamentado su adopción, y serán levantadas cuando desaparezcan los motivos que las ocasionaron.
+Reglamentariamente se desarrollará el procedimiento para su adopción y para su levantamiento.
+Se añade, con efectos de 1 de enero de 2006, por el art. 6.1 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846.

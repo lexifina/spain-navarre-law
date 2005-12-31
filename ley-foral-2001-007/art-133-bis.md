@@ -65,9 +65,10 @@ Urbana SIUN 1:1.000 (Papel/Color) | 12,00
 6. Litovales escala media 1:5.000 | 3,00
 7. Mapa Geológico de Navarra 1:25.000 | 20,00
 8. Mapa Geomorfológico de Navarra 1:25.000 | 20,00
-9. Mapa de Lugares de Importancia Comunitaria 1:200.000 | 20,00
-10. Mapa de Vías Pecuarias de Navarra 1:200.000 | 20,00
-11. Mapa de Espacios Naturales Protegidos 1:200.000 | 20,00
+9. Mapa de usos del suelo. | 20,00
+10. Mapa de Lugares de Importancia Comunitaria 1:200.000 | 20,00
+11. Mapa de Vías Pecuarias de Navarra 1:200.000 | 20,00
+12. Mapa de Espacios Naturales Protegidos 1:200.000 | 20,00
 3) Cartografía digital: | 
 1. Cartografía Topográfica 1:500 (dgn, dwg, dxf) | 18,00
 2. Mapas Topográficos de Navarra: | 
@@ -89,6 +90,7 @@ Urbana SIUN 1:1.000 (Papel/Color) | 12,00
 4. Modelo Digital del Terreno malla 40 o 200 mts (por hoja 1:5.000) | 30,00
 5. Memoria de una hoja Mapa Geológico de Navarra 1:25.000 (Word). | 10,00
 6. CD Mapa Geotécnico de Pamplona 1:25.000 y Memoria (PDF) | 10,00
+7. Fotogramas escaneados a 20 micras (tiff) | 30,00
 4) Fotografías en blanco y negro:
 Denominación | Papel – Euros | Película – Euros
 Fotograma (24 × 24) | 2,40 | 
@@ -126,6 +128,7 @@ A partir de 10 unidades | 5%
 A partir de 20 unidades | 10%
 A partir de 50 unidades | 15%
 A partir de 100 unidades | 20%
+Se modifica el apartado 4, con efectos de 1 de enero de 2006, por el art. 7.11 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846
 Se modifica el apartado 4, con efectos de 1 de enero de 2005, por el art. 7.16 de la Ley Foral 19/2004, de 29 de diciembre. Ref. BOE-A-2005-1581
 Se modifican los apartados 2 y 3, con efectos de 1 de enero de 2004, por el art. 7.15 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077
 Se modifican, con efectos de 1 de enero de 2003, los apartados 4 y 5 por el art. 8.5 de la Ley Foral 16/2003, de 17 de marzo. Ref. BOE-A-2003-8524
