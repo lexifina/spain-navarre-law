@@ -1,0 +1,10 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral del Consejo Económico y Social de Navarra.
+EXPOSICIÓN DE MOTIVOS
+El Consejo Económico y Social de Navarra fue creado mediante la Ley Foral 8/1995, de 4 de abril, como órgano consultivo de la Administración de la Comunidad Foral en materia socioeconómica y laboral.
+El período de tiempo transcurrido desde su creación ha puesto de manifiesto la conveniencia de proceder a una nueva regulación legal, con el objetivo básico de dotarlo de una mayor flexibilidad en su funcionamiento, que redunde en una más eficaz actuación del mismo.
+Esta Ley Foral mantiene en sus aspectos esenciales la anterior regulación del Consejo, de tal modo que no se varía la composición de sus integrantes, que engloba representantes de la Administración y de diversas organizaciones caracterizadas por su representatividad, si bien cabe destacar ciertas novedades, como son la creación de las Comisiones de Trabajo, constituidas como grupos de trabajo para la elaboración de informes, proyectos o propuestas, así como la institucionalización de la Vicepresidencia del Consejo y de la Secretaría General.
+Ha de señalarse que la Ley Foral ha adaptado su contenido a la Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra que, en sus artículos 28 a 34, regula los órganos de carácter colegiado.
+La Ley Foral se estructura en 3 capítulos, con 16 artículos, dos Disposiciones Transitorias, una Derogatoria y tres Finales.
+El Capítulo I, artículos 1 a 4, regula la naturaleza y composición del Consejo. El Capítulo II, artículos 5 a 15, dedica su contenido a establecer los distintos órganos del Consejo. El Capítulo III, artículo 16, recoge el régimen económico financiero del Consejo.
+Durante el proceso de elaboración de este texto legal los actuales integrantes del Consejo Económico y Social han tenido conocimiento de su contenido y han procedido a efectuar determinadas sugerencias que, en buena medida, han sido incorporadas a la Ley Foral.
