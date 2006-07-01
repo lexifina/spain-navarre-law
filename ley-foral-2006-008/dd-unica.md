@@ -1,0 +1,2 @@
+Disposición derogatoria única. Régimen de derogaciones.
+Quedan derogados el Capítulo III (artículos 19 y 20) y el Capítulo V (artículos 23, 24 y 25) del Título II del Texto Refundido de la Ley Foral de Cuerpos de Policía de Navarra, aprobado por Decreto Foral Legislativo 213/2002, de 14 de octubre, y todas aquellas normas de igual o inferior rango que se opongan a lo establecido en la presente Ley Foral.
