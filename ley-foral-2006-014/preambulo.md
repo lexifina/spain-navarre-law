@@ -1,0 +1,23 @@
+EL PRESIDENTE DEL GOBIERNO DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Cooperativas de Navarra.
+EXPOSICIÓN DE MOTIVOS
+La Ley Foral 12/1996, de 2 de julio, de Cooperativas de Navarra ha demostrado ser, durante su vigencia, un instrumento eficaz para la defensa del movimiento cooperativo en nuestra Comunidad Foral ante los retos a los que se ha visto sometido tras nuestra incorporación a Europa, propiciando los mecanismos jurídico-económicos necesarios a tal finalidad.
+Efectivamente, el mencionado texto legal, referente en muchos aspectos para la regulación jurídica de las sociedades cooperativas de otras Comunidades Autónomas, especialmente en lo que respecta a las cooperativas agrarias, ha satisfecho en gran medida las expectativas que en el momento de su promulgación generó.
+No obstante lo cual, transcurridos diez años desde la fecha de su publicación, se hace necesaria su actualización atendiendo a las peticiones formuladas desde los distintos sectores del cooperativismo navarro, en especial desde el agrario para dar respuesta al plan de reestructuración de sus cooperativas, por lo que esta Ley Foral regula las siguientes novedades respecto a la anterior Ley Foral de Cooperativas de Navarra, ya mencionada, que, sucintamente expuestas, son:
+Se reducen de cinco a tres el número mínimo de socios para constituir cooperativas de trabajo asociado, facilitando de esa manera su constitución y la creación de puestos de trabajo en las empresas de economía social.
+Se amplían los supuestos para adquirir la condición de socio colaborador.
+Igualmente se amplía del 25 al 50 por 100 del valor de adquisición del inmovilizado el límite para atribuir a la Asamblea General la determinación de la política de inversiones a realizar en dichas entidades, reduciéndolo en el mismo tanto por 100 respecto a las facultades atribuidas al Consejo Rector de las mismas.
+Se permite el nombramiento como consejeros de personas cualificadas que no ostenten la condición de socio, siempre que no excedan de un tercio del total de los mismos.
+Se establecen nuevos preceptos al objeto de adecuar a las necesidades actuales las cooperativas de segundo grado en cuanto a su régimen de capital social, fondos y demás aspectos económicos que les son de aplicación.
+Se fomentan nuevas vías de financiación para los procesos de reconversión, integración y relanzamiento de cooperativas, dentro del proceso de reestructuración del sector de las cooperativas agrarias, con cargo a los fondos de las mismas.
+Se fortalece la posición de la cooperativa respecto sus socios en el supuesto de la existencia de pérdidas dentro de un ejercicio económico determinado.
+Se regula la figura de la transformación de cooperativas en sociedades civiles o mercantiles, así como a la inversa, la transformación de sociedades y agrupaciones de carácter no cooperativo en sociedades cooperativas.
+Se matiza el objeto social de las distintas subclases de las cooperativas agrarias.
+Se amplía, para las cooperativas agrarias, de cinco a diez votos la ponderación del voto del socio en la asamblea general, sin que la misma pueda ser inferior a tres votos.
+Se permite la existencia de un Consejo Social para aquellas cooperativas de trabajo asociado que cuenten con más de 50 socios trabajadores.
+Se regula el voto ponderado en las cooperativas de servicios.
+Se instaura la figura de las cooperativas de iniciativa social, incorporando lo establecido respecto a las mismas por la Ley Foral 5/2006, de 11 de abril, de modificación de la Ley Foral 12/1996, de 2 de julio, de Cooperativas de Navarra, para la adición de la regulación de las cooperativas de iniciativa social.
+Se regulan las figuras jurídicas del Grupo Cooperativo, de la Cooperativa Mixta y de la Cooperativa Integral.
+Finalmente, se acomoda a la Ley 27/1999, de 16 de julio, de Cooperativas, en cuanto a su ámbito de aplicación, clarificándolo de tal forma que esta Ley Foral será aplicable a todas las sociedades cooperativas con domicilio en la Comunidad Foral de Navarra que desarrollen con carácter principal su actividad cooperativizada en la misma.
+La presente Ley Foral se dicta en ejercicio de la competencia exclusiva que el artículo 44.27 de la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra atribuye a la Comunidad Foral en materia de «Cooperativas, Mutualidades no integradas en la Seguridad Social y Pósitos, conforme a la legislación general en la materia».
+La Ley Foral se estructura en 88 artículos distribuidos en tres títulos, cuatro disposiciones adicionales, una transitoria, una derogatoria y cuatro finales.
