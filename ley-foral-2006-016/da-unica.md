@@ -1,0 +1,2 @@
+Disposición adicional única. Géneros o efectos estancados.
+La producción, distribución y expedición de los cartones del juego del bingo, impresos, billetes, boletos o papeletas de juegos autorizados por la Administración de la Comunidad Foral de Navarra, salvo que reglamentariamente se disponga otra cosa, corresponderá a ésta en régimen de monopolio y tendrán la naturaleza de género o efectos estancados, a los efectos previstos en la legislación de contrabando.
