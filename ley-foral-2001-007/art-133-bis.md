@@ -53,7 +53,7 @@ Urbana SIUN 1:1.000 (Papel/Color) | 12,00
 1:10.000 (Papel/Color) | 12,00
 3. Ortofotografías: | 
 1:2.000 (Papel/B&N) | 7,20
-1:2.000 (Poliéster/B&N) | 6,00
+1:2.000 (Poliéster/B&N) | 30,00
 4. Ortofotomapas de Navarra: | 
 1:5.000 (Papel Fotográfico) | 12,00
 1:5.000 (Papel Normal) | 9,00
@@ -69,51 +69,54 @@ Urbana SIUN 1:1.000 (Papel/Color) | 12,00
 10. Mapa de Lugares de Importancia Comunitaria 1:200.000 | 20,00
 11. Mapa de Vías Pecuarias de Navarra 1:200.000 | 20,00
 12. Mapa de Espacios Naturales Protegidos 1:200.000 | 20,00
+13. Mapas de Lugares de Importancia Comunitaria y Espacios Naturales Protegidos a distintas escalas (según tamaño del LIC o ENP) | 12,00
 3) Cartografía digital: | 
-1. Cartografía Topográfica 1:500 (dgn, dwg, dxf) | 18,00
+A) Importes: | 
+1. Memoria de una hoja Mapa Geológico de Navarra 1:25.000 (Word) | 10,00
+2. CD Mapa Geotécnico de Pamplona 1: 25.000 y Memoria (PDF) | 10,00
+3. CD conteniendo información de los productos de la letra B) hasta un máximo de 550 megabytes | 10,00
+4. DVD conteniendo información de los productos de la letra B) hasta un máximo de 3.550 megabytes | 60,00
+B) Productos: | 
+1. Cartografía Topográfica 1:500 (dgn, dwg, dxf y pdf). | 
 2. Mapas Topográficos de Navarra: | 
-1:5.000 (dgn, dwg, dxf) | 18,00
-1:10.000 (dgn, dwg, dxf) | 18,00
-1:100.000 Hoja (dgn, dwg, dxf) | 150,00
-1:100.000 completo (dgn) | 250,00
-1:200.000 (dgn, dwg, dxf) | 150,00
-1:400.000 (dgn, dwg, dxf) | 90,00
+1:5.000 (dgn, dwg, dxf y pdf) | 
+1:10.000 (dgn, dwg, dxf y pdf) | 
+1:100.000 Hoja (pdf) | 
+1:100.000 completo (pdf) | 
+1:200.000 (pdf) | 
+1:400.000 (pdf) | 
+1:850.000 (pdf) | 
 3. Ortofotografías: | 
-1:2.000 (tiff, jpeg) | 30,00
-1:5.000 (tiff, jpeg) | 30,00
-1:10.000 (tiff, jpeg) | 30,00
-1:25.000 (tiff, jpeg) | 30,00
-1:2.000 (ecw) | 30,00
-1:5.000 (ecw) | 30,00
-1:10.000 (ecw) | 30,00
-1:25.000 (ecw) | 30,00
-4. Modelo Digital del Terreno malla 40 o 200 mts (por hoja 1:5.000) | 30,00
-5. Memoria de una hoja Mapa Geológico de Navarra 1:25.000 (Word). | 10,00
-6. CD Mapa Geotécnico de Pamplona 1:25.000 y Memoria (PDF) | 10,00
-7. Fotogramas escaneados a 20 micras (tiff) | 30,00
+1:2.000 (tiff, jpeg, ecw) | 
+1:5.000 (tiff, jpeg, ecw) | 
+1:10.000 (tiff, jpeg, ecw) | 
+1:25.000 (tiff, jpeg, ecw) | 
+4. Modelo Digital del Terreno malla 40 o 200 mts (por hoja 1:5.000) | 
 4) Fotografías en blanco y negro:
-Denominación | Papel – Euros | Película – Euros
-Fotograma (24 × 24) | 2,40 | 
-Diapositiva (24 × 24) |  | 9,00
-Ampliación (50 × 50) | 18,00 | 30,00
-Ampliación (50 × 60) | 21,00 | 33,00
-Ampliación (70 × 70) | 27,00 | 51,00
-Ampliación (70 × 80) | 33,00 | 54,00
-Ampliación (80 × 90) | 45,00 | 75,00
-Ampliación (100 × 100) | 51,00 | 81,00
+Denominación | Papel – (euros) | Película – (euros)
+Fotograma (24 × 24) | 3,00 | 
+Diapositiva (24 × 24) |  | 10,00
+Ampliación (50 × 50) | 21,00 | 33,00
+Ampliación (50 × 60) | 24,00 | 36,00
+Ampliación (70 × 70) | 30,00 | 55,00
+Ampliación (70 × 80) | 36,00 | 60,00
+Ampliación (80 × 90) | 50,00 | 80,00
+Ampliación (100 × 100) | 55,00 | 85,00
 5) Fotografías en color:
-Denominación | Papel – Euros | Película – Euros
-Fotograma (24 × 24) | 7,40 | 
-Diapositiva (24 × 24) |  | 13,90
-Ampliación (50 × 50) | 33,00 | 55,80
-Ampliación (50 × 60) | 33,00 | 55,80
-Ampliación (70 × 70) | 55,70 | 80,20
-Ampliación (70 × 80) | 55,70 | 80,20
-Ampliación (80 × 90) | 68,30 | 101,00
-Ampliación (100 × 100) | 78,00 | 118,50
+Denominación | Papel – (euros) | Película – (euros)
+Fotograma (24 × 24) | 9,00* | 
+Diapositiva (24 × 24) |  | 15,00*
+Ampliación (50 × 50) | 36,00* | 60,00*
+Ampliación (50 × 60) | 36,00* | 60,00*
+Ampliación (70 × 70) | 60,00* | 85,00*
+Ampliación (70 × 80) | 60,00* | 85,00*
+Ampliación (80 × 90) | 72,00* | 110,00*
+Ampliación (100 × 100) | 85,00* | 130,00*
+* El precio se verá incrementado en 12 euros por petición realizada (independientemente del número de ejemplares o de que sean de distintos fotogramas).
 6) Otros productos:
-Denominación | Tasa – Euros
-Catálogo de Cartografía | 9,00
+Denominación | Tasa – (euros)
+1. Catálogo de Cartografía | 9,00
+2. Atlas de Navarra (Carreteras, Turismo y Medio Ambiente) | 12,00
 5. Reducciones.
 a) Las Sociedades públicas y Organismos, dependientes de las Administraciones Públicas de la Comunidad Foral de Navarra y de las Entidades Locales de Navarra, las Universidades y centros de enseñanza gozarán de una reducción del 25 por 100 de las tarifas del apartado anterior.
 b) En relación con las tarifas 4) y 5) del apartado anterior, para los pedidos superiores a 10 unidades, tanto en color como en blanco y negro, se establecen, con carácter general, las siguientes reducciones:
@@ -128,6 +131,7 @@ A partir de 10 unidades | 5%
 A partir de 20 unidades | 10%
 A partir de 50 unidades | 15%
 A partir de 100 unidades | 20%
+Se modifica, con efectos de 1 de enero de 2007, por el art. 6.11 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
 Se modifica el apartado 4, con efectos de 1 de enero de 2006, por el art. 7.11 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846
 Se modifica el apartado 4, con efectos de 1 de enero de 2005, por el art. 7.16 de la Ley Foral 19/2004, de 29 de diciembre. Ref. BOE-A-2005-1581
 Se modifican los apartados 2 y 3, con efectos de 1 de enero de 2004, por el art. 7.15 de la Ley Foral 35/2003, de 30 de diciembre. Ref. BOE-A-2004-1077

@@ -1,0 +1,3 @@
+Artículo 10 bis.
+En las transmisiones realizadas mediante subasta judicial, y en el caso de que el postor a quien se hubiere adjudicado el remate hubiese hecho uso, en el acto de la subasta, del derecho a cederlo en las condiciones establecidas en la normativa reguladora de la misma, se estimará y liquidará una sola transmisión a favor del cesionario. En el caso de que la declaración de haber sido hecha la postura para ceder se formulare después de celebrada la subasta, se estimará la existencia de dos transmisiones: una, al adjudicatario del remate, y otra, al cesionario de éste, liquidándose ambas por separado.
+Se añade por el art. 4.6 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208.
