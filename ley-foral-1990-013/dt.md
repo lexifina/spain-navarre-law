@@ -1,2 +1,3 @@
 Disposición transitoria.
-Se autoriza al Gobierno de Navarra para actualizar, modificar y condonar los débitos que por repoblaciones forestales pasadas hayan adquirido las Entidades Locales con el Gobierno de Navarra, adaptándolos a lo dispuesto en el título IV de esta Ley Foral.
+(Derogada).
+Se deroga por la disposición derogatoria única.1 de Ley Foral 3/2007, de 21 de febrero. Ref. BOE-A-2007-6242
