@@ -1,6 +1,11 @@
 CAPÍTULO IX
 Tasa por ocupación temporal de Vías Pecuarias
 Se añade, con efectos de 1 de enero de 2007, por el art. 6.3 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
+CAPÍTULO V
+Tasa por ocupación temporal de Vías Pecuarias
+Se renumera, con efectos de 1 de enero de 2008, por el art. 6.1.9 de la Ley Foral 2/2008, de 24 de enero. Ref. BOE-A-2008-3585
+Su anterior numeración era Capítulo IX del Título VII.
+Se añade, con efectos de 1 de enero de 2007, por el art. 6.3 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
 Artículo 95 bis.
 1. Hecho imponible.
 Constituye el hecho imponible de la tasa la ocupación temporal por infraestructuras o instalaciones desmontables sobre las vías pecuarias, que serán autorizables siempre que no alteren el tránsito ganadero ni impidan los demás usos compatibles o complementarios con aquel.

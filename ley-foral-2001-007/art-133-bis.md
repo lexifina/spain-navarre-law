@@ -32,6 +32,7 @@ La tasa se exigirá de acuerdo con las siguientes tarifas:
 7. Ortofotomapas: | 
 De Navarra 1:25.000 (Mural/Plegado) | 2,40
 De la Comarca de Pamplona 1:12.500 (Mural) | 6,00
+8. Mapa de Cultivos y Aprovechamientos de Navarra 1:200.000 (Mural/Plegado) | 9,00
 2) Cartografía ploteada: | 
 1. Cartografías Topográficas: | 
 1:500 (100 Pueblos de 1978) (Papel/B&N) | 9,00
@@ -63,19 +64,19 @@ Urbana SIUN 1:1.000 (Papel/Color) | 12,00
 1:1.000 (Papel Normal) | 9,00
 1:1.000 (Papel Fotográfico) | 12,00
 6. Litovales escala media 1:5.000 | 3,00
-7. Mapa Geológico de Navarra 1:25.000 | 20,00
-8. Mapa Geomorfológico de Navarra 1:25.000 | 20,00
-9. Mapa de usos del suelo. | 20,00
-10. Mapa de Lugares de Importancia Comunitaria 1:200.000 | 20,00
-11. Mapa de Vías Pecuarias de Navarra 1:200.000 | 20,00
-12. Mapa de Espacios Naturales Protegidos 1:200.000 | 20,00
+7. Mapa Geológico de Navarra 1:25.000 | 12,00
+8. Mapa Geomorfológico de Navarra 1:25.000 | 12,00
+9. Mapa de usos del suelo 1:200.000 (Papel Normal) | 20,00
+10. Mapa de Lugares de Importancia Comunitaria 1:200.000 (Papel Normal) | 20,00
+11. Mapa de Vías Pecuarias de Navarra 1:200.000 (Papel Normal) | 20,00
+12. Mapa de Espacios Naturales Protegidos 1:200.000 (Papel Normal) | 20,00
 13. Mapas de Lugares de Importancia Comunitaria y Espacios Naturales Protegidos a distintas escalas (según tamaño del LIC o ENP) | 12,00
+14. Mapa de usos del suelo de Navarra 1:25.000 (Papel Normal) | 12,00
 3) Cartografía digital: | 
 A) Importes: | 
-1. Memoria de una hoja Mapa Geológico de Navarra 1:25.000 (Word) | 10,00
-2. CD Mapa Geotécnico de Pamplona 1: 25.000 y Memoria (PDF) | 10,00
-3. CD conteniendo información de los productos de la letra B) hasta un máximo de 550 megabytes | 10,00
-4. DVD conteniendo información de los productos de la letra B) hasta un máximo de 3.550 megabytes | 60,00
+1. CD Mapa Geotécnico de Pamplona 1:25.000 y Memoria (PDF) | 10,00
+2. CD conteniendo información de los productos de la letra B) hasta un máximo de 550 megabytes. | 10,00
+3. DVD conteniendo información de los productos de la letra B) hasta un máximo de 3.550 megabytes. | 60,00
 B) Productos: | 
 1. Cartografía Topográfica 1:500 (dgn, dwg, dxf y pdf). | 
 2. Mapas Topográficos de Navarra: | 
@@ -92,6 +93,8 @@ B) Productos: |
 1:10.000 (tiff, jpeg, ecw) | 
 1:25.000 (tiff, jpeg, ecw) | 
 4. Modelo Digital del Terreno malla 40 o 200 mts (por hoja 1:5.000) | 
+5. Mapa Geológico de Navarra 1:25.000 (pdf) | 
+6. Memoria de una hoja Mapa Geológico de Navarra 1:25.000 (pdf) | 
 4) Fotografías en blanco y negro:
 Denominación | Papel – (euros) | Película – (euros)
 Fotograma (24 × 24) | 3,00 | 
@@ -116,7 +119,7 @@ Ampliación (100 × 100) | 85,00* | 130,00*
 6) Otros productos:
 Denominación | Tasa – (euros)
 1. Catálogo de Cartografía | 9,00
-2. Atlas de Navarra (Carreteras, Turismo y Medio Ambiente) | 12,00
+2. Atlas de Navarra (Carreteras, Turismo y Medio Ambiente) | 12,00»
 5. Reducciones.
 a) Las Sociedades públicas y Organismos, dependientes de las Administraciones Públicas de la Comunidad Foral de Navarra y de las Entidades Locales de Navarra, las Universidades y centros de enseñanza gozarán de una reducción del 25 por 100 de las tarifas del apartado anterior.
 b) En relación con las tarifas 4) y 5) del apartado anterior, para los pedidos superiores a 10 unidades, tanto en color como en blanco y negro, se establecen, con carácter general, las siguientes reducciones:
@@ -131,6 +134,7 @@ A partir de 10 unidades | 5%
 A partir de 20 unidades | 10%
 A partir de 50 unidades | 15%
 A partir de 100 unidades | 20%
+Se modifica, con efectos de 1 de enero de 2008, por el art. 6.1.16 de la Ley Foral 2/2008, de 24 de enero. Ref. BOE-A-2008-3585
 Se modifica, con efectos de 1 de enero de 2007, por el art. 6.11 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
 Se modifica el apartado 4, con efectos de 1 de enero de 2006, por el art. 7.11 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846
 Se modifica el apartado 4, con efectos de 1 de enero de 2005, por el art. 7.16 de la Ley Foral 19/2004, de 29 de diciembre. Ref. BOE-A-2005-1581

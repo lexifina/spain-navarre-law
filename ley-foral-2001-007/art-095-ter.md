@@ -1,8 +1,10 @@
 CAPÍTULO X
 Tasa de expedición de material de información ambiental específica
 Se añade, con efectos de 1 de enero de 2007, por el art. 6.4 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
-CAPÍTULO X
+CAPÍTULO VI
 Tasa de expedición de material de información ambiental específica
+Se renumera, con efectos de 1 de enero de 2008, por el art. 6.1.9 de la Ley Foral 2/2008, de 24 de enero. Ref. BOE-A-2008-3585
+Su anterior numeración era Capítulo X del Título VII.
 Se añade, con efectos de 1 de enero de 2007, por el art. 6.4 de la Ley Foral 18/2006, de 27 de diciembre. Ref. BOE-A-2007-2208
 Artículo 95 ter.
 1. Hecho imponible.
