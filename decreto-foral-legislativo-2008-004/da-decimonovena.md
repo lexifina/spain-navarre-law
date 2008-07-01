@@ -1,0 +1,2 @@
+Disposición adicional decimonovena. Retenciones o ingresos a cuenta en la distribución de la prima de emisión o en la reducción de capital con devolución de aportaciones.
+Con efectos desde 1 de enero de 2001, no estará sujeto a retención o ingreso a cuenta del Impuesto sobre la Renta de las Personas Físicas el rendimiento derivado de la distribución de la prima de emisión de acciones o participaciones, o de la reducción de capital con devolución de aportaciones. Reglamentariamente podrá establecerse la obligación de practicar retención o ingreso a cuenta en estos supuestos.

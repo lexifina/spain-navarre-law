@@ -1,0 +1,2 @@
+Disposición adicional vigesimotercera. Movilización de los derechos económicos entre los distintos sistemas de previsión social.
+En defecto de regulación propia, será de aplicación en la Comunidad Foral la normativa vigente en territorio de régimen común relativa a las consecuencias tributarias de las movilizaciones de los derechos económicos entre los distintos sistemas de previsión social, atendiendo a la homogeneidad de su tratamiento fiscal y a las características jurídicas, técnicas y financieras de aquéllos.

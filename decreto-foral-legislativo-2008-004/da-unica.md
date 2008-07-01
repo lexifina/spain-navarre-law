@@ -1,0 +1,4 @@
+Disposición adicional única. Remisiones normativas.
+1. Las referencias efectuadas por la Ley Foral 24/1996, de 30 de diciembre, del Impuesto sobre Sociedades, y por el Capítulo VI del Título VII de la Ley Foral 3/1988, de 12 de mayo, de Presupuestos Generales de Navarra para el ejercicio de 1988, a la Ley Foral 6/1992, de 14 de mayo, del Impuesto sobre la Renta de las Personas Físicas, se entenderán hechas a los preceptos correspondientes del Texto Refundido que se aprueba por este Decreto Foral Legislativo.
+2. Las referencias normativas efectuadas en cualquier disposición a la Ley Foral 22/1998, de 30 de diciembre, del Impuesto sobre la Renta de las Personas Físicas, se entenderán realizadas a los preceptos correspondientes del Texto Refundido que se aprueba por este Decreto Foral Legislativo.
+Redactado conforme a la corrección de errores publicada en BON núm. 91, de 25 de julio de 2008. Ref. BON-n-2008-90263
