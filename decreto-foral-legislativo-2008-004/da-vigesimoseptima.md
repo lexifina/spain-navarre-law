@@ -1,3 +1,3 @@
 Disposición adicional vigesimoséptima. Retenciones e ingresos a cuenta.
-1. En el caso de los rendimientos contemplados en las letras a) y b) del artículo 28 de esta Ley Foral, la base de la retención estará constituida por la contraprestación íntegra, sin que se tenga en consideración, a estos efectos, la exención prevista en la letra v) del artículo 7 de esta Ley Foral.
-2. En el caso de las transmisiones y de los reembolsos de acciones y de participaciones en instituciones de inversión colectiva no se aplicará retención cuando, de conformidad con lo previsto en el artículo 52.1.a) de esta Ley Foral, no proceda computar el incremento de patrimonio.
+(Derogada).
+Se deroga, con efectos a partir de 1 de enero de 2010, por el art. 1.5 de la Ley Foral 17/2009, de 23 de diciembre. Ref. BOE-A-2010-2630
