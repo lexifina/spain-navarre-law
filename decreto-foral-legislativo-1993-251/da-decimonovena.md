@@ -1,0 +1,6 @@
+Disposición adicional decimonovena.
+1. La toma de posesión como personal funcionario o la firma del contrato como personal laboral fijo quedará aplazada en el caso de aspirantes que se encuentren dentro del periodo establecido para la licencia por maternidad o adopción.
+2. El cómputo del plazo de toma de posesión o de firma del contrato se iniciará una vez transcurrido el tiempo correspondiente a la licencia por maternidad o adopción, o con anterioridad si la persona interesada así lo solicita, respetando en todo caso el periodo de descanso obligatorio posterior al parto fijado para la madre.
+3. En estos casos, se reconocerá como servicios prestados en la Administración respectiva el periodo de aplazamiento de la toma de posesión o de la suscripción del contrato. Este reconocimiento estará supeditado a la toma de posesión como personal funcionario o a la suscripción del contrato como personal laboral fijo y producirá efectos a partir de la fecha en que los mismos se produzcan.
+4. Lo establecido en los apartados anteriores será tenido en cuenta en los llamamientos para la contratación temporal, con las adaptaciones derivadas de la naturaleza específica de dicha contratación.
+Se añade por la disposición adiconal 1.3 de la Ley Foral 22/2010, de 28 de diciembre. Ref. BOE-A-2011-3430
