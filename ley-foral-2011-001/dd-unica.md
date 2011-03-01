@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango en cuanto se opongan a lo dispuesto en esta Ley Foral y, en particular, el Decreto Foral 6/2008, de 19 de enero, publicado el 9 de febrero de 2009, en el Boletín Oficial de Navarra, número 17, por el que se regulan los procedimientos de valoración y reconocimiento de la situación de dependencia y de elaboración del Programa Individual de Atención de las personas en situación de dependencia.
