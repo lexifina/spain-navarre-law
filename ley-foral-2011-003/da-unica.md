@@ -1,0 +1,2 @@
+Disposición adicional única.
+En todos los casos en que esta Ley Foral utiliza sustantivos de género gramatical masculino para referirse a diversos sujetos (padres, hijos, abuelos, etc.) debe entenderse que se hace por mera economía expresiva y que se refiere de forma genérica a dichas posiciones incluyendo tanto el caso de que las ocupen mujeres como que las ocupen hombres con estricta igualdad en sus efectos jurídicos.
