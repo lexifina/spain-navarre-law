@@ -1,0 +1,2 @@
+Disposición transitoria única. Consulta al Registro de Voluntades Anticipadas.
+Hasta tanto el contenido de la Declaración de Voluntades Anticipadas se incorpore a la historia clínica, conforme a lo previsto en el artículo 9.2 de la presente Ley Foral, los profesionales sanitarios responsables de los pacientes que se encuentren en el proceso de la muerte estarán obligados a consultar el Registro de Voluntades Anticipadas.
