@@ -1,0 +1,3 @@
+Disposición transitoria decimocuarta. Imputación de cobros procedentes de la Administración de la Comunidad Foral de Navarra obtenidos en el primer trimestre de 2012.
+A los efectos de la aplicación del criterio de cobros y pagos establecido en el artículo 6.2 del Reglamento del Impuesto, determinados cobros procedentes de la Administración de la Comunidad Foral de Navarra obtenidos en el primer trimestre de 2012 podrán imputarse al periodo impositivo del año 2011, en las condiciones, con los requisitos y para las actividades empresariales que determine el Consejero de Economía y Hacienda.
+Se añade, con efectos desde el 1 de enero de 2011, por el art. 1.22 de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
