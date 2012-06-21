@@ -1,0 +1,7 @@
+Disposición adicional decimocuarta. Declaraciones, declaraciones-liquidaciones o autoliquidaciones presentadas fuera de plazo sin requerimiento previo.
+1. Los recargos derivados de la aplicación de lo establecido en el artículo 52.3 de esta Ley Foral, en el caso de que las declaraciones, declaraciones-liquidaciones o autoliquidaciones extemporáneas se presenten entre el día de la entrada en vigor de la Ley Foral aprobada por el Parlamento de Navarra el día 14 de junio de 2012, por la que se introducen diversas medidas tributarias dirigidas a incrementar los ingresos públicos, y el 31 de diciembre de 2012, tendrán una reducción del 90 por 100.
+Los intereses de demora que se devenguen en las mismas circunstancias y condiciones que las establecidas en el párrafo anterior tendrán una reducción del 20 por 100.
+2. Las reducciones señaladas en el apartado anterior serán aplicables a las declaraciones, declaraciones-liquidaciones o autoliquidaciones extemporáneas cuyo plazo de presentación hubiera finalizado con anterioridad al día 1 de abril de 2012.
+3. Los recargos e intereses de demora que, en aplicación de los apartados anteriores, pudieran devengarse como consecuencia del comienzo del periodo ejecutivo no serán objeto de ninguna reducción.
+4. En todo lo demás se estará a lo dispuesto en el citado artículo 52.3.
+Se añade por el art. 2.3 de la Ley Foral 10/2012, de 15 de junio. Ref. BOE-A-2012-8784.
