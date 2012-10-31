@@ -1,0 +1,6 @@
+Disposición adicional.
+1. No podrán ser objeto de los conciertos regulados en el artículo 1 de esta Ley Foral los centros educativos que únicamente admitan a alumnos de un solo sexo, o que impartan las enseñanzas en grupos separados por razón de sexo, o que de cualquier otro modo no apliquen el principio de coeducación.
+2. Tampoco podrán ser objeto de concierto por parte de la Administración de la Comunidad Foral los centros de educación infantil, primaria o secundaria obligatoria que únicamente admitan a alumnos de un solo sexo, o que impartan las enseñanzas en grupos separados por razón de sexo, o que de cualquier otro modo no apliquen el principio de coeducación.
+3. No obstante lo anterior, los conciertos a los que se refieren los apartados precedentes podrán ser prorrogados por acuerdo motivado del Gobierno de Navarra, a los solos efectos de garantizar la continuidad del alumnado actualmente matriculado en estos centros hasta la finalización de las etapas educativas obligatorias que estén cursando.
+4. Serán nulos de pleno derecho todos los actos que se dicten en infracción de lo dispuesto en esta disposición.
+Se añade por el art. único de la Ley Foral 17/2012, de 19 de octubre. Ref. BOE-A-2012-14018.
