@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Ley Foral, y en particular la Ley Foral 20/2010, de 13 de diciembre, con las salvedades a las que hace referencia la disposición transitoria única de esta Ley Foral, y el Decreto Foral 199/1988, de 1 de julio, por el que se crea la Comisión Técnica de Hemoterapia de Navarra.

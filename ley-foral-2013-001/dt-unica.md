@@ -1,0 +1,2 @@
+Disposición transitoria única. Mantenimiento de la estructura del Banco de Sangre y Tejidos de Navarra.
+La derogación de lo dispuesto en los artículos 11 y 12 de la Ley Foral 20/2010, de 13 de diciembre, se deja en suspenso hasta que se desarrolle la estructura orgánica del Banco de Sangre y Tejidos de Navarra que, en todo caso, no podrá demorarse más de un año desde la aprobación de esta Ley Foral.
