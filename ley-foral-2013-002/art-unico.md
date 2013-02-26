@@ -1,0 +1,3 @@
+Artículo único.
+1. El Departamento de Salud del Gobierno de Navarra realizará una evaluación de las necesidades de la población de las zonas rurales de Navarra en relación con la atención sanitaria y de las ineficiencias del modelo de la atención continuada y urgente y elaborará un Plan de funcionamiento de los centros sanitarios de atención primaria y de las modalidades de atención continuada y urgente con participación de los profesionales sanitarios, de las entidades locales y de los colectivos sociales relacionados con dicha materia procurando el mayor consenso posible.
+2. El Gobierno de Navarra remitirá el Plan mencionado en el apartado anterior al Parlamento de Navarra en el plazo máximo de un año para su debate y aprobación.
