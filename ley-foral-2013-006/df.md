@@ -1,0 +1,2 @@
+Disposición final.
+Esta Ley Foral entrará en vigor el mismo día de su publicación en el «Boletín Oficial de Navarra» y será de aplicación a los procedimientos de embargo en que, a la entrada en vigor, todavía no se haya acordado o dictado resolución de embargo de la renta básica o de la renta de inclusión social o de alguna prestación social garantizada de las incluidas en la Cartera de Servicios Sociales a sus beneficiarios, o de las ayudas a cuidadores no profesionales de las personas dependientes, y de las ayudas o becas al estudio.
