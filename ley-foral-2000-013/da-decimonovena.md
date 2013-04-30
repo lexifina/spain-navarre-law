@@ -1,0 +1,6 @@
+Disposición adicional decimonovena. Competencias de investigación patrimonial en los procesos por delito contra la Hacienda Pública.
+En los procesos por delito contra la Hacienda pública, y sin perjuicio de las facultades que corresponden a las unidades de la Policía Judicial, los órganos de recaudación de la Hacienda Tributaria de Navarra mantendrán la competencia para investigar, bajo la supervisión de la autoridad judicial, el patrimonio que pueda resultar afecto al pago de las cuantías pecuniarias asociadas al delito.
+A tales efectos, podrán ejercer las facultades previstas en los artículos 103, 104 y 123, realizar informes sobre la situación patrimonial de las personas relacionadas con el delito y adoptar las medidas cautelares previstas en el apartado 7 del artículo 118.
+De tales actuaciones, sus incidencias y resultados se dará cuenta inmediata al juez penal, que resolverá sobre la confirmación, modificación o levantamiento de las medidas adoptadas.
+Las actuaciones desarrolladas se someterán a lo previsto en la presente ley y su normativa de desarrollo, sin perjuicio de la posibilidad de que el juez decida la realización de otras actuaciones al amparo de lo previsto en el artículo 989 de la Ley de Enjuiciamiento Criminal.
+Se añade por el art. 1.23 de la Ley Foral 14/2013, de 17 de abril. Ref. BOE-A-2013-5623.
