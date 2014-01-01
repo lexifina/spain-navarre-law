@@ -1,6 +1,3 @@
 Disposición transitoria única. Régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y régimen simplificado del Impuesto sobre el Valor Añadido para los periodos impositivos correspondientes al año 2014.
-«1. El régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido no serán de aplicación para ninguna actividad económica (grupo del I.A.E.) que no hubiera podido acogerse a estos regímenes en el periodo impositivo de 2013.
-2. Además, esos regímenes no serán de aplicación cuando se produzca cualquiera de las siguientes circunstancias:
-a) En las actividades recogidas en el artículo 3.1.1.ª a) de la Orden Foral 41/2013, de 7 de febrero, siempre que el volumen de ingresos, determinado con arreglo a lo establecido en dicha Orden Foral, supere los 200.000 euros para el conjunto de las actividades.
-b) En las demás actividades a que se refiere el artículo 3.1.1.ª b) de la citada Orden Foral, siempre que el volumen de ingresos, calculado igualmente con arreglo a lo establecido en dicha Orden Foral, supere los 100.000 euros para el conjunto de las actividades.
-c) En el caso de que el personal empleado, a que se refiere el artículo 3.1.2.ª de la mencionada Orden Foral y calculado con arreglo a lo dispuesto en ella, sea superior a 2.»
+(Derogada).
+Se deroga, con efectos a partir del 1 de enero de 2014, por la disposición derogatoria.2 de la Ley Foral 38/2013, de 28 de diciembre. Ref. BOE-A-2014-888
