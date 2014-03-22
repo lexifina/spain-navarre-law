@@ -14,6 +14,7 @@ g) Negativa injustificada de la persona titular de la vivienda a facilitar compr
 4. Consumo de electricidad que, en defecto de información más específica por parte de los correspondientes servicios suministradores, permita considerar como deshabitada la vivienda:
 – Inferior a 24 kilovatios hora por vivienda y mes.
 – Inferior a 291 kilovatios hora por vivienda y año.
-Téngase en cuenta que se suspende la vigencia y aplicación, en la redacción dada por la Ley Foral 24/2013, de 2 de julio. Ref. BOE-A-2013-8196. desde el 14 de octubre de 2013 para las partes del proceso y desde el 14 de noviembre de 2013 para los terceros por providencia del TC de 5 de noviembre de 2013, que admite a trámite el Recurso de inconstitucionalidad 6036/2013. Ref. BOE-A-2013-11886.
-Se suspende la vigencia y aplicación, en la redacción dada por la Ley Foral 24/2013, de 2 de julio, desde el 14 de octubre de 2013 para las partes del proceso y desde el 14 de noviembre de 2013 para los terceros por providencia del TC de 5 de noviembre de 2013, que admite a trámite el Recurso de inconstitucionalidad 6036/2013. Ref. BOE-A-2013-11886.
+Se mantiene la suspensión de la vigencia y aplicación por Auto del TC de 10 de marzo de 2014. Ref. BOE-A-2014-3061.
+Téngase en cuenta que se declara la desestimación del recurso de inconstitucionalidad 6036/2013 por Sentencia TC 16/2018, de 22 de febrero. Ref. BOE-A-2018-4148.
+Se suspende su vigencia y aplicación, en la redacción dada por la Ley Foral 24/2013, de 2 de julio, desde el 14 de octubre de 2013 para las partes del proceso y desde el 14 de noviembre de 2013 para los terceros por providencia del TC de 5 de noviembre de 2013, que admite a trámite el recurso de inconstitucionalidad 6036/2013. Ref. BOE-A-2013-11886.
 Se añade por el art. 1 de la Ley Foral 24/2013, de 2 de julio. Ref. BOE-A-2013-8196.
