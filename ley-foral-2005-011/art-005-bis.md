@@ -1,0 +1,7 @@
+Artículo 5 bis. Planificación.
+1. La Administración de la Comunidad Foral de Navarra establecerá, con carácter general, un plan estratégico de subvenciones, con periodicidad trienal, desglosado por departamentos y líneas de actuación. Dicho plan, antes de su aprobación, deberá contar con la autorización del departamento competente en materia económica.
+Dicho plan estratégico de subvenciones será revisado anualmente, y se incorporarán las modificaciones o ajustes que se consideren necesarios.
+El plan estratégico de subvenciones será presentado anualmente ante la comisión competente en materia económica del Parlamento de Navarra antes del día 30 de abril de cada año.
+2. Durante el primer cuatrimestre de cada año cada departamento y organismo autónomo elaborarán informes de evaluación de las convocatorias realizadas en el ejercicio precedente. Dichos informes analizarán el cumplimiento de los objetivos planteados de forma individual en cada convocatoria, el grado de cumplimiento de los plazos establecidos en el procedimiento de concesión, así como las cuestiones relevantes asociadas a las convocatorias.
+3. Los informes a que se refiere el apartado anterior serán remitidos como documentos de cada departamento del Gobierno de Navarra, una vez aprobados y dentro del plazo señalado, a la comisión competente en materia de economía del Parlamento de Navarra.
+Se añade por el art. 1 de la Ley Foral 5/2014, de 14 de abril. Ref. BOE-A-2014-5114.
