@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta Ley desde el 4 de junio de 2014 para las partes en el proceso y desde el 13 de junio de 2014 para terceros, por providencia del TC de 10 de junio de 2014 que admite a trámite el recurso de inconstitucionalidad 3442/2014. Ref. BOE-A-2014-6238
