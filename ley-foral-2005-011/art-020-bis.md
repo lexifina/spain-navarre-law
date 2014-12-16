@@ -1,0 +1,5 @@
+Artículo 20 bis. Reformulación de las solicitudes.
+1. Cuando la subvención tenga por objeto la financiación de actividades a desarrollar por el solicitante y el importe de la subvención propuesta por el órgano instructor sea inferior al que figura en la solicitud presentada, se podrá instar del beneficiario, si así se ha previsto en las bases reguladoras, la reformulación de su solicitud para ajustar los compromisos y condiciones a la subvención otorgable. Dicho ajuste podrá comprender, en su caso, una disminución proporcional de la previsión de ingresos derivados de la actividad subvencionable.
+2. Una vez que la solicitud reformulada merezca la conformidad del órgano instructor, se remitirá con todo lo actuado al órgano competente para que dicte la resolución.
+3. En cualquier caso, la reformulación de solicitudes deberá respetar el objeto, condiciones y finalidad de la subvención, así como los criterios de valoración establecidos respecto de las solicitudes o peticiones.
+Se añade por el art. único.1 de la Ley Foral 25/2014, de 2 de diciembre. Ref. BOE-A-2014-13627.
