@@ -1,0 +1,40 @@
+Artículo primero. Impuesto sobre el Valor de la Producción de la Energía Eléctrica.
+Apartado uno. Régimen jurídico y normativa aplicable.
+El Impuesto sobre el Valor de la Producción de la Energía Eléctrica se exigirá por la Comunidad Foral con sujeción a lo establecido en el artículo 31 bis del Convenio Económico, y de conformidad con lo dispuesto en el presente artículo y en las disposiciones que lo desarrollen.
+Apartado dos. Naturaleza del impuesto.
+El Impuesto sobre el Valor de la Producción de la Energía Eléctrica es un tributo de carácter directo y naturaleza real que grava la realización de actividades de producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, a través de cada una de las instalaciones indicadas en el apartado cuatro.
+Apartado tres. Exacción del impuesto.
+De conformidad con lo establecido en el artículo 31 bis del Convenio Económico, la exacción del impuesto corresponderá a la Comunidad Foral cuando las instalaciones de producción de energía eléctrica radiquen en Navarra.
+Cuando la instalación esté situada en territorio navarro y en territorio común, la exacción del impuesto corresponderá a la Administración competente para su autorización.
+Los pagos a cuenta de este impuesto se exigirán por una u otra Administración, según los criterios contenidos en los párrafos anteriores.
+Apartado cuatro. Hecho imponible.
+1. Constituye el hecho imponible la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, en cualquiera de las instalaciones a las que se refiere la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+2. La producción en barras de central, a efectos de este artículo, se corresponderá con la energía medida en bornes de alternador minorada en los consumos auxiliares en generación y en las pérdidas hasta el punto de conexión a la red.
+3. Respecto a los conceptos y términos con sustantividad propia que aparecen en este artículo, salvo los definidos en él, se estará a lo dispuesto en la normativa del sector eléctrico de carácter estatal.
+Apartado cinco. Contribuyentes.
+Son contribuyentes del impuesto las personas físicas o jurídicas y las entidades a que se refiere el artículo 25 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria, que realicen las actividades señaladas en el apartado Cuatro de este artículo.
+Apartado seis. Período impositivo y devengo.
+1. El período impositivo coincidirá con el año natural, salvo en el supuesto de cese del contribuyente en el ejercicio de la actividad en la instalación, en cuyo caso finalizará el día en que se entienda producido dicho cese.
+2. El impuesto se devengará el último día del período impositivo.
+Apartado siete. Base imponible.
+1. La base imponible del impuesto estará constituida por el importe total que corresponda percibir al contribuyente por la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, por cada instalación, en el período impositivo.
+A estos efectos, en el cálculo del importe total se considerarán las retribuciones previstas en todos los regímenes económicos que se deriven de lo establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, en el período impositivo correspondiente, así como las previstas en el régimen económico específico para el caso de actividades de producción e incorporación al sistema eléctrico de energía eléctrica en los territorios insulares y extrapeninsulares.
+2. La base imponible definida en este apartado se determinará para cada instalación en la que se realicen las actividades señaladas en el apartado Cuatro de este artículo.
+Apartado ocho. Tipo de gravamen.
+El impuesto se exigirá al tipo del 7 por 100.
+Apartado nueve. Cuota íntegra.
+La cuota íntegra es la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+Apartado diez. Liquidación y pago.
+1. Los contribuyentes estarán obligados a autoliquidar el impuesto e ingresar la cuota dentro del mes de noviembre posterior al de devengo del impuesto, de conformidad con las normas y modelos que establezca la persona titular del Departamento de Economía, Hacienda, Industria y Empleo. A estos efectos deberán tenerse en cuenta las medidas definitivas de la producción eléctrica.
+2. Entre el día 1 y el 20 de los meses de mayo, septiembre, noviembre y febrero del año siguiente, los contribuyentes que realicen el hecho imponible deberán efectuar un pago fraccionado correspondiente al período de los tres, seis, nueve o doce meses de cada año natural, de acuerdo con las normas y modelos que establezca la persona titular del Departamento de Economía, Hacienda, Industria y Empleo.
+3. Los pagos fraccionados se calcularán en función del valor de la producción de energía eléctrica en barras de central realizada desde el inicio del período impositivo hasta la finalización de los tres, seis, nueve o doce meses a que se refiere el número 2 anterior, aplicándose el tipo impositivo previsto en el apartado Ocho y deduciendo el importe de los pagos fraccionados previamente realizados.
+A estos efectos, se tomará como valor de la producción el importe total que corresponda percibir por el contribuyente, por la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, por cada instalación en el correspondiente período.
+No obstante, cuando el valor de la producción, incluidas todas las instalaciones, no supere 500.000 euros en el año natural anterior, los contribuyentes estarán obligados a efectuar exclusivamente el pago fraccionado cuyo plazo de liquidación está comprendido entre el día 1 y 20 del mes de noviembre.
+Tratándose de contribuyentes que hubieran desarrollado la actividad por un plazo inferior al año natural durante el año anterior, el valor de la producción se elevará al año.
+4. En caso de inicio de la actividad con posterioridad a 1 de enero, los pagos fraccionados a cuenta de la liquidación correspondiente al período impositivo que esté en curso se realizarán, en su caso, en el plazo de liquidación correspondiente al trimestre en el que el valor de la producción calculado desde el inicio del período impositivo supere los 500.000 euros, incluidas todas las instalaciones.
+5. Si el importe total que corresponda percibir al contribuyente no resultara conocido en el momento de la realización de los pagos fraccionados, el contribuyente deberá fijarlo provisionalmente en función de la última liquidación provisional realizada por el operador del sistema y, en su caso, por la Comisión Nacional de Energía, con anterioridad al inicio del plazo de realización del pago correspondiente.
+Apartado once. Infracciones y sanciones.
+Las infracciones tributarias relativas a este impuesto serán calificadas y sancionadas de conformidad con lo previsto en la Ley Foral 13/2000, de 14 de diciembre, General Tributaria.
+Apartado doce. Disposición transitoria única. Autoliquidación y pago fraccionado a realizar en noviembre de 2015 por determinados contribuyentes.
+Los contribuyentes que en el periodo impositivo de 2014 hayan sido titulares o cotitulares de instalaciones de producción de energía eléctrica de carácter renovable situadas en Navarra, cuya potencia instalada nominal no superase los 100 kW por instalación, y que en el año 2015 sigan siendo titulares o cotitulares de ellas, solamente deberán efectuar el pago fraccionado, relativo a dichas instalaciones, cuyo plazo de liquidación esté comprendido entre el día 1 y 20 del mes de noviembre del año 2015.
+Por el contrario, esos mismos contribuyentes no deberán ingresar la cuota correspondiente a la autoliquidación de los meses de octubre, noviembre y diciembre del período impositivo de 2014.
