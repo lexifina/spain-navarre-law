@@ -1,0 +1,3 @@
+Disposición transitoria vigesimoprimera. Transmisiones de derechos de suscripción anteriores a 1 de enero de 2017.
+Para la determinación del valor de adquisición de los valores a que se refiere el artículo 43.1.a), se deducirá el importe obtenido por las transmisiones de derechos de suscripción realizadas con anterioridad a 1 de enero de 2017, con excepción del importe de tales derechos que hubiera tributado como incremento de patrimonio. Cuando no se hubieran transmitido la totalidad de los derechos de suscripción, se entenderá que los transmitidos correspondieron a los valores adquiridos en primer lugar.
+Se añade, con efectos desde el 1 de enero de 2017, por el art. 1.57 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
