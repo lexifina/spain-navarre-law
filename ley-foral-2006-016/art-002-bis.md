@@ -1,0 +1,5 @@
+Artículo 2 bis. Juego responsable.
+1. La Administración de la Comunidad Foral de Navarra promoverá políticas de juego responsable, entendidas como aquellas en las que el juego, desde una perspectiva integral de responsabilidad social, se contemple como un fenómeno complejo, en el que deben combinarse acciones preventivas, de sensibilización, intervención, control y reparación de los efectos negativos que se puedan derivar del mismo.
+Las acciones preventivas se dirigirán a garantizar que la actividad de la persona jugadora se realice sin menoscabo de su voluntad y libre determinación, dentro de parámetros saludables, evitando la participación desordenada en los juegos de azar y los efectos nocivos que de esta pudieran provocarse.
+2. Los organizadores de juego, en el ejercicio de su actividad, prestarán especial atención a los grupos de riesgo, promoviendo actitudes de juego moderado y responsable a través de medidas informativas adecuadas, en las que se especificará la prohibición de participar a los menores de edad u otros colectivos vulnerables.
+Se añade por el art. 1 de la Ley Foral 18/2015, de 10 de abril. Ref. BOE-A-2015-4954
