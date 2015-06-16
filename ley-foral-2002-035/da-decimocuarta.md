@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Edificaciones legales y existentes en suelo no urbanizable.
+Las edificaciones y actividades aisladas preexistentes en situación legal podrán ser objeto de rehabilitación y/o ampliación independientemente del régimen de protección previsto por los instrumentos de ordenación territorial para el suelo de protección de que se trate, siempre y cuando no se halle expresamente prohibido por el planeamiento municipal o la legislación sectorial y no implique cambio de actividad o uso.
+Se añade por el art. único. 97 de la Ley Foral 5/2015, de 5 de marzo. Ref. BOE-A-2015-3329.

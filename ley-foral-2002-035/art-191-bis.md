@@ -1,0 +1,16 @@
+Artículo 191 bis. Procedimiento general para los actos sujetos a declaración responsable o comunicación previa.
+1. La declaración responsable facultará al titular de la actividad para realizar la actuación urbanística pretendida y declarada en su solicitud, siempre que vaya acompañada de la documentación necesaria e imprescindible, y sin perjuicio de las facultades de comprobación, control e inspección que correspondan.
+2. El procedimiento se iniciará mediante su presentación dirigida a la entidad local competente, suscrita por el promotor y con el siguiente contenido mínimo que podrá ser completado por la normativa municipal:
+a) Instancia con los datos indicados en el artículo 70 de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+b) Manifestación expresa del cumplimiento de los requisitos exigidos por la normativa vigente, incluido el de estar en posesión de la documentación que así lo acredite.
+c) La documentación exigida por la normativa específica, y como mínimo la siguiente:
+a') Documentación gráfica expresiva de la ubicación del inmueble objeto de la actuación a realizar y descripción suficiente de esta.
+b') Presupuesto de la actuación y justificante del pago de las tasas e impuestos correspondientes.
+c') Los permisos y autorizaciones que requiera el acto, la operación o la actividad de que se trate y que vengan exigidos por la normativa en cada caso aplicable.
+3. En el supuesto de que la Administración municipal detecte que la comunicación previa formulada presenta deficiencias derivadas del incumplimiento o falta de concreción de alguno de los requisitos establecidos en los preceptos anteriores, o bien resulte imprecisa la información aportada para la valoración de la legalidad del acto comunicado, se requerirá al promotor la subsanación de aquella.
+4. La inexactitud, falsedad u omisión de carácter esencial en cualquier dato, manifestación o documento que se acompañe o incorpore a una declaración responsable, o su no presentación, así como la inobservancia de los requisitos impuestos por la normativa aplicable, determinará la imposibilidad de iniciar la actividad urbanística solicitada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar.
+5. El titular de la actividad, si así lo estimase conveniente, podrá comprobar previamente a la presentación de la declaración responsable, la viabilidad urbanística de la actividad, a través de la formulación de una consulta urbanística.
+6. En ningún caso se entenderán adquiridas por la declaración responsable facultades en contra de la legislación o el planeamiento urbanístico.
+7. Serán nulas de pleno derecho las declaraciones responsables que sean contrarias a la legislación o al planeamiento urbanístico cuando carezcan de los requisitos esenciales para su eficacia.
+8. Las actuaciones sujetas a declaración responsable que se realicen sin haberse presentado la misma cuando sea preceptiva se considerarán como actuaciones sin licencia a todos los efectos, aplicándoseles el mismo régimen de protección de la legalidad y sancionador que a las obras y usos sin licencia.
+Se añade por el art. único. 79 de la Ley Foral 5/2015, de 5 de marzo. Ref. BOE-A-2015-3329.
