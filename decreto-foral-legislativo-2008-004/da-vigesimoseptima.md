@@ -1,3 +1,4 @@
-Disposición adicional vigesimoséptima. Retenciones e ingresos a cuenta.
-(Derogada).
+Disposición adicional vigesimoséptima. Subvenciones destinadas a compensar los costes derivados de la recepción o acceso a los servicios de comunicación audiovisual televisiva en las edificaciones afectadas por la liberación del dividendo digital.
+No se integrarán en la base imponible del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre Sociedades, las ayudas concedidas en virtud de lo dispuesto en el Real Decreto 920/2014, de 31 de octubre, por el que se regula la concesión directa de subvenciones destinadas a compensar los costes derivados de la recepción o acceso a los servicios de comunicación audiovisual televisiva en las edificaciones afectadas por la liberación del dividendo digital.
+Se añade, con efectos desde el 1 de enero de 2015, por el art. 1.41 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573
 Se deroga, con efectos a partir de 1 de enero de 2010, por el art. 1.5 de la Ley Foral 17/2009, de 23 de diciembre. Ref. BOE-A-2010-2630
