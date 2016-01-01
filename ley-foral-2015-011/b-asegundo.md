@@ -116,7 +116,8 @@ Apartado dieciséis. Infracciones y sanciones.
 Las infracciones tributarias relativas a este impuesto serán calificadas y sancionadas de conformidad con lo previsto en la Ley Foral 13/2000, de 14 de diciembre, General Tributaria.
 Apartado diecisiete. Régimen especial para el sector del poliuretano.
 El tipo impositivo a aplicar a los gases fluorados que se destinen a producir poliuretano o se importen o adquieran en poliuretano ya fabricado será el resultado de multiplicar el tipo impositivo que le corresponda según su potencial de calentamiento atmosférico, que contiene el apartado Once, por el coeficiente de 0,10.
-Apartado dieciocho. Disposición transitoria única. Tipos impositivos aplicables para el ejercicio 2015.
-Para el ejercicio 2015, los tipos impositivos que se aplicarán en el Impuesto sobre los Gases Fluorados de Efecto Invernadero serán los resultantes de multiplicar los tipos regulados en el apartado Once por el coeficiente 0,66.
+Apartado dieciocho. Disposición transitoria única. Tipos impositivos aplicables para los ejercicios 2015 y 2016.
+Para los ejercicios 2015 y 2016, los tipos impositivos que se aplicarán en el Impuesto sobre los Gases Fluorados de Efecto Invernadero serán los resultantes de multiplicar los tipos regulados en el apartado Once por el coeficiente 0,66.
 Apartado diecinueve. Habilitación normativa.
 La Ley Foral de Presupuestos Generales de Navarra podrá modificar los tipos impositivos y sus magnitudes de determinación, los supuestos de no sujeción, las exenciones, deducciones y devoluciones que se establecen en este artículo.
+Se modifica el apartado dieciocho por el art. único del Decreto Foral Legislativo 3/2015, de 16 de diciembre. Ref. BOE-A-2016-33.
