@@ -1,0 +1,8 @@
+Artículo 68 ter. Deducción por las cuotas tributarias satisfechas por el Impuesto sobre el Valor de la Producción de la Energía Eléctrica.
+1. Una vez fijada la correspondiente cuota diferencial, los sujetos pasivos que sean titulares o cotitulares de instalaciones de producción de energía eléctrica de carácter renovable situadas en Navarra, cuya potencia instalada nominal no supere los 100 kW por instalación, podrán practicar una deducción adicional por las cuotas tributarias satisfechas a la Hacienda Tributaria de Navarra por el Impuesto sobre el Valor de la Producción de la Energía Eléctrica.
+2. La deducción se practicará por las cuotas tributarias que hayan sido satisfechas en el periodo impositivo en el que se haya efectuado el pago, con independencia del periodo impositivo al que correspondan la autoliquidación y el pago fraccionado del Impuesto sobre el Valor de la Producción de la Energía Eléctrica.
+3. En el caso de cotitularidad de las instalaciones de producción de energía eléctrica, la deducción se practicará según las normas o pactos sobre titularidad jurídica aplicables en cada caso y, si aquéllos no constaran de forma fehaciente, la Administración tributaria considerará que la deducción corresponde a partes iguales.
+4. El importe de la deducción no podrá ser superior a 500 euros por sujeto pasivo.
+5. La persona titular del Departamento de Economía, Hacienda, Industria y Empleo regulará por medio de orden foral las disposiciones necesarias para la aplicación de esta deducción.
+Se añade y renumera por la disposición final 5.6 de la Ley Foral 15/2016, de 11 de noviembre. Ref. BOE-A-2016-11671#df-5
+Anteriormente era el art. 68 bis.
