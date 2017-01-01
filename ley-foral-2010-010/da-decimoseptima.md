@@ -1,0 +1,3 @@
+Disposición adicional decimoséptima. Arrendamiento de viviendas protegidas a entidades locales y personas jurídicas sin ánimo de lucro.
+El departamento competente en materia de vivienda podrá autorizar el arrendamiento de viviendas protegidas a las entidades locales y a las personas jurídicas sin ánimo de lucro que precisen de la vivienda para los fines sociales que tienen encomendados. El número máximo de viviendas arrendadas en cada promoción a las personas jurídicas sin ánimo de lucro no podrá exceder del 6% del número total de viviendas, o de una vivienda en el caso de promociones con un número de viviendas igual o inferior a 16.
+Se añade por el art. 1.24 de la Ley Foral 22/2016, de 21 de diciembre. Ref. BOE-A-2017-660.

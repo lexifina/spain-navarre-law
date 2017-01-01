@@ -15,5 +15,6 @@ A su vez y para garantizar la seguridad jurídica a las personas inquilinas, se 
 5. Las viviendas cuyos titulares, sean personas físicas o jurídicas, ofrezcan para ser incluidas en los programas públicos de intermediación para el arrendamiento, gozarán de los siguientes beneficios:
 a) En su caso, quedará en suspenso el plazo para justificar la situación de efectiva habitación dentro del procedimiento contradictorio de declaración de vivienda deshabitada.
 b) Si se tratase de una vivienda adquirida por una persona jurídica mediante dación en pago de un crédito hipotecario, compraventa con subrogación hipotecaria o negocio jurídico similar, se garantizará la percepción de la renta desde la fecha de inclusión en el programa de intermediación. En estos casos podrá realizarse la inclusión de la vivienda en el programa manteniendo a sus inquilinos a solicitud de estos.
-c) La Administración de la Comunidad Foral, a través del órgano o ente instrumental que se establezca para la gestión del programa, garantizará el pago de la renta al titular de la vivienda.
+c) La Administración de la Comunidad Foral, a través del órgano o ente instrumental que se establezca para la gestión del programa, garantizará el pago de la renta al titular de la vivienda, así como que la vivienda sea devuelta en las mismas condiciones que como se entregó.
+Se modifica el apartado 5.c) por el art. 1.20 de la Ley Foral 22/2016, de 21 de diciembre. Ref. BOE-A-2017-660.
 Se añade por el art. 1 de la Ley Foral 24/2013, de 2 de julio. Ref. BOE-A-2013-8196.
