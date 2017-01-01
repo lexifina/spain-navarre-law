@@ -1,0 +1,3 @@
+Disposición transitoria vigesimotercera. Exención de prestaciones por cuidado de hijos menores afectados por cáncer u otra enfermedad grave.
+Podrán reclamarse con efecto retroactivo a 1 de enero de 2011 las exenciones de las ayudas y prestaciones familiares percibidas de cualquiera de las Administraciones Públicas, a las que hace referencia el artículo 7k) vinculadas a nacimiento, adopción, hijos a cargo, acogimiento de menores, orfandad, parto o adopción múltiple, cuidado de hijos menores afectados por cáncer u otra enfermedad grave percibidas desde el 1 de enero de 2011.
+Se añade, con efectos desde el 1 de enero de 2011, por el art. 1.47 de la Ley Foral 25/2016, de 28 de diciembre. Ref. BOE-A-2017-2355
