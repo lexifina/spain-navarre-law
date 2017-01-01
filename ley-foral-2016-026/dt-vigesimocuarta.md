@@ -1,0 +1,2 @@
+Disposición transitoria vigesimocuarta. Régimen transitorio de los beneficios sobre operaciones financieras.
+Las sociedades concesionarias de autopistas de peaje que tuvieran reconocidos beneficios en este Impuesto el día 1 de enero de 1979 para las operaciones de financiación y refinanciación en función de su legislación específica y de lo establecido en la disposición transitoria tercera, apartado 2, del Acuerdo de la Diputación Foral de 28 de diciembre de 1978, y sus normas de desarrollo, conservarán dicho derecho adquirido en sus actuales términos.
