@@ -1,0 +1,7 @@
+LA PRESIDENTA DE LA COMUNIDAD FORAL DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral por la que se amplía el ámbito de aplicación del sistema de carrera profesional a otro personal sanitario no adscrito al Departamento de Salud y sus organismos autónomos.
+PREÁMBULO
+Las Leyes Forales 11/1999, de 6 de abril, y 31/2002, de 19 de noviembre, han supuesto la implantación en la Comunidad Foral de Navarra de un sistema de carrera profesional para el personal facultativo sanitario del Departamento de Salud y sus organismos autónomos. Este sistema de carrera profesional ha sido desarrollado por el Decreto Foral 376/2000, de 18 de diciembre.
+Han sido constantes las demandas del personal facultativo sanitario fijo de la Administración de la Comunidad Foral y de los organismos autónomos a ella adscritos que quedó excluido del ámbito de aplicación de la Ley Foral 11/1999, de 6 de abril, y la Ley Foral 31/2002, de 19 de noviembre.
+Por ello y mediante diversas enmiendas incorporadas a los Presupuestos Generales de Navarra para 2017, se aumentaron algunas partidas y se crearon otras dirigidas a poder atender el abono de la carrera profesional a los facultativos sanitarios no pertenecientes al Departamento de Salud o sus organismos autónomos.
+Por ello se propone la presente ley foral a fin de ampliar la aplicación de la carrera profesional al personal sanitario adscrito a otros Departamentos del Gobierno de Navarra y sus organismos autónomos.
