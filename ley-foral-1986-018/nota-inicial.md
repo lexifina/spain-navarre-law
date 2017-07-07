@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse Ley Foral 18/1986, de 15 de diciembre, del Euskera, por el art. 1 de la Ley Foral 9/2017, de 27 de junio. Ref. BOE-A-2017-8667, asímismo, las referencias hechas a la expresión "vascuence" a lo largo del texto se entienden referidas a la expresión "euskera", según establece la disposición adicional de la misma ley.
