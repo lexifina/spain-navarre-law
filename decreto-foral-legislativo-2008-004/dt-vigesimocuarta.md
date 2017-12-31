@@ -1,0 +1,4 @@
+Disposición transitoria vigesimocuarta. Régimen transitorio para inversiones en vivienda habitual realizadas en 2016 y 2017.
+Los sujetos pasivos que hubieran realizado en 2016 o en 2017 alguna de las inversiones recogidas en el artículo 62.1, en su redacción vigente a 31 de diciembre de 2017, podrán aplicar la deducción por inversión en vivienda habitual de acuerdo con el mencionado artículo 62.1, por las cantidades pendientes por esos mismos conceptos que satisfagan a partir del 1 de enero de 2018.
+Lo establecido en esta disposición será de aplicación a los sujetos pasivos que no tengan derecho a aplicar los regímenes transitorios recogidos en las disposiciones transitorias decimoquinta y decimoséptima.
+Se añade, con efectos desde el 1 de enero de 2018, por el art. 1.45 de la Ley Foral 16/2017, de 27 de diciembre. Ref. BOE-A-2018-801
