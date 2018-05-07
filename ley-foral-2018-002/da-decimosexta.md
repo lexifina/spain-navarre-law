@@ -1,0 +1,2 @@
+Disposición adicional decimosexta. Formación empleados públicos.
+Todos los miembros de los órganos adjudicadores, órganos gestores y órganos responsables de la intervención de expedientes administrativos recibirán formación en materia de igualdad, accesibilidad y medioambiental, a los efectos de velar por el cumplimiento de las obligaciones legales. A tal fin se organizarán por el Gobierno de Navarra jornadas formativas para los empleados públicos y contribuirá a la publicación de manuales de interés.
