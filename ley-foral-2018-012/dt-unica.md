@@ -1,0 +1,2 @@
+Disposición transitoria única. Desarrollo reglamentario vigente.
+En tanto no sean contrarios a lo dispuesto en la presente ley foral y en la normativa básica estatal, los desarrollos reglamentarios de la Ley Foral 5/2010, de 6 de abril, de Accesibilidad Universal y Diseño para todas las Personas, vigentes a la entrada en vigor de esta ley foral, mantendrán su vigencia hasta la entrada en vigor de los desarrollos normativos previstos en la presente ley foral.
