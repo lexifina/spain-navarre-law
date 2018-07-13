@@ -1,0 +1,3 @@
+Disposición transitoria única.
+En el caso de que los agentes de ejecución del Sistema Navarro de I+D+i, en el momento de la aprobación de la presente ley foral, no cumplan con las obligaciones referentes a igualdad de género establecidas en los artículos 7.2.f) y 9.1.b), deberán marcarse dichas obligaciones como objetivo en el plan de igualdad recogido en el artículo 8.2.c). Dichas obligaciones deberán estar cumplidas en el plazo máximo de tres años.
+A los efectos de la obligación establecida en el artículo 7.2.f), se entenderá como órgano de dirección su comité de dirección u órgano colegiado equivalente.
