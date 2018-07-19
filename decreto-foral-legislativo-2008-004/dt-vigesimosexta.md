@@ -1,0 +1,4 @@
+Disposición transitoria vigésimasexta. Cuantía exenta del gravamen especial sobre los premios de determinadas loterías y apuestas en los ejercicios 2018 y 2019.
+Los premios derivados de juegos celebrados con anterioridad al día 5 de julio de 2018, estarán exentos del gravamen especial en la cuantía prevista en el apartado 2 de la disposición adicional trigésima séptima de esta Ley Foral en su redacción vigente a 31 de diciembre de 2017.
+Dicha cuantía será de 10.000 euros para los premios derivados de juegos celebrados en el período impositivo 2018 a partir del día 5 de julio de 2018, y de 20.000 euros para los premios derivados de juegos celebrados en el período impositivo 2019.
+Se añade, con efectos desde el 5 de julio de 2018, por el art. 4.2 del Decreto Foral Legislativo 1/2018, de 4 de julio. Ref. BOE-A-2018-10998
