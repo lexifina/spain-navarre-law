@@ -1,0 +1,2 @@
+Disposición transitoria única. Aplicación de obligaciones de transparencia a relaciones jurídicas anteriores.
+Los sujetos a los que se refiere el artículo 3 quedarán exentos de realizar las obligaciones de publicidad activa señalados en esta ley foral en relación con aquellos contratos, subvenciones, conciertos o cualesquiera otras relaciones jurídicas que hubieran finalizado con anterioridad a la entrada en vigor de esta ley, sin perjuicio de las obligaciones establecidas en el capítulo II del título III de esta ley foral en cuanto a acceso a la información pública.
