@@ -60,41 +60,40 @@ Apartado nueve. Contribuyentes.
 3. En los supuestos a los que hace referencia el número 3 del apartado Seis en los que se presume, salvo prueba en contrario, que han sido objeto de ventas o entregas sujetas al impuesto aquellos gases fluorados de efecto invernadero en los que no se justifique su destino, tendrán la consideración de contribuyentes los fabricantes, importadores, adquirentes intracomunitarios o revendedores que realicen dichas ventas o entregas.
 Apartado diez. Base imponible.
 La base imponible estará constituida por el peso de los productos objeto del impuesto, expresada en kilogramos.
-Apartado once. Tipo impositivo.
-1. Tarifa 1.ª:
-El impuesto se exigirá en función del potencial de calentamiento atmosférico.
-El tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,020 al potencial de calentamiento atmosférico que corresponda a cada gas fluorado, con el máximo de 100 euros por kilogramo, conforme a los siguientes epígrafes:
-Epígrafe | Gas fluorado de efecto invernadero | Potencial de calentamiento atmosférico (PCA) | Tipo – €/kg
-1.1 | Hexafluoruro de azufre. | 22.200 | 100
-1.2 | HFC - 23. | 12.000 | 100
-1.3 | HFC - 32. | 550 | 11
-1.4 | HFC - 41. | 97 | –
-1.5 | HFC - 43-10mee. | 1.500 | 30
-1.6 | HFC - 125. | 3.400 | 68
-1.7 | HFC - 134. | 1.100 | 22
-1.8 | HFC - 134a. | 1.300 | 26
-1.9 | HFC - 152a. | 120 | –
-1.10 | HFC - 143. | 330 | 6,6
-1.11 | HFC - 143a. | 4.300 | 86
-1.12 | HFC - 227ea. | 3.500 | 70
-1.13 | HFC - 236cb. | 1.300 | 26
-1.14 | HFC - 236ea. | 1.200 | 24
-1.15 | HFC - 236fa. | 9.400 | 100
-1.16 | HFC - 245ca. | 640 | 12,8
-1.17 | HFC - 245fa. | 950 | 19
-1.18 | HFC - 365mfc. | 890 | 17,8
-1.19 | Perfluorometano. | 5.700 | 100
-1.20 | Perfluoroetano. | 11.900 | 100
-1.21 | Perfluoropropano. | 8.600 | 100
-1.22 | Perfluorobutano. | 8.600 | 100
-1.23 | Perfluoropentano. | 8.900 | 100
-1.24 | Perfluorohexano. | 9.000 | 100
-1.25 | Perfluorociclobutano. | 10.000 | 100
+Apartado once. Tipo Impositivo.
+1. Tarifa 1.ª: El Impuesto se exigirá en función del potencial de calentamiento atmosférico.
+El tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,015 al potencial de calentamiento atmosférico que corresponda a cada gas fluorado, con el máximo de 100 euros por kilogramo, conforme a los siguientes epígrafes:
+Epígrafe | Gas fluorado de efecto invernadero | Potencial de calentamiento atmosférico (PCA) | Tipo-euros/kg
+1.1 | Hexafluoruro de azufre. | 22.800 | 100
+1.2 | HFC-23. | 14.800 | 100
+1.3 | HFC-32. | 675 | 10,13
+1.4 | HFC-41. | 92 | 1,38
+1.5 | HFC-43-10mee. | 1.640 | 24,6
+1.6 | HFC-125. | 3.500 | 52,5
+1.7 | HFC-134. | 1.100 | 16,5
+1.8 | HFC-134a. | 1.430 | 21,45
+1.9 | HFC-152a. | 124 | 1,86
+1.10 | HFC-143. | 353 | 5,3
+1.11 | HFC-143a. | 4.470 | 67,05
+1.12 | HFC-227ea. | 3.220 | 48,3
+1.13 | HFC-236cb. | 1.340 | 20,1
+1.14 | HFC-236ea. | 1.370 | 20,55
+1.15 | HFC-236fa. | 9.810 | 100
+1.16 | HFC-245ca. | 693 | 10,4
+1.17 | HFC-245fa. | 1.030 | 15,45
+1.18 | HFC-365mfc. | 794 | 11,91
+1.19 | Perfluorometano. | 7.390 | 100
+1.20 | Perfluoroetano. | 12.200 | 100
+1.21 | Perfluoropropano. | 8.830 | 100
+1.22 | Perfluorobutano. | 8.860 | 100
+1.23 | Perfluoropentano. | 9.160 | 100
+1.24 | Perfluorohexano. | 9.300 | 100
+1.25 | Perfluorociclobutano. | 10.300 | 100
 2. Tarifa 2.ª:
-Epígrafe 2.1 Preparados: el tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,020 al potencial de calentamiento atmosférico (PCA) que se obtenga del preparado en virtud de lo dispuesto en el número 3 del apartado cinco con el máximo de 100 euros por kilogramo.
+Epígrafe 2.1 Preparados: El tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,015 al potencial de calentamiento atmosférico (PCA) que se obtenga del preparado en virtud de lo dispuesto en el apartado cinco.2 con el máximo de 100 euros por kilogramo.
 3. Tarifa 3.ª:
-Epígrafe 3.1 Gases regenerados y reciclados de la Tarifa 1.ª: el tipo impositivo estará constituido por el resultado de aplicar el coeficiente de 0,85 al tipo establecido en la Tarifa 1.ª
-Epígrafe 3.2 Preparados regenerados y reciclados de la Tarifa 2.ª: el tipo impositivo estará constituido por el resultado de aplicar el coeficiente de 0,85 al tipo establecido en la Tarifa 2.ª
+Epígrafe 3.1 Gases regenerados y reciclados de la tarifa 1.ª: El tipo impositivo estará constituido por el resultado de aplicar el coeficiente de 0,50 al tipo establecido en la tarifa 1.ª
+Epígrafe 3.2 Preparados regenerados y reciclados de la tarifa 2.ª: El tipo impositivo estará constituido por el resultado de aplicar el coeficiente de 0,50 al tipo establecido en la tarifa 2.ª
 Apartado doce. Cuota íntegra.
 La cuota íntegra es la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
 Apartado trece. Repercusión.
@@ -120,4 +119,5 @@ Apartado dieciocho. Disposición transitoria única. Tipos impositivos aplicable
 Para los ejercicios 2015 y 2016, los tipos impositivos que se aplicarán en el Impuesto sobre los Gases Fluorados de Efecto Invernadero serán los resultantes de multiplicar los tipos regulados en el apartado Once por el coeficiente 0,66.
 Apartado diecinueve. Habilitación normativa.
 La Ley Foral de Presupuestos Generales de Navarra podrá modificar los tipos impositivos y sus magnitudes de determinación, los supuestos de no sujeción, las exenciones, deducciones y devoluciones que se establecen en este artículo.
+Se modifica, con efectos de 1 de septiembre de 2018, el apartado once por el art. 3 del Decreto Foral Legislativo 1/2018, de 4 de julio. Ref. BOE-A-2018-10998
 Se modifica el apartado dieciocho por el art. único del Decreto Foral Legislativo 3/2015, de 16 de diciembre. Ref. BOE-A-2016-33.
