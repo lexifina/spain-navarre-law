@@ -61,18 +61,19 @@ Apartado nueve. Contribuyentes.
 Apartado diez. Base imponible.
 La base imponible estará constituida por el peso de los productos objeto del impuesto, expresada en kilogramos.
 Apartado once. Tipo Impositivo.
-1. Tarifa 1.ª: El Impuesto se exigirá en función del potencial de calentamiento atmosférico.
+1. Tarifa 1.ª:
+El Impuesto se exigirá en función del potencial de calentamiento atmosférico.
 El tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,015 al potencial de calentamiento atmosférico que corresponda a cada gas fluorado, con el máximo de 100 euros por kilogramo, conforme a los siguientes epígrafes:
-Epígrafe | Gas fluorado de efecto invernadero | Potencial de calentamiento atmosférico (PCA) | Tipo-euros/kg
+Epígrafe | Gas fluorado de efecto invernadero | Potencial de Calentamiento Atmosférico (PCA) | Tipo – Euros/kg
 1.1 | Hexafluoruro de azufre. | 22.800 | 100
 1.2 | HFC-23. | 14.800 | 100
 1.3 | HFC-32. | 675 | 10,13
-1.4 | HFC-41. | 92 | 1,38
+1.4 | HFC-41. | 92 | ---
 1.5 | HFC-43-10mee. | 1.640 | 24,6
 1.6 | HFC-125. | 3.500 | 52,5
 1.7 | HFC-134. | 1.100 | 16,5
 1.8 | HFC-134a. | 1.430 | 21,45
-1.9 | HFC-152a. | 124 | 1,86
+1.9 | HFC-152a. | 124 | ---
 1.10 | HFC-143. | 353 | 5,3
 1.11 | HFC-143a. | 4.470 | 67,05
 1.12 | HFC-227ea. | 3.220 | 48,3
@@ -90,7 +91,7 @@ Epígrafe | Gas fluorado de efecto invernadero | Potencial de calentamiento atmo
 1.24 | Perfluorohexano. | 9.300 | 100
 1.25 | Perfluorociclobutano. | 10.300 | 100
 2. Tarifa 2.ª:
-Epígrafe 2.1 Preparados: El tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,015 al potencial de calentamiento atmosférico (PCA) que se obtenga del preparado en virtud de lo dispuesto en el apartado cinco.2 con el máximo de 100 euros por kilogramo.
+Epígrafe 2.1 Preparados: el tipo impositivo estará constituido por el resultado de aplicar el coeficiente 0,015 al potencial de calentamiento atmosférico (PCA) que se obtenga del preparado en virtud de lo dispuesto en el apartado cinco.4 con el máximo de 100 euros por kilogramo
 3. Tarifa 3.ª:
 Epígrafe 3.1 Gases regenerados y reciclados de la tarifa 1.ª: El tipo impositivo estará constituido por el resultado de aplicar el coeficiente de 0,50 al tipo establecido en la tarifa 1.ª
 Epígrafe 3.2 Preparados regenerados y reciclados de la tarifa 2.ª: El tipo impositivo estará constituido por el resultado de aplicar el coeficiente de 0,50 al tipo establecido en la tarifa 2.ª
@@ -119,5 +120,6 @@ Apartado dieciocho. Disposición transitoria única. Tipos impositivos aplicable
 Para los ejercicios 2015 y 2016, los tipos impositivos que se aplicarán en el Impuesto sobre los Gases Fluorados de Efecto Invernadero serán los resultantes de multiplicar los tipos regulados en el apartado Once por el coeficiente 0,66.
 Apartado diecinueve. Habilitación normativa.
 La Ley Foral de Presupuestos Generales de Navarra podrá modificar los tipos impositivos y sus magnitudes de determinación, los supuestos de no sujeción, las exenciones, deducciones y devoluciones que se establecen en este artículo.
+Se modifica por el art. 3 del Decreto Legislativo 2/2018, de 28 de noviembre. Ref. BOE-A-2019-401
 Se modifica, con efectos de 1 de septiembre de 2018, el apartado once por el art. 3 del Decreto Foral Legislativo 1/2018, de 4 de julio. Ref. BOE-A-2018-10998
 Se modifica el apartado dieciocho por el art. único del Decreto Foral Legislativo 3/2015, de 16 de diciembre. Ref. BOE-A-2016-33.
