@@ -1,0 +1,5 @@
+Disposición transitoria decimotercera. Programa de implantación gradual de la obligatoriedad del informe de evaluación de los edificios para el caso de las viviendas unifamiliares.
+a) Las viviendas unifamiliares que el 31 de diciembre de 2018 tuvieran una antigüedad de 100 o más años deberán efectuar la evaluación del edificio de forma que dispongan del correspondiente informe antes del primer día del año 2020.
+b) Las viviendas unifamiliares que el 31 de diciembre de 2019 tengan una antigüedad de 75 o más años deberán efectuar la evaluación del edificio de forma que dispongan del correspondiente informe antes del primer día del año 2021.
+c) Las viviendas unifamiliares que tengan una antigüedad de 75 años a partir del 1 de enero de 2020 deberán efectuar la evaluación del edificio de forma que dispongan del correspondiente informe antes de que transcurra un año desde la fecha en que hubieran adquirido dicha antigüedad.
+Se añade por el art. 1.26 de la Ley Foral 28/2018, de 26 de diciembre. Ref. BOE-A-2019-750
