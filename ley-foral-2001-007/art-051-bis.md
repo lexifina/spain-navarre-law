@@ -3,15 +3,38 @@ Tasa por servicios de extinción de incendios y salvamentos
 Se añade, con efectos de 1 de enero de 2006, por el art. 7.6 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846
 Artículo 51 bis.
 1. Hecho imponible.
-Constituye el hecho imponible de la tasa la prestación de servicios de extinción de incendios y salvamento, bien sea a solicitud de los interesados o de oficio por razones de seguridad, y siempre que la prestación del servicio redunde en beneficio del sujeto pasivo, en los siguientes casos:
-a) Accidentes de tráfico.
-b) Asistencias técnicas no urgentes: revisión de instalaciones de prevención de incendios en edificios, achiques de agua, limpiezas de calzada, apertura de puertas, transporte de agua y desconexión de alarmas.
-c) Rescate en zonas de riesgo o de difícil acceso, cuando sea debido a conductas imprudentes o temerarias del beneficiario.
-d) Vigilancia, protección y extinción de incendios y alarmas de los mismos.
-e) Intervenciones en hundimientos totales o parciales de edificios o instalaciones, ruinas, derribos, inundaciones, salvamentos y otros análogos.
+Constituyen el hecho imponible de la tasa las actuaciones o intervenciones del Servicio de Bomberos de Navarra-Nafarroako Suhiltzaileak, bien sea a solicitud de los interesados o de oficio por razones de seguridad, y siempre que la prestación del servicio redunde en beneficio del sujeto pasivo, en los siguientes casos:
+a) Accidentes de tráfico, ferroviarios, aéreos o acuáticos.
+b) Asistencias técnicas:
+1.º Achiques de agua.
+2.º Limpiezas de calzada.
+3.º Apertura de puertas. Este servicio no se realizará, salvo en los supuestos que impliquen riesgos para personas o bienes, en cuyo caso será catalogado como intervención en prevención o extinción de incendios o salvamentos. Prestado el servicio, si el personal interviniente comprueba que el incidente no ha implicado riesgo para las personas o bienes se procederá a la exigencia de la tasa correspondiente.
+4.º Transporte de agua.
+5.º Desconexión de alarmas, aparatos eléctricos, instalaciones de gas o agua.
+6.º Intervenciones en elementos interiores o exteriores de inmuebles, incluidos el saneamiento de fachadas, rótulos publicitarios, alarmas, ascensores y otros elementos análogos.
+7.º Vertidos de sustancias nocivas para el medio ambiente.
+c) Rastreo, rescates o salvamentos, en los siguientes casos:
+1.º Cuando el afectado no haya atendido los boletines o parte de avisos de alerta o predicción de meteorología adversa, de nivel naranja, rojo o equivalente, emitidos por los servicios oficiales competentes.
+2.º En zonas de riesgo o de difícil acceso, cuando sea debido a conductas imprudentes o temerarias del beneficiario.
+3.º Cuando la actuación tenga lugar en zonas señaladas como peligrosas o en aquellas de acceso prohibido o restringido.
+4.º Cuando se realice con ocasión de la práctica de actividades recreativas y deportivas organizadas que entrañen riesgo o peligro para las personas.
+5.º Cuando las personas afectadas no lleven el equipamiento adecuado para la actividad.
+6.º Cuando afecten a animales con dueño identificable.
+7.º Cuando se solicite el servicio sin que existan motivos objetivamente justificados, así como en caso de simulación de existencia de riesgo o peligro.
+d) Intervenciones en hundimientos totales o parciales de edificios o instalaciones, ruinas, derribos, inundaciones, y otros análogos.
+e) Servicios preventivos:
+1.º Asistencias técnicas, de prevención y de vigilancia y protección por riesgo de incendio o accidentes en pruebas deportivas y en actividades festivas, culturales o de tiempo libre.
+2.º Revisión de instalaciones de protección contra incendios.
+f) Prácticas de formación, siempre que se deriven de actividades que supongan la existencia de ánimo de lucro, entre las que se incluyen:
+1.º Cursos de formación y prácticas de personal a empresas, sociedades o particulares y en general a terceros.
+2.º Formación de brigadas de primera intervención en empresas privadas o a terceros.
+3.º Participación en simulacros que impliquen acreditación de sistemas de calidad o procesos similares.
 2. Sujeto pasivo.
-Son contribuyentes de la tasa las entidades, los organismos o las personas físicas o jurídicas que resulten beneficiarias de la prestación del servicio. Si existen varios beneficiarios del servicio la imputación de la tasa debe efectuarse proporcionalmente a los efectivos utilizados en las tareas en beneficio de cada uno de ellos, según el informe técnico y, si no fuera posible su individualización, por partes iguales.
-Tendrá la condición de sustituto del contribuyente, en los casos de prestación de los servicios de extinción de incendios, intervención en edificios y asistencia sanitaria a personas, la Entidad o Sociedad aseguradora del riesgo.
+Son contribuyentes de la tasa las entidades, los organismos o las personas físicas o jurídicas que resulten beneficiarias, personalmente o en sus bienes, por la actuación o intervención que constituya el hecho imponible.
+También son sujetos pasivos de esta tasa quienes organicen las actividades deportivas, festivas, culturales o de tiempo libre, que dieran lugar a la prestación de los servicios sujetos a esta tasa. En este caso serán subsidiariamente responsables del pago de la tasa los sujetos pasivos señalados en el párrafo anterior.
+Si existen varios beneficiarios del servicio la imputación de la tasa debe efectuarse proporcionalmente a los efectivos utilizados en las tareas en beneficio de cada uno de ellos, según el informe técnico y, si no fuera posible su individualización, por partes iguales.
+En los casos de simulación de existencia de riesgo o peligro, se considerará, en todo caso sujeto pasivo al responsable de dicha simulación.
+En el caso de que el sujeto pasivo tenga contratada una póliza de seguro que cubra los supuestos objeto de esta tasa, serán sujetos pasivos sustitutos las entidades o sociedades aseguradoras.
 3. Devengo.
 La tasa se devengará en el momento de salida de la dotación correspondiente desde el parque de bomberos o desde el lugar donde estén situados los medios aéreos.
 Debe considerarse este momento, a todos los efectos, como inicio de la prestación del servicio.
@@ -19,21 +42,36 @@ Debe considerarse este momento, a todos los efectos, como inicio de la prestaci�
 La cuota tributaria se determinará en función del número de efectivos, tanto personales como materiales, que se empleen en la prestación del servicio y el tiempo invertido en el mismo.
 5. Tarifa.
 a) La cuantía de la tasa se determinará de conformidad con los siguientes importes:
- | Importe por hora o fracción (euros)
-1. Intervención por cada efectivo personal. |  | 30,00
-2. Intervención Vehículos. | Autoescala o vehículo especial (PMA, químico, taller...). | 90,00
-Autobomba-Tanque-Ambulancia. | 65,00
-Jeep, furgón o turismo. | 30,00
-Motobomba, electrobomba, grupo hidráulico. | 4,50
-Lancha con motor. | 64,00
-3. Medios materiales. | Cada 10 litros de espumógeno. | 71,55
-Equipo completo de inmersión. | 8,95
-4. Intervención medios aéreos. | Helicóptero de transporte sanitario. | 1.360,00
+ | Euros
+1. Intervención por cada efectivo personal (Importe por hora o fracción). | 35,00
+2. Intervención Vehículos (Importe por hora o fracción) | Autoescala o vehículo especial (PMA, químico, taller...). | 250,00
+Autobomba-Tanque-Ambulancia. | 100,00
+Furgón, turismo o todo terreno. | 35,00
+Motobomba, electrobomba, grupo hidráulico. | 15,00
+Lancha con motor. | 35,00
+Por cada kilómetro recorrido desde la salida del parque hasta su regreso, se abonará por cada vehículo | 0,80
+3. Intervención medios aéreos (por hora o fracción) | Helicóptero de transporte sanitario. | 1.800,00
 Helicóptero de rescate. | 1.400,00
-Helicóptero BRIF. | 1.200,00
-b) Finalizada la prestación que constituye el hecho imponible, el órgano competente en materia de protección civil emitirá la liquidación de la tasa que deberá especificar el tiempo invertido y el número de efectivos que han intervenido, así como el importe de acuerdo con la tarifa establecida en este apartado.
+4. Medios materiales | Uso de equipo de respiración autónomo ERA (unidad). | 15,00
+Cada 10 litros de espumógeno. | 80,00
+Desengrasante litro/uso diluido. | 1,50
+Saco absorbente. | 15,00
+Puntal telescópico (por día o fracción). | 10,00
+Puntal estabilizador de tracción-compresión (por día o fracción). | 25,00
+Multidetector de gases, explosímetro (por medición). | 20,00
+Barreras absorbentes (por unidad). | 275,00
+Extintor (por unidad). | 25,00
+Motosierras o equipo de corte en madera o metal (por hora o fracción). | 60,00
+Equipo completo de inmersión. | 15,00
+5. Apertura de puertas | La que resulte de la aplicación de los epígrafes anteriores, con una cuota mínima por actuación de 170 euros.
+6. Gastos Generales | Por deterioro del equipamiento del personal y servicios generales se incrementará el total facturado en un 5%.
+7. Incidentes con materias peligrosas | En aquellos incidentes en los que haya presencia de sustancias tóxicas, inflamables, explosivas, etc. en cantidades o condiciones no permitidas por las disposiciones legales aplicables, se recargará la tarifa resultante en un 100%.
+8. Cursos de formación a terceros | Por alumno al día. | 25,00
+Por instructor del curso por hora o fracción. | 70,00
+b) Finalizada la prestación que constituye el hecho imponible, el órgano competente emitirá la liquidación de la tasa que deberá especificar el tiempo invertido y el número de efectivos que han intervenido, así como el importe de acuerdo con la tarifa establecida en este apartado.
 6. Exenciones.
-Los servicios enumerados en las letras b), c), d) y e) del apartado 1 estarán exentos de la tasa en los supuestos en los que la solicitud o prestación del servicio se encuentre motivada en causas fortuitas, inevitables o no imputables a la conducta del beneficiario.
-Esta exención no será de aplicación, en ningún caso, si se incumple la normativa vigente en materia de medios de protección contra incendios, o se trata de edificios con daños estructurales provocados por el deficiente mantenimiento y conservación del inmueble.
+Los servicios enumerados en las letras b), c) y d) del apartado 1 estarán exentos de la tasa en los supuestos en los que la solicitud o prestación del servicio se encuentre motivada en causas fortuitas, inevitables o no imputables a la conducta del beneficiario.
+Esta exención no será de aplicación, en ningún caso, si se incumple la normativa vigente que resulte aplicable, o si se trata de edificios con daños estructurales provocados por el deficiente mantenimiento y conservación del inmueble.
+Se modifican los apartados 1, 2, 5 y 6 por el art. 12.5 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
 Se modifica por el art. 6.3 de la Ley Foral 21/2012, de 26 de diciembre. Ref. BOE-A-2013-501
 Se añade, con efectos de 1 de enero de 2006, por el art. 7.6 de la Ley Foral 19/2005, de 29 de diciembre. Ref. BOE-A-2006-846

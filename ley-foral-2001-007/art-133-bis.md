@@ -139,6 +139,8 @@ Ampliación (100 × 100) | 64,00
 DENOMINACIÓN | TASA (euros)
 1. Catálogo de Cartografía: | 9,70
 2. Atlas de Navarra (Carreteras, Turismo y Medio Ambiente): | 13,00
+3. Bolsa planos relieve. | 0,20
+4. Bolsa planos papel. | 0,15
 5. Reducciones.
 a) Las Sociedades públicas y Organismos, dependientes de las Administraciones Públicas de la Comunidad Foral de Navarra y de las Entidades Locales de Navarra, las Universidades y centros de enseñanza gozarán de una reducción del 25 por 100 de las tarifas del apartado anterior.
 b) En relación con la tarifa 4) del apartado anterior, para los pedidos superiores a 10 unidades, tanto en color como en blanco y negro, se establecen, con carácter general, las siguientes reducciones:
@@ -151,6 +153,7 @@ En ampliaciones: | A partir de 10 unidades | 5 %
 A partir de 20 unidades | 10 %
 A partir de 50 unidades | 15 %
 A partir de 100 unidades | 20 %
+Se modifica el apartado 4.5) por el art. 12.13 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
 Se modifica el apartado 4 por el art. 9.5 de la Ley Foral 38/2013, de 28 de diciembre. Ref. BOE-A-2014-888
 Se modifica el apartado 4 por el art. 6.11 de la Ley Foral 21/2012, de 26 de diciembre. Ref. BOE-A-2013-501
 Se modifica el apartado 4 por el art. 11.2.Doce de la Ley Foral 20/2011, de 28 de diciembre. Ref. BOE-A-2012-1546
