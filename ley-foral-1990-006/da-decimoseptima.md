@@ -1,0 +1,3 @@
+Disposición adicional decimoséptima.
+En desarrollo de lo establecido en el apartado 1 del artículo 110 de la presente ley foral, las entidades locales de Navarra deben procurar la recuperación del patrimonio inmatriculado al amparo del artículo 206 de la Ley Hipotecaria hasta la reforma del mismo llevada a cabo por la Ley 13/2015, de 24 de junio, de Reforma de la Ley Hipotecaria, aprobada por Decreto de 8 de febrero de 1946 y del texto refundido de la Ley de Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo.
+Se añade por el art. 1.39 de la Ley Foral 4/2019, de 4 de febrero. Ref. BOE-A-2019-2642
