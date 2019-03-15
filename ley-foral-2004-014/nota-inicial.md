@@ -1,0 +1,1 @@
+Téngase en cuenta que, con el objeto de corregir el uso de un lenguaje no inclusivo, se modifican las palabras y expresiones referidas a los distintos cargos contenidos en la presente Ley Foral, tanto en su Título como en su preámbulo, texto del articulado y disposiciones, conforme a lo dispuesto en el art. 2 de la Ley Foral 9/2019, de 4 de marzo. Ref. BOE-A-2019-4297
