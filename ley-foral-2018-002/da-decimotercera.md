@@ -1,2 +1,4 @@
 Disposición adicional decimotercera. Plazo de las concesiones de servicios de transporte de viajeros.
-Las disposiciones de esta ley foral referentes a la duración de las concesiones de servicios, no serán de aplicación a las concesiones de servicios de transporte de viajeros en el sentido del Reglamento (CE) nº 1370/2007, que se regirán en cuanto al plazo, por su normativa específica.
+1. Las disposiciones de esta ley foral referentes a la duración de las concesiones de servicios, no serán de aplicación a las concesiones de servicios de transporte de viajeros en el sentido del Reglamento (CE) número 1370/2007, que se regirán en cuanto al plazo, por su normativa específica.
+2. Son susceptibles de reclamación especial en materia de contratación pública ante el Tribunal Administrativo de Contratos Públicos de Navarra los actos relacionados en el apartado 2 del artículo 122 de esta ley foral que se refieran a contratos de concesiones de servicios de transporte público de viajeros, en el sentido del Reglamento (CE) n.º 1370/2007.
+Se modifica por el art. único.27 de la Ley Foral 15/2019, de 26 de marzo. Ref. BOE-A-2019-5737

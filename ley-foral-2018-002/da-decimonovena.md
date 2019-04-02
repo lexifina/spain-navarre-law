@@ -1,0 +1,3 @@
+Disposición adicional decimonovena. Designación de los miembros del Tribunal Administrativo de Contratos Públicos de Navarra.
+La previsión contemplada en el artículo 121.2 de esta ley foral, por la que el Presidente y los dos vocales del Tribunal Administrativo de Contratos Públicos de Navarra no pueden ser reelegidos, se aplicará exclusivamente a las designaciones realizadas con posterioridad a la entrada en vigor de la Ley Foral 2/2018, de 13 de abril, de Contratos Públicos, y deberá contemplarse expresamente en el acto de nombramiento.
+Se añade por el art. único.28 de la Ley Foral 15/2019, de 26 de marzo. Ref. BOE-A-2019-5737
