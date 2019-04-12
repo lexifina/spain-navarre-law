@@ -1,0 +1,2 @@
+Disposición transitoria única. Aplicación del artículo 44 sobre los Planes de igualdad de mujeres y hombres en el sector público.
+Para la aplicación de lo dispuesto en el artículo 44 sobre Planes de igualdad de mujeres y hombres en el sector público de esta ley foral, las empresas de 50 o más trabajadores/as contarán con un periodo de tres años para la aprobación de los planes de igualdad. El resto de sujetos obligados contarán con un periodo de un año para su aprobación.
