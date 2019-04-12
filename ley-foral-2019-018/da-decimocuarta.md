@@ -1,0 +1,4 @@
+Disposición adicional decimocuarta. Derechos lingüísticos.
+1. El Gobierno de Navarra adoptará las medidas destinadas a garantizar el ejercicio de los derechos lingüísticos en los términos previstos en la Ley Foral 18/1986, de 15 de diciembre, del Vascuence, en el ejercicio de las profesiones del deporte, especialmente en el ámbito de la práctica deportiva en edad escolar.
+2. Asimismo, el Gobierno de Navarra adoptará las medidas destinadas a garantizar que las formaciones deportivas oficiales se puedan cursar en las lenguas propias de Navarra.
+3. De conformidad con lo establecido en el artículo 1, apartado 2, de la citada Ley Foral 18/1986, la adopción y aplicación de tales medidas se llevarán a cabo con arreglo a los principios de voluntariedad, gradualidad y respeto, de acuerdo con la realidad sociolingüística de Navarra.
