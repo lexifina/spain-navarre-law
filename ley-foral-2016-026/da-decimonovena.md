@@ -4,6 +4,9 @@ a) Tengan la calificación de explotación agraria prioritaria conforme al Decre
 b) Estén inscritas en el censo de operadores agroalimentarios de venta directa de Navarra, regulado por el Decreto Foral 107/2014, de 12 de noviembre, por el que se desarrolla la Ley Foral 8/2010, de 20 de abril, por la que se regula en Navarra la venta directa de productos ligados a la explotación agraria y ganadera.
 c) El importe neto de su cifra de negocios no supere 180.000 euros.
 d) Todos los socios sean contribuyentes de Impuesto sobre la Renta de las Personas Físicas en Navarra.
+Cuando se trate de sociedades civiles agrarias de nueva creación o que inicien la actividad de transformación de sus propios productos, los requisitos establecidos en esta disposición se deberán cumplir, respectivamente, en el periodo impositivo de constitución o en el periodo impositivo en que se inicie la actividad de transformación.
+Téngase en cuenta que esta última actualización del penúltimo párrafo, añadido por el art. 3.23 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450, tendrá efectos para periodos impositivos que iniciados a partir del 1 de enero de 2019.
 El incumplimiento de cualquiera de los requisitos establecidos en esta disposición adicional implicará que la sociedad civil agraria dejará de tributar en régimen de atribución de rentas, pasando a ser contribuyente por el Impuesto sobre Sociedades mientras mantenga la actividad de transformación de sus propios productos.
+Se añade, con efectos para los periodos impositivos iniciados a partir del 1 de enero de 2019, el penúltimo párrafo, por el art. 3.23 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
 Se añade, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2018, por el art. 3.15 de la Ley Foral 30/2018, de 27 de diciembre. Ref. BOE-A-2019-752
 Redactado conforme a la corrección de errores publicada en BOE núm. 32. Ref. BOE-A-2019-1542
