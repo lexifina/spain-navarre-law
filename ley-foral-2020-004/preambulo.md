@@ -1,0 +1,7 @@
+LA PRESIDENTA DE LA COMUNIDAD FORAL DE NAVARRA
+Hago saber que el Parlamento de Navarra ha aprobado la siguiente Ley Foral de Símbolos de Navarra.
+PREÁMBULO
+El artículo 7 de la Lorafna recoge la bandera y el escudo como símbolos propios de Navarra. Posteriormente el denominado «Himno de las Cortes» fue incorporado como símbolo en la Ley Foral 7/1986, de 28 de mayo, reguladora de los símbolos de Navarra, modificada mediante Ley Foral 24/2003, de 4 de abril.
+Mediante Ley Foral 3/2017, de 6 de abril, se derogó la Ley Foral 24/2003, manteniéndose la regulación del Himno de las Cortes.
+Con esta ley foral se pretende rellenar el vacío legal creado recuperando la regulación completa del uso de los tres símbolos básicos de la Comunidad Foral de Navarra al objeto de fomentar la presencia de estos en la vida oficial y ordinaria de nuestra sociedad. Para ello, se fijan las características formales de dichos símbolos, la utilización de los mismos por parte de las autoridades de la Comunidad Foral de Navarra, su ubicación en los edificios públicos, así como los documentos y actos que requieren su presencia, regulando al mismo tiempo la relación de preeminencia que con respecto a otros símbolos institucionales ha de guardarse.
+A través de esta regulación se establece la forma y características con las que los símbolos propios de Navarra formarán parte de la vida de la ciudadanía y presidirán los actos públicos y aquellos que revistan especiales circunstancias de solemnidad.
