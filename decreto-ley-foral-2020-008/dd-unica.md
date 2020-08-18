@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Queda derogado el título I y las disposiciones adicionales del Decreto-ley Foral 7/2020, de 22 de julio, por el que se aprueban medidas preventivas extraordinarias para hacer frente a la crisis sanitaria del coronavirus (COVID-19), una vez superada la fase 3 del Plan para la transición hacia una nueva normalidad y cuantas disposiciones de igual o inferior rango se opongan a los dispuesto en este Decreto-ley Foral.
