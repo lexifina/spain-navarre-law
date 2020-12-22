@@ -1,0 +1,3 @@
+Disposición transitoria única. Régimen transitorio de las subvenciones concedidas con anterioridad a la entrada en vigor de esta ley foral.
+Lo dispuesto en esta ley foral será de aplicación a las subvenciones concedidas con anterioridad a su entrada en vigor, siempre que la deslocalización, de acuerdo con lo definido en el artículo 4, se produzca a partir de la entrada en vigor de la presente ley foral y no hayan transcurrido ocho años desde la concesión de la subvención.
+El recargo establecido en el artículo 7.2. solo será de aplicación a las subvenciones que se concedan a partir de la entrada en vigor de la presente ley foral.
