@@ -1,0 +1,5 @@
+Artículo 27 quáter. Actividades complementarias de mediación realizadas por empresas inscritas en el Registro de Turismo de Navarra.
+1. Las empresas de alojamiento turístico y de turismo activo y/o cultural inscritas en el Registro de Turismo de Navarra podrán realizar, con carácter complementario a su actividad principal, operaciones de mediación conforme a las condiciones y requisitos que se establezcan reglamentariamente.
+2. Aquellas que organicen o comercialicen viajes combinados o faciliten servicios de viaje vinculados deberán cumplir con las obligaciones previstas en los artículos 27, 27 bis y 27 ter, así como con las relativas a la obligación de comunicación de constitución de dichas garantías.
+3. En cualquier caso, el servicio de viaje que sea objeto de la actividad principal de la empresa ha de ser uno de los elementos constitutivos de la combinación o vinculación de servicios de viaje.
+Se añade por el art. único.24 de la Ley Foral 19/2020, de 16 de diciembre. Ref. BOE-A-2021-528

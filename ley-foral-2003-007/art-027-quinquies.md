@@ -1,0 +1,4 @@
+Artículo 27 quinquies. Actividades complementarias de mediación realizadas por empresas cuya actividad principal no sea turística.
+1. Las empresas cuya actividad principal no sea turística podrán, con carácter complementario a dicha actividad, organizar o comercializar viajes combinados y/o facilitar servicios de viaje vinculados conforme a las condiciones y requisitos que se establezcan reglamentariamente cumpliendo, en cualquier caso, con las obligaciones previstas en los artículos 27, 27 bis y 27 ter, así como con las relativas a la obligación de comunicación de constitución de dichas garantías.
+2. El servicio de viaje que se corresponda con la actividad principal de la empresa ha de ser uno de los elementos constitutivos del viaje combinado o servicio de viaje vinculado.
+Se añade por el art. único.25 de la Ley Foral 19/2020, de 16 de diciembre. Ref. BOE-A-2021-528
