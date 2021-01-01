@@ -1,0 +1,5 @@
+Artículo 210 bis.
+1. Las entidades locales navarras podrán iniciar la tramitación de expedientes de gastos de forma anticipada a la existencia del correspondiente crédito presupuestario, en el mismo ejercicio o en el anterior a aquél a cuyo presupuesto vayan a ser imputados.
+El inicio del expediente se acompañará necesariamente de un informe de Intervención que refleje expresamente el carácter anticipado del gasto y su sometimiento a la condición suspensiva de la existencia de crédito adecuado y suficiente.
+2. En todo caso, los pliegos o condicionados de cláusulas administrativas particulares, las convocatorias de las subvenciones o los documentos que, según la naturaleza del gasto, resulten necesarios deberán contener prevención expresa de que el gasto cuya tramitación se anticipa y, en su caso, la adjudicación o resolución quedan sometidos a la condición suspensiva de la existencia de crédito adecuado y suficiente para financiar las obligaciones de que se trate en el ejercicio correspondiente.
+Se añade por el art. único.25 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356

@@ -1,0 +1,4 @@
+Artículo 242 bis.
+1. La elaboración, aprobación y ejecución de los presupuestos y demás actuaciones que afecten a los gastos o ingresos de las entidades locales de Navarra y de sus entes dependientes se realizará en un marco de estabilidad presupuestaria y sostenibilidad financiera, coherente con la normativa foral, estatal, y europea.
+2. Para la aplicación de la Regla de Gasto, la variación interanual de los gastos no financieros definidos en términos del Sistema Europeo de Cuentas Nacionales y Regionales, excluidos los intereses de la deuda y la parte del gasto financiado con fondos finalistas procedentes de la Unión Europea, de otras Administraciones Públicas, de la gestión urbanística u otros de carácter finalista, no podrá superar la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española.
+Se añade por el art. único.35 de la Ley Foral 22/2020, de 29 de diciembre. Ref. BOE-A-2021-1356
