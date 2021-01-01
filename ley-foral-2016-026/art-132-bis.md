@@ -1,0 +1,3 @@
+Artículo 132 bis. Deducciones de la cuota.
+Las deducciones de la cuota se determinarán aplicando las normas previstas en el título VI. No obstante, no darán derecho a deducción los gastos e inversiones imputables exclusivamente a las actividades exentas. Los gastos e inversiones parcialmente imputables a las actividades no exentas darán derecho a deducción en el porcentaje que representen los ingresos obtenidos en el ejercicio de actividades económicas y del resto de actividades cuyas rentas no gocen de exención, respecto de los ingresos totales de la entidad.
+Se añade, con efectos para periodos impositivos que se inicien a partir del 1 de enero de 2021, por el art. 2.18 de la Ley Foral 21/2020, de 29 de diciembre. Ref. BOE-A-2021-1355#a2
