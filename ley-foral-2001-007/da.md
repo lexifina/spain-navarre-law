@@ -1,3 +1,0 @@
-Disposición adicional.
-Se suspende, durante el año 2002, la exacción de la tasa establecida en la Tarifa 1 del artículo 146 por los servicios facultativos correspondientes a la extensión de la guía de origen y sanidad en el caso de bóvidos, ovinos y caprinos, siempre que la guía se expida en los días y horarios de trabajo establecidos por la Administración Pública correspondiente.
-Se añade, con efectos de 1 de enero de 2002, por el art. 9.11 de la Ley Foral 3/2002, de 14 de marzo. Ref. BOE-A-2002-8354
