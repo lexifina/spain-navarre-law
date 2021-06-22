@@ -1,0 +1,3 @@
+Disposición derogatoria única.
+1. Se deroga la Ley Foral 4/2005, de 22 de marzo, de intervención para la protección ambiental, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley foral, salvo lo previsto en las disposiciones transitorias primera y segunda de la presente ley foral.
+2. Asimismo, se deroga el Decreto Foral 135/1989, de 8 de junio, por el que se establecen las condiciones técnicas que deberán cumplir las actividades emisoras de ruidos o vibraciones, salvo el capítulo llI. Contenidos de los proyectos, que seguirá vigente hasta la aprobación de una nueva normativa que regule los aspectos contenidos en el mismo. El régimen jurídico aplicable en materia de ruido será el definido por la legislación básica.
