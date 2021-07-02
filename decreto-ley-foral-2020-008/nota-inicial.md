@@ -1,0 +1,2 @@
+Norma derogada con excepción de los arts. 6 y 11, con efectos de 2 de julio de 2021, por el art. único.2 del Decreto-ley Foral 6/2021, de 21 de junio. Ref. BOE-A-2021-12830
+Téngase en cuenta que los arts. 6 y 11 estarán vigentes hasta que se publique en el «Boletín Oficial de Navarra» la declaración del órgano competente en materia de sanidad, según dispone el art. único.3 del citado Real Decreto-ley Foral.
