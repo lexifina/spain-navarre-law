@@ -3,6 +3,8 @@ Artículo 68 bis. Deducción por pensiones no contributivas de jubilación.
 La deducción se practicará de conformidad con lo previsto en el segundo párrafo del apartado 2 de la Disposición adicional primera de la Ley Foral 15/2016, de 11 de noviembre, por la que se regulan los derechos a la inclusión social y a la renta garantizada.
 2. Para tener derecho a esta deducción el sujeto pasivo deberá solicitar al departamento competente en materia de Servicios Sociales el abono de la deducción de forma anticipada, de acuerdo con el procedimiento establecido reglamentariamente. Si no se solicita el abono de la deducción de forma anticipada, no se generará el derecho a aplicar la deducción. Esta se entenderá aplicada en el momento en que se cobre el pago anticipado.
 Reglamentariamente se regulará el procedimiento para la práctica de esta deducción, así como para la solicitud y obtención de su abono de forma anticipada.
+3. La deducción regulada en este artículo será incompatible con la percepción del ingreso mínimo vital regulado en el Real Decreto Ley 20/2020, de 29 de mayo.
+Se añade el apartado 3, con efectos desde el 1 de enero de 2021, por el art. 1.13 de la Ley Foral 19/2021, de 29 de diciembre de 2021. Ref. BOE-A-2022-2067
 Se modifica el apartado 2, con efectos desde el 1 de enero de 2020, por el art. 1.18 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
 Se modifica, con efectos a partir del 1 de enero de 2017, por el art. único.2 de la Ley Foral 6/2017, de 9 de mayo. Ref. BOE-A-2017-5951
 Se modifica por la disposición final 5.5 de la Ley Foral 15/2016, de 11 de noviembre. Ref. BOE-A-2016-11671#df-5
