@@ -1,0 +1,2 @@
+Disposición adicional única. Funciones del Consejo de Colegios Profesionales.
+El Colegio de Logopedas de Navarra/Nafarroako Logopeden Elkargoa, que tiene el carácter de general por extenderse al territorio de toda la Comunidad Foral de Navarra, asumirá, cuando proceda, las funciones que la Ley Foral 3/1998, de 6 de abril, de Colegios Profesionales de Navarra, determina para los Consejos Navarros de Colegios Profesionales.
