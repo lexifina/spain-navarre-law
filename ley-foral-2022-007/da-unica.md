@@ -1,0 +1,2 @@
+Disposición adicional única. Movimientos de fondos en las partidas del fondo de participación de las Entidades Locales en los Tributos de Navarra por transferencias corrientes.
+La persona titular de la dirección general con competencia en materia de Administración Local podrá realizar movimientos de fondos entre partidas del fondo de participación de las Haciendas Locales en los Tributos de Navarra por transferencias corrientes cuando así se considere necesario.
