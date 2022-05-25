@@ -1,0 +1,2 @@
+Disposición transitoria única. Adecuación de las herramientas informáticas a la nueva regulación de la contratación en régimen administrativo.
+La Administración de la Comunidad Foral de Navarra y sus organismos autónomos dispondrá de un plazo de seis meses a partir de la entrada en vigor del presente decreto-ley foral para la adecuación de las herramientas informáticas de gestión de personal a las previsiones contenidas en el título I.
