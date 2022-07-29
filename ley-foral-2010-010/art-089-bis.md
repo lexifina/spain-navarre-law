@@ -1,0 +1,3 @@
+Artículo 89 bis. Obligación de ofrecimiento de alquiler bonificado por finalización de contrato de arrendamiento de vivienda habitual.
+Antes de dar por finalizado el contrato de alquiler de vivienda habitual, en los términos aplicables de los artículos 88 y 89, las personas jurídicas indicadas en el artículo anterior que sean propietarias de la vivienda deberán acreditar haber ofrecido a las personas o unidades familiares titulares del contrato de arrendamiento una propuesta de alquiler bonificado en los términos y con los requisitos previstos en el citado artículo.
+Se añade por el art. 1.31 de la Ley Foral 20/2022, de 1 de julio. Ref. BOE-A-2022-12940#ap
