@@ -1,0 +1,21 @@
+Artículo tercero. Modificación de la Ley Foral 17/2000, de 29 de diciembre, reguladora de la aportación económica de los usuarios a la financiación de los servicios por estancia en centros para la tercera edad.
+Uno. Se modifica el artículo 2, que tendrá la siguiente redacción:
+«Artículo 2. Establecimiento de la capacidad económica de las personas obligadas al pago.
+A los efectos de esta ley foral se calculará la capacidad económica, de acuerdo con los siguientes elementos de valoración: renta, patrimonio y número de personas de la unidad familiar.
+Por renta se entiende la totalidad de los ingresos de la unidad familiar derivados de:
+Rendimientos del trabajo, incluidas pensiones y prestaciones de previsión social, cualquiera que sea su régimen.
+Rendimientos del capital mobiliario e inmobiliario. No se computarán los rendimientos del capital inmobiliario consistentes en el precio del alquiler del inmueble que fuera la vivienda habitual de personas residentes en centros para la tercera edad que estas hubieran cedido para formar parte de las bolsas de alquiler o programas de alquiler de viviendas desocupadas que impulse la Administración de la Comunidad Foral de Navarra.
+Rendimientos de las actividades empresariales o profesionales.
+Por patrimonio se entiende la totalidad del capital mobiliario e inmobiliario de la persona usuaria, valorado desde los cinco años anteriores a la presentación de la solicitud de reconocimiento de la situación de dependencia, ya fueran a título oneroso o gratuito, evitando todo empobrecimiento ficticio. Para la estimación del valor de este se seguirán las normas establecidas para el Impuesto sobre el Patrimonio.
+Por capital mobiliario se entiende los depósitos en cuenta corriente y a plazo, fondos de inversión y fondos de pensiones, valores mobiliarios, seguros de vida y rentas temporales o vitalicias, objetos de arte, antigüedades, vehículos, joyas y otros objetos de valor.
+Por capital inmobiliario se entiende los bienes inmuebles de naturaleza rústica y urbana.
+Por unidad familiar se entiende la definida en la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas.
+La falsificación u ocultación de datos sobre la capacidad económica podrá dar lugar a la suspensión temporal o definitiva de la prestación del servicio.
+Asimismo, cuando se detecte por parte del organismo competente en materia de personas mayores que ha habido un empobrecimiento ficticio de la persona solicitante de servicios de estancia en centros de la tercera edad o de ayuda económica con ánimo defraudatorio a los efectos de lo dispuesto en este artículo, independientemente del tiempo en que se produjo este empobrecimiento, podrá dar lugar a la denegación o a la supresión temporal o definitiva de la prestación del servicio o de la ayuda económica, en su caso.»
+Dos. Se modifica el artículo 17, que tendrá la siguiente redacción:
+«Artículo 17. Exigibilidad.
+Para las personas usuarias que tengan deuda acumulada, esta será exigible desde el momento en que, por cualquier causa, cese la prestación del servicio, o en el momento en que la deuda supere las garantías aportadas.
+La deuda pendiente tendrá carácter de ingreso de derecho público, y se exigirá por los procedimientos establecidos con carácter general en las normas sobre recaudación, incluida la vía de apremio.
+Cuando, en virtud de los apartados anteriores, sea precisa la ejecución patrimonial de los bienes de la persona usuaria, dicha ejecución no se realizará sobre la vivienda si esta se necesita para el uso propio por abandono de la residencia.
+La ejecución quedará igualmente en suspenso cuando la vivienda sea el domicilio único del cónyuge o persona a la que estuviera unida por vínculo de convivencia estable, hijos menores, afectados por discapacidad o carentes de recursos socioeconómicos u otras personas cuya necesidad de la misma sea valorada por el organismo competente en materia de servicios sociales, así como cuando la vivienda hubiera sido objeto de cesión para formar parte de las bolsas de alquiler o programas de alquiler de viviendas desocupadas que impulse la Administración de la Comunidad Foral de Navarra.
+Esta suspensión se producirá sin perjuicio de la traba o embargo sobre la vivienda.»
