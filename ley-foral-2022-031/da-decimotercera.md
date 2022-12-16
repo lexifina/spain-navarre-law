@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Accesibilidad en el ámbito de la atención a las víctimas de violencia de género.
+La Administración Foral garantizará que los centros de urgencias, casas de acogida, pisos residencia y cualquier otro centro y servicio destinado a la atención a víctimas de violencia de género sean plenamente accesibles tanto en los edificios como en la atención profesional prestada, para todas las mujeres con discapacidad, sea esta del tipo que sea.
