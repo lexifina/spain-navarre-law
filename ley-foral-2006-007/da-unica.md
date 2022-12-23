@@ -1,2 +1,0 @@
-Disposición adicional única. Remisiones al régimen sancionador.
-A los efectos previstos en el Título IV de esta Ley Foral las remisiones a la Ley 26/1984, de 19 de julio, General para la Defensa de Consumidores y Usuarios, contenidas en otras disposiciones normativas relativas a la tipificación y calificación de las infracciones, y a la graduación de las sanciones, se entenderán hechas a los artículos correspondientes de esta Ley Foral.
