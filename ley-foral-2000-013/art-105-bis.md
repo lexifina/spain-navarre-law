@@ -18,13 +18,14 @@ Practicadas las rectificaciones oportunas, se dictará el acuerdo de publicació
 La notificación del acuerdo se entenderá producida con su publicación y la del listado.
 La publicación se efectuará en todo caso por medios electrónicos, debiendo adoptarse las medidas necesarias para impedir la indexación de su contenido a través de motores de búsqueda en Internet y los listados dejarán de ser accesibles una vez transcurridos tres meses desde la fecha de publicación.
 El tratamiento de datos necesarios para la publicación se sujetará a lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
-4. Será competente para dictar los acuerdos de publicación regulados en este artículo la persona que ostente la Dirección Gerencia de la Hacienda Tributaria de Navarra, debiendo producirse la publicación en todo caso durante el primer semestre de cada año.
+4. Será competente para dictar los acuerdos de publicación regulados en este artículo la persona que ostente la Dirección Gerencia de la Hacienda Foral de Navarra, debiendo producirse la publicación en todo caso en el mes de junio de cada año.
 5. En la publicación del listado se especificará que la situación en el mismo reflejada es la existente a la fecha de referencia señalada en el apartado 3.
-Sin perjuicio de ello, el deudor no será incluido en el listado en el caso de que, con posterioridad a dicha fecha de referencia y antes de dictarse el acuerdo de publicación, ingrese las deudas pendientes.
+Sin perjuicio de ello, el deudor no será incluido en el listado en el caso de que ingrese las deudas pendientes antes del 1 de junio o, en el plazo de 10 días desde la notificación de la propuesta de inclusión en el listado, si esta se realiza con posterioridad al 21 de mayo.
 Lo dispuesto en este artículo no afectará en modo alguno al régimen de impugnación establecido en esta ley foral en relación con las actuaciones y procedimientos de los que se deriven las deudas tributarias ni tampoco a las actuaciones y procedimientos de aplicación de los tributos iniciados o que se pudieran iniciar con posterioridad en relación con las mismas.
 Las actuaciones desarrolladas en el procedimiento establecido en este artículo en orden a la publicación de la información en el mismo regulada no constituyen causa de interrupción a los efectos previstos en el artículo 57.
 La comunicación al deudor de la propuesta de inclusión en el listado a que se refiere el apartado 3, constituirá causa de interrupción de la prescripción a los efectos previstos en el artículo 57.
 6. El acuerdo de publicación del listado pondrá fin a la vía administrativa.
+Se modifican el apartado 4 y el segundo párrafo del 5 por el art. 8.2 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
 Se modifica el último párrafo del apartado 3 por el art. 6.13 de la Ley Foral 29/2019, de 23 de diciembre. Ref. BOE-A-2020-450
 Se modifican los apartados 1, 2 y 5 por el art. 5.21 a 23 de la Ley Foral 16/2017, de 27 de diciembre. Ref. BOE-A-2018-801
 Se añade, con efectos de 1 de enero de 2016, por el art. 7.8 de la Ley Foral 23/2015, de 28 de diciembre. Ref. BOE-A-2016-573.

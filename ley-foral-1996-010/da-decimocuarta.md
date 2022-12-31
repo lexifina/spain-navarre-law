@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Actividades prioritarias del mecenazgo social, medioambiental y deportivo.
+Mediante ley foral se podrá establecer el carácter prioritario de determinadas actividades de mecenazgo social, de mecenazgo medioambiental y de mecenazgo deportivo, así como de entidades beneficiarias de los mismos. En relación con dichas actividades, la ley foral podrá elevar en cinco puntos porcentuales, como máximo, los porcentajes y límites de las deducciones establecidas en las disposiciones adicionales décima, duodécima y decimotercera.
+Se añade, con efectos para los periodos impositivos que se inicien a partir del 1 de enero de 2023, por el art. 9.12 de la Ley Foral 36/2022, de 28 de diciembre. Ref. BOE-A-2023-3349
