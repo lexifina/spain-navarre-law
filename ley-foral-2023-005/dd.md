@@ -1,0 +1,2 @@
+Disposición derogatoria. Normativa derogada.
+A la entrada en vigor de esta ley foral quedarán derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta y, en particular, la Ley Foral 8/2010, de 20 de abril, por la que se regula en Navarra la venta directa de productos ligados a la explotación agraria y ganadera, y el Decreto Foral 107/2014, de 12 de noviembre, por el que se desarrolla la mencionada ley foral, todo ello sin perjuicio de la previsión contenida en la disposición transitoria segunda de esta norma.
