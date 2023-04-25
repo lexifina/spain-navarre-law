@@ -1,0 +1,2 @@
+Disposición transitoria única. Acreditación de la cantidad de plástico reciclado contenida en los productos que forman parte del ámbito objetivo del impuesto.
+Durante el año 2023, alternativamente a lo dispuesto en el artículo 10.3, se podrá acreditar la cantidad de plástico no reciclado contenido en los productos que forman parte del ámbito objetivo del impuesto mediante una declaración responsable firmada por el fabricante.
