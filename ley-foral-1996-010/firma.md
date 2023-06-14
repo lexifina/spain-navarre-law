@@ -1,2 +1,0 @@
-JUAN CRUZ ALLI ARANGUREN
-Vicepresidente
