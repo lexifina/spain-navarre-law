@@ -1,0 +1,2 @@
+Disposición adicional única. Excepción de comercialización de ejemplares pescados en Navarra.
+La prohibición de comercialización de ejemplares pescados en Navarra prevista en el artículo 23.1 de la presente ley foral, no será de aplicación a la primera captura del salmón atlántico que se pesque cada temporada en el río Bidasoa, tradicionalmente conocido como «Lehenbizikoa», cuya identificación corresponderá en exclusiva al personal del Servicio de Basozainak/Guarderío de Medio Ambiente.
