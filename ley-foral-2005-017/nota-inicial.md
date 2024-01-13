@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley Foral 17/2005, de 22 de diciembre, de Caza de Navarra", según establece la disposición final 1.1 de la Ley Foral 21/2023, de 26 de diciembre. Ref. BOE-A-2024-1208#df
