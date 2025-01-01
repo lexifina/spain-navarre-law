@@ -1,0 +1,4 @@
+Artículo 44 bis. Regularización de beneficios fiscales.
+Cuando con posterioridad a la aplicación de una exención, deducción, o incentivo fiscal, se produzca la pérdida del derecho a su aplicación por incumplimiento de los requisitos a que estuviese condicionado, el obligado tributario deberá regularizar la situación tributaria mediante la presentación, dentro del plazo de dos meses desde que se produzca el hecho determinante del incumplimiento, de una autoliquidación donde se exprese tal circunstancia.
+A dicha autoliquidación se acompañará el ingreso de la parte del impuesto que se hubiera dejado de ingresar como consecuencia de la aplicación del beneficio fiscal, más los intereses de demora correspondientes.
+Se añade por el art. 5.2 de la Ley Foral 20/2024, de 26 de diciembre. Ref. BOE-A-2025-719
