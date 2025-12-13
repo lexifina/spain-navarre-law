@@ -1,6 +1,8 @@
 Artículo 25 bis. Conceptos relativos a las reservas.
 A los efectos previstos en la presente ley foral:
-1. Se considera discapacidad motriz grave aquella que afecte a las extremidades inferiores, siempre que el grado que de ella derive iguale o supere el 40 por 100.
+1. (Suprimido)
 2. Se consideran víctimas del terrorismo aquellas personas que padezcan secuelas que den lugar a un grado de discapacidad igual o superior al 65 por 100, así como los cónyuges y familiares en primer grado de los fallecidos, siempre que se trate de consecuencias de actos de terrorismo oficialmente reconocidos como tales.
 3. Se consideran víctimas de violencia de género aquellas personas que sean reconocidas como tales por el departamento competente del Gobierno de Navarra en aplicación de la legislación específica sobre esta materia. Las circunstancias en las que estas personas podrán acceder a la propiedad o el alquiler se regularán reglamentariamente. No obstante lo anterior, para el acceso a viviendas protegidas en régimen de propiedad será necesaria la existencia de sentencia firme de cualquier órgano jurisdiccional que declare que la persona ha sido víctima de violencia de género. Dicha sentencia deberá haber sido dictada en los cinco años anteriores a la fecha en que se inicie el procedimiento de adjudicación en el que la persona víctima de violencia de género haya resultado adjudicataria de la vivienda. A la hora de ponderar los ingresos familiares de las víctimas de violencia de género se tendrán en cuenta las mismas disposiciones aplicables a las personas con discapacidad o mayores de 65 años.
+Se suprime el apartado 1 por el art. único.2 de la Ley Foral 15/2025, de 27 de noviembre. Ref. BOE-A-2025-26135
+Esta modificación surte efectos desde el 1 de diciembre de 2025, según establece la disposición final única de la citada Ley Foral.
 Se añade por el art. 1.10 de la Ley Foral 9/2025, de 30 de junio. Ref. BOE-A-2025-15656
