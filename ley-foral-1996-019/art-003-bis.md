@@ -9,10 +9,11 @@ b) Los ingresos procedentes de cualquier actividad profesional o mercantil.
 c) Las dietas por asistencia al Parlamento de Navarra o a cualquier otro organismo o institución pública.
 d) Las dietas por asistencia a consejos de administración de empresas tanto públicas como privadas.
 e) Las pensiones de cualquier régimen público de previsión social.
-Si las retribuciones, pensiones o ingresos señalados fueran inferiores, en cómputo anual, a la prestación económica establecida en el apartado anterior, únicamente tendrán derecho a percibir la diferencia.
-4. En ningún caso percibirán la prestación económica establecida en los apartados anteriores los empleados públicos que tengan reservado un puesto de trabajo en cualquiera de las Administraciones Públicas o en los organismos dependientes de las mismas.
+Si las retribuciones o ingresos señalados fueran inferiores, en cómputo anual, a la prestación económica establecida en el apartado anterior, únicamente tendrán derecho a percibir la diferencia.
+4. En ningún caso percibirán la prestación económica establecida en los apartados anteriores los empleados públicos que tengan reservado un puesto de trabajo en cualquiera de las Administraciones Públicas o en los organismos dependientes de las mismas, ni las personas que, tras su cese, pasen a percibir una pensión de jubilación de cualquier régimen público de previsión social.
 5. (Derogado)
 6. Se publicarán en el Portal del Gobierno de Navarra en Internet, en la forma que reglamentariamente se determine, las prestaciones económicas percibidas, de conformidad con el apartado 2 de este artículo, por los ex miembros del Gobierno de Navarra, por los ex Directores Generales de la Administración de la Comunidad Foral de Navarra o por los ex Directores Generales de organismos públicos dependientes de la misma.
+Se modifican los apartados 3 y 4 por la disposición final 11 de la Ley Foral 16/2025, de 22 de diciembre. Ref. BOE-A-2026-5611
 Se deroga el apartado 5 por el art. único de la Ley Foral 32/2019, de 23 de diciembre. Ref. BOE-A-2020-453
 Se modifican los apartados 2 a 4 y se añade el 6 por el art. único.2 y 3 de la Ley Foral 12/2012, de 21 de junio. Ref. BOE-A-2012-9371
 Esta actualización entra en vigor el 28 de diciembre de 2012, según establece la disposición final 2 de la citada ley foral.
