@@ -1,2 +1,0 @@
-Disposición adicional única.
-El Gobierno de Navarra, en el plazo máximo de un año contado a partir de la entrada en vigor de la presente Ley Foral, aprobará los reglamentos del Registro de entidades de voluntariado, del acceso a apoyos económicos y asistencia técnica a las entidades, de la distinción anual de Voluntario de Navarra, de la Comisión Interdepartamental del Voluntariado y del Consejo Navarro del Voluntariado.
