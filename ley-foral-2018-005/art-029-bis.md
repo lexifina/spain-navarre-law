@@ -1,0 +1,4 @@
+Artículo 29 bis. Supervisión de incumplimientos de las obligaciones de publicidad activa.
+1. Cualquier persona física o jurídica, a la vista de posibles incumplimientos de publicidad activa, podrá, sin perjuicio de lo dispuesto en el artículo 60.3 y del ejercicio del resto de derechos que le confiere el ordenamiento jurídico, presentar denuncia ante el Consejo de Transparencia de Navarra, teniendo derecho a recibir una respuesta motivada en el plazo de dos meses desde su presentación. La respuesta del Consejo de Transparencia de Navarra se publicará en su página o espacio web, previa disociación de los datos personales.
+2. El denunciante gozará, en todo caso, del derecho de confidencialidad, debiendo, a solicitud de aquel, omitirse cualquier dato que pueda conducir a su identificación.
+Se añade por el art. 1.16 de la Ley Foral 3/2026, de 23 de marzo. Ref. BOE-A-2026-9045
