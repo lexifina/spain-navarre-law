@@ -22,7 +22,14 @@ A estos efectos, en el cálculo del importe total se considerarán las retribuci
 Cuando se realicen operaciones entre personas o entidades vinculadas, conforme a lo dispuesto en la Ley Foral 26/2016, de 28 de diciembre, del Impuesto sobre Sociedades, la retribución no podrá ser inferior al valor de mercado. Se entenderá por valor de mercado aquel que se habría acordado por personas o entidades independientes en condiciones que respeten el principio de libre competencia. A estos efectos, para la determinación del valor de mercado se aplicará cualquiera de los métodos recogidos en la Ley Foral 26/2016, de 28 de diciembre.
 2. La base imponible definida en este apartado se determinará para cada instalación en la que se realicen las actividades señaladas en el apartado Cuatro de este artículo.
 Apartado ocho. Tipo de gravamen.
-El impuesto se exigirá al tipo del 7 por 100.
+El impuesto se exigirá al tipo del 0 por 100.
+Téngase en cuenta que esta última actualización del apartado ocho, establecida por el art. 4.2 del Decreto Foral Legislativo 2/2026, de 29 de julio, Ref. BOE-A-2026-17838, producirá efectos el 1 de enero de 2028.
+Desde el 1 de enero de 2027 hasta el 31 de diciembre de 2027, el apartado ocho tendrá la siguiente redacción, según establece el art. 4.1 del citado Decreto Foral Legislativo:
+«Apartado Ocho. Tipo de gravamen.
+El impuesto se exigirá al tipo del 3,5 por 100.»
+Y hasta el 31 de diciembre de 2026, se mantiene con la redacción anterior:
+«Apartado Ocho. Tipo de gravamen.
+El impuesto se exigirá al tipo del 7 por 100.»
 Apartado nueve. Cuota íntegra.
 La cuota íntegra es la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
 Apartado diez. Liquidación y pago.
@@ -45,5 +52,6 @@ Los pagos fraccionados del último trimestre se calcularán en función del valo
 Apartado catorce. Disposición adicional segunda. Determinación de la base imponible y del importe de los pagos fraccionados del Impuesto sobre el valor de la producción de la energía eléctrica durante el ejercicio 2019.
 Para el ejercicio 2019 la base imponible del impuesto sobre el valor de la producción de la energía eléctrica estará constituida por el importe total que corresponda percibir al contribuyente por la producción e incorporación al sistema eléctrico de energía eléctrica medida en barras de central, por cada instalación en el periodo impositivo minorada en las retribuciones correspondientes a la electricidad incorporada al sistema durante el primer trimestre natural.
 Los pagos fraccionados se calcularán en función del valor de la producción de energía eléctrica en barras de central realizada durante el periodo impositivo minorado en las retribuciones correspondientes a la electricidad incorporada al sistema durante el primer trimestre natural, aplicándose el tipo impositivo previsto en el apartado ocho de este artículo
+Se modifica el apartado 8, con efectos de 1 de enero de 2028, y se establece que, desde el 1 de enero de 2027 hasta el 31 de diciembre de 2027, el tipo de gravamen será del 3,5 por 100, y se mantiene el tipo de gravamen del 7 por 100 de la redacción anterior hasta el 31 de diciembre de 2026, según establece el art. 4.1 y 2 del Decreto Foral Legislativo 2/2026, de 29 de julio. Ref. BOE-A-2026-17838
 Se modifica, con efectos desde el 27 de junio de 2022, el apartado 7.1 por el art. 1 del Decreto Foral Legislativo 4/2022, de 5 de julio. Ref. BOE-A-2022-13476#ap
 Se añaden los apartados 13 y 14, con efectos de 7 de octubre de 2018, por el art. 2.1 del Decreto Legislativo 2/2018, de 28 de noviembre. Ref. BOE-A-2019-401
