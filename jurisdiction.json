@@ -1,0 +1,11 @@
+{
+  "path": "es-nc",
+  "code": "ES-NC",
+  "name": "Navarre",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-navarre-law",
+  "build": "built: statute of autonomy and laws (229 norms, 1101 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}

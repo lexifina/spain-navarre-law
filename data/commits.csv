@@ -1,0 +1,695 @@
+day,kind,law,acts,files,branch
+1982-08-16,start,boe-a-1982-20824,lorafna,85,main
+1983-12-08,start,boe-a-1984-3020,ley-foral-1983-039,8,main
+1984-01-26,start,boe-a-1984-5396,ley-foral-1984-001,21,main
+1984-12-26,start,boe-a-1985-1960,ley-foral-1984-019,42,main
+1985-03-30,start,boe-a-1985-10246,ley-foral-1985-003,20,main
+1985-03-30,start,boe-a-1985-10245,ley-foral-1985-004,14,main
+1985-10-22,start,boe-a-1986-2792,ley-foral-1985-018,4,main
+1985-11-21,start,boe-a-1986-2797,ley-foral-1985-022,21,main
+1986-12-11,start,boe-a-1987-1255,ley-foral-1986-016,55,main
+1986-12-18,start,boe-a-1987-1257,ley-foral-1986-018,34,main
+1987-03-26,start,boe-a-1987-13330,ley-foral-1987-004,7,main
+1987-04-28,start,boe-a-1987-13786,ley-foral-1987-008,19,main
+1987-05-17,start,boe-a-1987-13785,ley-foral-1987-007,50,main
+1988-12-31,start,boe-a-1989-2954,ley-foral-1988-010,31,main
+1989-04-06,start,boe-a-1989-7773,ley-foral-1989-002,37,main
+1989-05-18,start,boe-a-1989-23274,ley-foral-1989-004,9,main
+1989-07-11,start,boe-a-1989-23886,ley-foral-1989-013,17,main
+1990-10-01,start,,ley-foral-1990-006,380,main
+1990-12-04,start,boe-a-1991-7462,ley-foral-1990-010,112,main
+1990-12-31,law,boe-a-1991-7361,ley-foral-1990-006,1,main
+1991-02-03,start,boe-a-1991-7362,ley-foral-1990-013,90,main
+1991-03-04,law,boe-a-1991-23568,ley-foral-1984-019,1,main
+1991-03-19,law,boe-a-1991-23567,ley-foral-1988-010,1,main
+1991-03-21,start,boe-a-1991-23616,ley-foral-1991-012,26,main
+1991-03-26,start,boe-a-1991-23615,ley-foral-1991-011,5,main
+1991-03-26,law,boe-a-1991-23615,ley-foral-1986-016,4,main
+1991-04-06,start,boe-a-1991-23614,ley-foral-1991-010,29,main
+1992-02-19,start,boe-a-1992-6250,ley-foral-1992-001,6,main
+1992-10-31,start,boe-a-1993-2875,ley-foral-1992-011,53,main
+1993-01-01,start,boe-a-1993-2877,ley-foral-1992-013,48,main
+1993-03-02,start,boe-a-1993-13528,ley-foral-1993-001,11,main
+1993-04-08,start,boe-a-1993-13993,ley-foral-1993-002,146,main
+1993-07-03,law,boe-a-1993-17301,ley-foral-1993-002,11,main
+1993-07-22,law,boe-a-1993-22030,ley-foral-1992-011,1,main
+1993-09-01,start,,decreto-foral-legislativo-1993-251,130,main
+1993-11-19,law,boe-a-1993-27630,ley-foral-1993-002,10,main
+1994-01-27,law,boe-a-1994-5355,ley-foral-1992-011 decreto-foral-legislativo-1993-251,5,main
+1994-03-08,law,boe-a-1994-19803,ley-foral-1990-010,1,main
+1994-07-02,law,boe-a-1994-19852,ley-foral-1993-002,18,main
+1994-07-03,start,boe-a-1994-19808,ley-foral-1994-007,35,main
+1994-12-21,start,boe-a-1995-3404,ley-foral-1994-021,4,main
+1995-01-01,start,,ley-foral-1994-009,52,main
+1995-01-01,law,boe-a-1995-7062,ley-foral-1992-013,3,main
+1995-01-05,law,boe-a-1995-7064,decreto-foral-legislativo-1993-251,8,main
+1996-01-01,start,,ley-foral-1995-002,282,main
+1996-01-01,law,boe-a-1995-16401,ley-foral-1990-006,6,main
+1996-01-01,law,boe-a-1996-7935,ley-foral-1992-013,1,main
+1996-01-01,law,boe-a-1996-7936,ley-foral-1992-011,1,main
+1996-03-21,law,boe-a-1996-7615,ley-foral-1993-001,1,main
+1996-06-29,start,boe-a-1996-22199,ley-foral-1996-009,60,main
+1996-06-29,law,boe-a-1996-22199,ley-foral-1990-013 ley-foral-1993-002,3,main
+1996-07-16,law,boe-a-1996-22234,ley-foral-1992-011 decreto-foral-legislativo-1993-251,9,main
+1996-07-18,start,boe-a-1996-22233,ley-foral-1996-010,64,main
+1996-11-09,start,boe-a-1997-1256,ley-foral-1996-019,30,main
+1997-01-01,law,boe-a-1997-1705,ley-foral-1984-001 ley-foral-1994-009,3,main
+1997-01-01,law,boe-a-1997-10808,ley-foral-1994-009 ley-foral-1995-002,2,main
+1997-07-01,law,boe-a-1997-19018,ley-foral-1990-010,1,main
+1997-07-31,start,boe-a-1997-19021,ley-foral-1997-011,58,main
+1997-11-13,start,boe-a-1998-1264,ley-foral-1997-012,23,main
+1997-12-25,start,boe-a-1998-2915,ley-foral-1997-019,33,main
+1998-01-01,law,boe-a-1998-2917,ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-1994-009 ley-foral-1995-002,6,main
+1998-01-01,law,boe-a-1998-2918,ley-foral-1992-013,1,main
+1998-03-12,start,,decreto-foral-legislativo-1998-054,40,main
+1998-04-11,start,boe-a-1998-12734,ley-foral-1998-002,26,main
+1998-04-21,start,boe-a-1998-12735,ley-foral-1998-003,32,main
+1998-05-09,law,boe-a-1998-12737,ley-foral-1993-002,2,main
+1998-06-06,start,boe-a-1998-21616,ley-foral-1998-007,40,main
+1998-07-18,start,boe-a-1998-21620,ley-foral-1998-011,8,main
+1998-10-13,start,boe-a-1999-294,ley-foral-1998-013,7,main
+1998-10-13,law,boe-a-1999-295,decreto-foral-legislativo-1998-054,1,main
+1998-10-13,law,boe-a-1999-294,ley-foral-1986-016,5,main
+1998-11-28,start,boe-a-1999-298,ley-foral-1998-017,70,main
+1998-11-28,law,boe-a-1999-299,ley-foral-1995-002,1,main
+1998-12-10,start,boe-a-1999-2046,ley-foral-1998-019,8,main
+1999-01-01,law,boe-a-1999-2048,decreto-foral-legislativo-1993-251 decreto-foral-legislativo-1998-054,13,main
+1999-01-01,law,boe-a-1999-2522,ley-foral-1996-010,1,main
+1999-01-01,law,boe-a-1999-2523,ley-foral-1992-013 ley-foral-1996-010,6,main
+1999-03-13,law,boe-a-1999-8876,ley-foral-1995-002,1,main
+1999-03-13,law,boe-a-1999-8878,ley-foral-1990-006 ley-foral-1995-002,17,main
+1999-03-27,start,boe-a-1999-8881,ley-foral-1999-007,12,main
+1999-04-09,law,boe-a-1999-12499,ley-foral-1994-009,1,main
+1999-04-10,start,boe-a-1999-12496,ley-foral-1999-011,24,main
+1999-04-10,start,boe-a-1999-12497,ley-foral-1999-012,5,main
+1999-06-18,start,,decreto-foral-legislativo-1999-129,48,main
+2000-01-01,law,boe-a-2000-1736,ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-1996-010,9,main
+2000-01-01,law,boe-a-2000-1735,ley-foral-1990-013 decreto-foral-legislativo-1998-054,3,main
+2000-06-20,law,boe-a-2000-16369,ley-foral-1990-010,1,main
+2000-07-08,start,boe-a-2000-16371,ley-foral-2000-004,52,main
+2000-07-08,law,boe-a-2000-16372,decreto-foral-legislativo-1998-054,7,main
+2000-07-11,law,boe-a-2000-13056,ley-foral-1993-002,4,main
+2000-08-07,start,boe-a-2000-16373,ley-foral-2000-006,20,main
+2000-08-07,law,boe-a-2000-16373,decreto-foral-legislativo-1993-251,2,main
+2000-11-28,start,boe-a-2001-3424,ley-foral-2000-011,76,main
+2000-11-28,start,boe-a-2001-3425,ley-foral-2000-012,66,main
+2000-11-28,law,boe-a-2001-3425,ley-foral-1990-010,1,main
+2001-01-01,law,boe-a-2001-3565,decreto-foral-legislativo-1998-054,3,main
+2001-01-01,law,boe-a-2001-3566,ley-foral-1992-013 ley-foral-1994-009 decreto-foral-legislativo-1999-129,10,main
+2001-03-17,start,boe-a-2001-9283,ley-foral-2001-005,45,main
+2001-03-17,law,boe-a-2001-9283,decreto-foral-legislativo-1993-251,1,main
+2001-03-28,law,boe-a-2001-6006,lorafna,2,main
+2001-04-01,start,boe-a-2001-3494,ley-foral-2000-013,171,main
+2001-04-01,start,boe-a-2001-9285,ley-foral-2001-007,179,main
+2001-04-01,law,boe-a-2001-3494,ley-foral-1992-013 decreto-foral-legislativo-1999-129,5,main
+2001-05-15,law,boe-a-2001-15669,ley-foral-2000-012,3,main
+2001-06-02,law,boe-a-2001-15670,ley-foral-1992-011 decreto-foral-legislativo-1993-251,8,main
+2001-06-02,law,boe-a-2001-15671,ley-foral-2000-011,3,main
+2001-06-29,law,boe-a-2001-15674,ley-foral-2000-011,3,main
+2001-07-17,start,boe-a-2001-15779,ley-foral-2001-017,94,main
+2001-08-16,start,boe-a-2001-15675,ley-foral-2001-015,140,main
+2001-09-27,law,boe-a-2002-2934,ley-foral-1995-002,1,main
+2001-11-13,law,boe-a-2001-21095,ley-foral-2001-017,7,main
+2001-12-18,law,boe-a-2002-2940,ley-foral-1989-002,5,main
+2002-03-16,start,boe-a-2002-8352,ley-foral-2002-001,83,main
+2002-03-26,law,boe-a-2002-8354,ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 ley-foral-1996-010 ley-foral-2001-007,31,main
+2002-03-29,law,boe-a-2003-8524,ley-foral-1998-017,1,main
+2002-04-04,law,boe-a-2002-6383,ley-foral-2001-017,7,main
+2002-04-06,law,boe-a-2002-8356,ley-foral-1990-010,1,main
+2002-04-11,law,boe-a-2002-8359,decreto-foral-legislativo-1993-251,1,main
+2002-05-14,law,boe-a-2002-10345,ley-foral-1990-010,1,main
+2002-06-08,start,boe-a-2002-12607,ley-foral-2002-013,9,main
+2002-06-08,start,boe-a-2002-12608,ley-foral-2002-014,9,main
+2002-06-08,start,boe-a-2002-12610,ley-foral-2002-016,8,main
+2002-06-08,law,boe-a-2002-12610,decreto-foral-legislativo-1993-251,1,main
+2002-06-20,law,boe-a-2002-16660,ley-foral-1993-002,5,main
+2002-06-27,law,boe-a-2002-12609,ley-foral-1990-006,14,main
+2002-06-29,start,boe-a-2002-16661,ley-foral-2002-019,32,main
+2002-07-13,law,boe-a-2002-16667,ley-foral-1987-008,1,main
+2002-08-10,start,,decreto-foral-legislativo-2002-150,37,main
+2002-11-25,start,boe-a-2003-916,ley-foral-2002-032,28,main
+2002-11-26,start,boe-a-2002-22651,ley-foral-2002-027,34,main
+2002-11-26,start,,ley-foral-2002-031,8,main
+2002-11-26,law,boe-a-2002-22651,ley-foral-1990-006,1,main
+2002-11-26,law,boe-a-2003-915,ley-foral-1999-011,1,main
+2002-12-31,start,,decreto-foral-legislativo-2002-250,72,main
+2002-12-31,law,boe-a-2002-90009,ley-foral-2000-006,1,main
+2003-01-02,start,boe-a-2003-917,ley-foral-2002-033,4,main
+2003-02-22,start,boe-a-2003-5700,ley-foral-2003-005,9,main
+2003-02-22,start,boe-a-2003-5702,ley-foral-2003-007,78,main
+2003-02-22,law,boe-a-2003-5698,ley-foral-2002-001,4,main
+2003-02-22,law,boe-a-2003-5699,ley-foral-1992-011 decreto-foral-legislativo-1993-251,7,main
+2003-03-13,start,boe-a-2003-5701,ley-foral-2003-006,41,main
+2003-03-15,law,boe-a-2003-8518,decreto-foral-legislativo-1993-251,7,main
+2003-03-21,law,boe-a-2003-8522,ley-foral-2000-011,1,main
+2003-03-22,start,boe-a-2003-8525,ley-foral-2003-017,18,main
+2003-03-26,law,boe-a-2003-8523,ley-foral-2000-011,3,main
+2003-03-27,start,boe-a-2003-919,ley-foral-2002-035,262,main
+2003-03-29,law,boe-a-2003-8524,ley-foral-1992-013 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-1998-017 ley-foral-2001-007,27,main
+2003-04-12,start,boe-a-2003-10080,ley-foral-2003-027,6,main
+2003-05-01,law,boe-a-2003-10078,ley-foral-2001-017,1,main
+2003-05-01,law,boe-a-2003-10081,ley-foral-1993-001,1,main
+2003-12-18,law,boe-a-2004-1075,ley-foral-1996-009,2,main
+2004-01-01,law,boe-a-2004-1076,decreto-foral-legislativo-1993-251 decreto-foral-legislativo-1998-054,5,main
+2004-01-01,law,boe-a-2004-1077,ley-foral-1992-013 ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-1996-010 ley-foral-1998-017 ley-foral-2001-007,46,main
+2004-04-03,law,boe-a-2004-11721,ley-foral-2002-035,1,main
+2004-04-03,law,boe-a-2004-11722,decreto-foral-legislativo-1999-129,1,main
+2004-06-12,start,boe-a-2004-13155,ley-foral-2004-004,4,main
+2004-06-12,law,boe-a-2004-13155,ley-foral-1986-016,1,main
+2004-06-19,start,boe-a-2004-13292,ley-foral-2004-006,10,main
+2004-07-03,law,boe-a-2004-13375,ley-foral-2002-035,3,main
+2004-10-22,law,boe-a-2004-18113,ley-foral-2001-017,5,main
+2004-11-25,law,boe-a-2004-20330,ley-foral-1990-006 ley-foral-1991-012 ley-foral-1995-002,114,main
+2004-12-16,law,boe-a-2004-1578,ley-foral-1992-011,1,main
+2004-12-16,law,boe-a-2005-1578,ley-foral-1992-011 decreto-foral-legislativo-1993-251,7,main
+2005-01-01,law,boe-a-2005-1581,ley-foral-1992-013 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-1996-010 ley-foral-2001-007,38,main
+2005-02-26,start,boe-a-2005-5552,ley-foral-2005-001,9,main
+2005-03-01,start,boe-a-2005-1576,ley-foral-2004-014,71,main
+2005-03-01,law,boe-a-2005-1576,ley-foral-2000-013,1,main
+2005-03-12,law,boe-a-2005-5554,ley-foral-2000-004,1,main
+2005-07-01,start,boe-a-2005-7356,ley-foral-2005-004,104,main
+2005-07-01,law,boe-a-2005-7356,ley-foral-2002-001 ley-foral-2002-035,4,main
+2005-07-16,start,boe-a-2005-13892,ley-foral-2005-009,78,main
+2005-07-16,law,boe-a-2005-13892,ley-foral-1998-007,2,main
+2005-08-09,start,boe-a-2005-13891,ley-foral-2005-008,84,main
+2005-08-09,law,boe-a-2005-13891,decreto-foral-legislativo-1993-251,1,main
+2005-11-26,start,boe-a-2005-20979,ley-foral-2005-012,12,main
+2005-12-04,start,boe-a-2005-20978,ley-foral-2005-011,53,main
+2005-12-15,start,boe-a-2006-2,ley-foral-2005-016,40,main
+2005-12-29,start,boe-a-2006-844,ley-foral-2005-017,130,main
+2005-12-29,law,boe-a-2005-844,ley-foral-1993-002,1,main
+2005-12-29,law,boe-a-2006-844,ley-foral-1993-002,2,main
+2005-12-31,law,boe-a-2006-846,ley-foral-1992-013 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2001-007,25,main
+2005-12-31,law,boe-a-2006-847,ley-foral-1995-002,13,main
+2006-01-01,law,boe-a-2006-846,ley-foral-1996-010,5,main
+2006-01-03,start,boe-a-2006-1,ley-foral-2005-015,126,main
+2006-01-10,start,boe-a-2006-1775,ley-foral-2005-021,39,main
+2006-02-14,start,boe-a-2005-20977,ley-foral-2005-010,33,main
+2006-02-25,start,boe-a-2005-20981,ley-foral-2005-014,131,main
+2006-03-18,start,boe-a-2006-6089,ley-foral-2006-002,24,main
+2006-04-20,law,boe-a-2006-8350,ley-foral-1998-002,2,main
+2006-07-01,start,boe-a-2006-13099,ley-foral-2006-008,35,main
+2006-07-06,start,boe-a-2006-11956,ley-foral-2006-006,233,main
+2006-07-06,law,boe-a-2006-11956,ley-foral-1998-017,1,main
+2006-07-15,law,boe-a-2006-14358,ley-foral-1998-002,2,main
+2006-07-20,start,boe-a-2006-13098,ley-foral-2006-007,52,main
+2006-11-25,start,boe-a-2007-189,ley-foral-2006-012,86,main
+2006-11-25,law,boe-a-2007-189,ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2002-001 ley-foral-2001-007,6,main
+2006-12-14,start,boe-a-2007-191,ley-foral-2006-014,100,main
+2006-12-21,start,boe-a-2007-2117,ley-foral-2006-016,57,main
+2007-01-01,law,boe-a-2007-2118,decreto-foral-legislativo-1998-054 ley-foral-2002-001,9,main
+2007-01-01,law,boe-a-2007-2208,ley-foral-1992-013 ley-foral-1994-009 decreto-foral-legislativo-1999-129 ley-foral-2000-013 ley-foral-1996-010 ley-foral-2001-007,66,main
+2007-02-12,law,boe-a-2007-5446,ley-foral-1990-006,18,main
+2007-03-20,start,boe-a-2007-2008,ley-foral-2006-015,117,main
+2007-03-20,law,boe-a-2007-2008,ley-foral-2005-011,1,main
+2007-04-03,start,boe-a-2007-8664,ley-foral-2007-008,85,main
+2007-04-03,law,boe-a-2007-8664,ley-foral-2005-008,1,main
+2007-04-05,start,boe-a-2007-8525,ley-foral-2007-004,50,main
+2007-04-19,start,boe-a-2007-9611,ley-foral-2007-012,42,main
+2007-04-19,law,boe-a-2007-9422,ley-foral-1996-019,8,main
+2007-04-19,law,boe-a-2007-9611,ley-foral-2005-014,1,main
+2007-04-24,start,,ley-foral-2007-005,100,main
+2007-05-02,law,boe-a-2007-6242,ley-foral-1990-013 ley-foral-1996-009,66,main
+2007-05-13,start,boe-a-2007-9893,ley-foral-2007-014,132,main
+2008-01-01,start,boe-a-2007-9829,ley-foral-2007-013,149,main
+2008-01-27,law,boe-a-2008-3584,ley-foral-1990-010 ley-foral-1990-013 decreto-foral-legislativo-1993-251 ley-foral-1996-019 ley-foral-2007-013 ley-foral-2007-008,7,main
+2008-01-27,law,boe-a-2008-3585,ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 ley-foral-2006-012 ley-foral-1996-010 ley-foral-2001-007,46,main
+2008-03-23,law,boe-a-2008-5009,ley-foral-2000-004,1,main
+2008-03-24,law,boe-a-2008-5477,ley-foral-2007-014,1,main
+2008-04-05,law,boe-a-2008-7324,ley-foral-2002-035,1,main
+2008-06-07,start,boe-a-2008-12318,ley-foral-2008-008,23,main
+2008-06-12,law,boe-a-2008-10332,ley-foral-2004-014,4,main
+2008-06-26,law,boe-a-2008-12320,ley-foral-1990-010,1,main
+2008-06-30,law,boe-a-2008-11039,ley-foral-2007-014,2,main
+2008-07-01,start,,decreto-foral-legislativo-2008-004,134,main
+2008-07-17,start,boe-a-2008-13954,ley-foral-2008-014,17,main
+2008-11-01,law,boe-a-2008-18996,ley-foral-2007-013,1,main
+2008-11-18,law,boe-a-2008-19737,decreto-foral-legislativo-2008-004,2,main
+2008-12-02,law,boe-a-2008-20754,ley-foral-2000-012,5,main
+2009-01-01,law,boe-a-2009-3959,ley-foral-1990-010 ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-2005-017 ley-foral-2007-013,8,main
+2009-01-01,law,boe-a-2009-3960,ley-foral-1992-013 ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2006-012 decreto-foral-legislativo-2008-004 ley-foral-1996-010 ley-foral-2001-007,74,main
+2009-03-22,law,boe-a-2009-4512,ley-foral-2006-006,1,main
+2009-06-09,law,boe-a-2009-10580,ley-foral-2007-008,1,main
+2009-06-15,start,boe-a-2009-10581,ley-foral-2009-006,35,main
+2009-06-15,law,boe-a-2009-10581,decreto-foral-legislativo-2008-004 ley-foral-2002-035,20,main
+2009-06-16,start,boe-a-2009-10582,ley-foral-2009-007,13,main
+2009-07-18,start,boe-a-2009-13502,ley-foral-2009-010,45,main
+2009-07-19,law,boe-a-2009-11418,ley-foral-2007-014,1,main
+2009-09-01,start,boe-a-2009-11417,ley-foral-2009-008,25,main
+2009-09-01,law,boe-a-2009-11417,ley-foral-2007-013,4,main
+2009-12-03,law,boe-a-2010-2630,ley-foral-2000-013,1,main
+2009-12-11,law,boe-a-2010-594,ley-foral-2006-006,1,main
+2009-12-12,law,boe-a-2010-595,ley-foral-2007-014,2,main
+2009-12-19,start,boe-a-2010-596,ley-foral-2009-015,25,main
+2009-12-19,law,boe-a-2010-596,ley-foral-2005-004,3,main
+2009-12-30,law,boe-a-2009-2630,ley-foral-1996-010,1,main
+2009-12-30,law,boe-a-2010-2630,ley-foral-1995-002 ley-foral-2000-013 decreto-foral-legislativo-2002-150 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-1996-010 ley-foral-2001-007,32,main
+2010-01-01,law,boe-a-2010-2629,ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-2005-008 ley-foral-2005-011 ley-foral-2007-013 ley-foral-2002-035,9,main
+2010-01-01,law,boe-a-2010-2630,decreto-foral-legislativo-2008-004,2,main
+2010-01-01,law,boe-a-2010-5107,ley-foral-1986-018,1,main
+2010-02-06,law,boe-a-2010-2630,decreto-foral-legislativo-1999-129 ley-foral-2006-012,3,main
+2010-03-09,law,boe-a-2010-5108,decreto-foral-legislativo-1993-251,3,main
+2010-04-14,law,boe-a-2010-8389,ley-foral-2001-005 ley-foral-1996-010,17,main
+2010-04-15,start,boe-a-2010-8390,ley-foral-2010-005,29,main
+2010-04-15,law,boe-a-2010-8422,ley-foral-1989-013 ley-foral-1990-010 ley-foral-1998-003 ley-foral-2001-017 ley-foral-2003-007 ley-foral-2006-016 ley-foral-2001-007,48,main
+2010-04-15,law,boe-a-2010-8423,ley-foral-1990-006,3,main
+2010-05-11,start,boe-a-2010-8617,ley-foral-2010-009,41,main
+2010-05-15,law,boe-a-2010-8422,ley-foral-2001-017,2,main
+2010-07-03,start,boe-a-2010-8507,ley-foral-2010-008,18,main
+2010-07-14,law,boe-a-2010-12538,ley-foral-1990-010,1,main
+2010-07-17,start,boe-a-2010-8618,ley-foral-2010-010,102,main
+2010-07-17,law,boe-a-2010-8618,decreto-foral-legislativo-1999-129 ley-foral-2002-035,4,main
+2010-10-02,law,boe-a-2010-17583,ley-foral-2007-008,1,main
+2010-11-01,law,boe-a-2010-17583,ley-foral-2007-008,1,main
+2010-11-02,law,boe-a-2010-17583,ley-foral-2007-008,28,main
+2010-11-16,start,boe-a-2010-19959,ley-foral-2010-016,9,main
+2010-11-16,start,boe-a-2010-19960,ley-foral-2010-017,94,main
+2010-11-16,law,boe-a-2010-19961,ley-foral-2005-015,10,main
+2010-11-16,law,boe-a-2010-19960,ley-foral-1990-010,2,main
+2010-11-17,law,boe-a-2010-16435,lorafna,26,main
+2010-12-18,start,boe-a-2011-401,ley-foral-2010-021,36,main
+2011-01-01,law,boe-a-2010-19962,ley-foral-1997-011,7,main
+2011-01-01,law,boe-a-2011-3430,ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-2007-013 ley-foral-2007-008,13,main
+2011-01-01,law,boe-a-2011-3431,ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 ley-foral-2006-012 decreto-foral-legislativo-2008-004 ley-foral-2001-007,46,main
+2011-03-01,start,boe-a-2011-4632,ley-foral-2011-001,41,main
+2011-03-28,start,boe-a-2011-6553,ley-foral-2011-002,8,main
+2011-03-28,law,boe-a-2011-6556,ley-foral-2002-001,5,main
+2011-03-29,law,boe-a-2011-6555,ley-foral-1990-006,35,main
+2011-03-29,law,boe-a-2011-6557,ley-foral-1992-011,2,main
+2011-04-05,law,boe-a-2011-7407,decreto-foral-legislativo-1993-251,13,main
+2011-04-05,law,boe-a-2011-7409,ley-foral-1998-017,2,main
+2011-04-12,law,boe-a-2011-7412,ley-foral-2005-017,4,main
+2011-04-12,law,boe-a-2011-7413,ley-foral-2009-007,2,main
+2011-05-01,start,boe-a-2011-7411,ley-foral-2011-011,51,main
+2011-06-28,law,boe-a-2011-6554,ley-foral-2000-006,1,main
+2011-07-04,start,boe-a-2011-7408,ley-foral-2011-008,41,main
+2011-10-07,law,boe-a-2011-20377,ley-foral-1992-011 ley-foral-2008-014 ley-foral-2009-006,8,main
+2011-12-31,law,boe-a-2011-1546,ley-foral-2000-013,1,main
+2011-12-31,law,boe-a-2012-1546,ley-foral-1992-013 ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2008-004 ley-foral-1996-010 ley-foral-2001-007,67,main
+2012-01-01,law,boe-a-2012-1545,ley-foral-2002-001 ley-foral-2007-013 ley-foral-2008-014 ley-foral-2009-007 ley-foral-2010-010 ley-foral-2006-006,11,main
+2012-02-01,law,boe-a-2012-1531,decreto-foral-legislativo-1993-251,6,main
+2012-02-04,law,boe-a-2012-2271,ley-foral-2006-015,1,main
+2012-02-23,law,boe-a-2012-3446,decreto-foral-legislativo-2008-004,4,main
+2012-03-24,law,boe-a-2008-5477,ley-foral-2007-014,1,main
+2012-04-13,law,boe-a-2012-5368,ley-foral-1990-010,1,main
+2012-05-08,law,boe-a-2012-6692,ley-foral-2009-008,1,main
+2012-05-08,law,boe-a-2012-6693,ley-foral-2010-021,1,main
+2012-05-15,law,boe-a-2012-6812,decreto-foral-legislativo-1999-129 decreto-foral-legislativo-2008-004,2,main
+2012-05-15,law,boe-a-2012-6813,ley-foral-1995-002,1,main
+2012-05-25,law,boe-a-2012-6873,decreto-foral-legislativo-1993-251,5,main
+2012-06-21,law,boe-a-2012-8784,ley-foral-2000-013 decreto-foral-legislativo-2008-004,5,main
+2012-07-01,start,boe-a-2012-9372,ley-foral-2012-013,17,main
+2012-07-01,law,boe-a-2012-9372,ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-2010-021,6,main
+2012-08-05,law,boe-a-2012-10424,ley-foral-1985-004 ley-foral-1985-003,3,main
+2012-10-10,law,boe-a-2012-13778,ley-foral-2012-013,1,main
+2012-10-31,start,boe-a-2012-14019,ley-foral-2012-018,10,main
+2012-10-31,law,boe-a-2012-14017,ley-foral-2002-035,1,main
+2012-10-31,law,boe-a-2012-14018,ley-foral-1998-011,1,main
+2012-11-30,law,boe-a-2012-15390,ley-foral-2001-017,5,main
+2012-12-17,law,boe-a-2013-499,ley-foral-1997-012,1,main
+2012-12-28,start,boe-a-2012-9370,ley-foral-2012-011,88,main
+2012-12-28,law,boe-a-2012-9371,ley-foral-1996-019,5,main
+2013-01-01,law,boe-a-2013-501,ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2001-007,32,main
+2013-01-01,law,boe-a-2013-502,decreto-foral-legislativo-2008-004,12,main
+2013-01-01,law,boe-a-2013-503,ley-foral-1992-013,3,main
+2013-01-01,law,boe-a-2013-505,decreto-foral-legislativo-1993-251 ley-foral-2012-013,5,main
+2013-01-01,law,boe-a-2013-506,ley-foral-2012-013,2,main
+2013-01-02,law,boe-a-2013-509,ley-foral-2009-007,1,main
+2013-02-12,start,boe-a-2013-2253,ley-foral-2013-001,19,main
+2013-02-14,law,boe-a-2013-1553,ley-foral-2012-018,7,main
+2013-02-26,start,boe-a-2013-2561,ley-foral-2013-002,6,main
+2013-03-04,start,boe-a-2013-2819,ley-foral-2013-006,4,main
+2013-03-05,start,boe-a-2013-2820,ley-foral-2013-007,5,main
+2013-03-05,law,boe-a-2012-1545,ley-foral-2006-006,1,main
+2013-03-05,law,boe-a-2013-2816,ley-foral-2006-006,43,main
+2013-03-05,law,boe-a-2013-2817,ley-foral-1990-006,6,main
+2013-03-05,law,boe-a-2013-2820,ley-foral-2001-017,3,main
+2013-03-19,start,boe-a-2013-3676,ley-foral-2013-012,38,main
+2013-03-19,law,boe-a-2013-3674,ley-foral-1995-002,12,main
+2013-03-28,law,boe-a-2013-4126,ley-foral-2005-015,1,main
+2013-04-07,law,boe-a-2013-3675,ley-foral-1990-006,1,main
+2013-04-26,law,boe-a-2013-5625,ley-foral-2007-013,1,main
+2013-04-30,start,boe-a-2013-5623,ley-foral-2013-014,18,main
+2013-04-30,law,boe-a-2013-5624,ley-foral-2001-017,6,main
+2013-04-30,law,boe-a-2013-5623,ley-foral-2000-013 decreto-foral-legislativo-2008-004 ley-foral-1996-010,21,main
+2013-05-02,law,boe-a-2013-4616,ley-foral-2012-018,7,main
+2013-05-23,law,boe-a-2013-5436,ley-foral-2000-006,9,main
+2013-06-11,law,boe-a-2013-6906,ley-foral-1996-010,1,main
+2013-07-01,law,boe-a-2013-7869,ley-foral-2006-002,1,main
+2013-07-02,law,boe-a-2013-7213,ley-foral-2000-012,3,main
+2013-07-12,law,boe-a-2013-7618,ley-foral-1995-002,1,main
+2013-07-12,law,boe-a-2013-8198,ley-foral-2009-007,2,main
+2013-07-13,law,boe-a-2013-8194,ley-foral-2005-009,27,main
+2013-07-13,law,boe-a-2013-8195,ley-foral-2005-017,10,main
+2013-07-13,law,boe-a-2013-8196,ley-foral-2010-010,13,main
+2013-08-21,law,boe-a-2013-9386,ley-foral-2009-008,1,main
+2013-11-12,law,boe-a-2013-12425,ley-foral-1995-002,9,main
+2013-11-12,law,boe-a-2013-12426,ley-foral-2006-006,1,main
+2013-11-14,law,boe-a-2013-11886,ley-foral-2010-010,9,main
+2013-12-05,start,,ley-foral-2013-033,30,main
+2013-12-05,law,boe-a-2013-13352,ley-foral-1988-010,3,main
+2013-12-14,law,boe-a-2013-13517,ley-foral-1995-002,1,main
+2013-12-31,law,boe-a-2013-888,ley-foral-1996-010,5,main
+2013-12-31,law,boe-a-2014-888,ley-foral-1992-013 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-2010-010 ley-foral-2001-007,40,main
+2013-12-31,law,boe-a-2014-511,ley-foral-2012-013,4,main
+2014-01-01,law,boe-a-2014-888,ley-foral-2013-014,1,main
+2014-01-08,law,boe-a-2014-224,ley-foral-1995-002,1,main
+2014-01-09,start,boe-a-2014-889,ley-foral-2013-039,18,main
+2014-01-09,law,boe-a-2014-890,ley-foral-2007-013,2,main
+2014-01-25,law,boe-a-2014-1332,ley-foral-1995-002,2,main
+2014-02-15,law,boe-a-2014-1634,ley-foral-2001-017,2,main
+2014-02-26,start,boe-a-2014-2712,ley-foral-2014-002,30,main
+2014-03-22,law,boe-a-2014-3061,ley-foral-2010-010,9,main
+2014-04-29,law,boe-a-2014-5114,ley-foral-2005-011,8,main
+2014-04-29,law,boe-a-2014-5116,ley-foral-1990-006,1,main
+2014-05-04,law,boe-a-2014-4537,ley-foral-2005-017,3,main
+2014-05-27,start,boe-a-2014-5949,ley-foral-2014-008,37,main
+2014-05-27,law,boe-a-2014-5951,ley-foral-2007-013,8,main
+2014-05-27,law,boe-a-2014-5949,decreto-foral-legislativo-2008-004 ley-foral-1996-010,6,main
+2014-06-05,law,boe-a-2014-5908,ley-foral-2001-017,2,main
+2014-06-13,law,boe-a-2014-6238,ley-foral-2014-002,1,main
+2014-06-19,law,boe-a-2014-7374,ley-foral-2001-015,1,main
+2014-07-04,law,boe-a-2014-7884,ley-foral-2005-011 ley-foral-2006-006,10,main
+2014-08-06,law,boe-a-2014-8141,ley-foral-1995-002,1,main
+2014-10-28,law,boe-a-2014-11020,ley-foral-2010-016,1,main
+2014-11-13,law,boe-a-2014-11997,decreto-foral-legislativo-1993-251,2,main
+2014-11-18,law,boe-a-2014-11917,ley-foral-2014-002,1,main
+2014-11-21,law,boe-a-2014-12086,decreto-foral-legislativo-1993-251,5,main
+2014-11-25,law,boe-a-2014-12734,ley-foral-2000-013,2,main
+2014-12-16,law,boe-a-2014-13625,ley-foral-1990-006,3,main
+2014-12-16,law,boe-a-2014-13627,ley-foral-2005-011,3,main
+2015-01-01,law,boe-a-2015-1015,ley-foral-2010-010,17,main
+2015-01-01,law,boe-a-2015-1016,ley-foral-2000-013 ley-foral-2001-007,22,main
+2015-01-01,law,boe-a-2015-1017,ley-foral-1992-013 decreto-foral-legislativo-2008-004 ley-foral-1996-010,27,main
+2015-01-01,law,boe-a-2015-1413,ley-foral-2012-013,4,main
+2015-01-31,start,boe-a-2015-4101,ley-foral-2015-011,7,main
+2015-02-03,law,boe-a-2015-1411,ley-foral-2006-006,1,main
+2015-02-18,start,boe-a-2015-2339,ley-foral-2015-003,47,main
+2015-02-22,start,boe-a-2015-1412,ley-foral-2015-002,11,main
+2015-03-02,law,boe-a-2015-2260,ley-foral-2014-002,1,main
+2015-03-11,law,boe-a-2015-2967,ley-foral-1986-018,1,main
+2015-04-01,law,boe-a-2015-4100,ley-foral-2000-013 decreto-foral-legislativo-2008-004,10,main
+2015-04-16,start,boe-a-2015-4950,ley-foral-2015-014,86,main
+2015-04-16,start,boe-a-2015-4953,ley-foral-2015-017,55,main
+2015-04-16,law,boe-a-2015-4948,ley-foral-2012-013,4,main
+2015-04-16,law,boe-a-2015-4949,decreto-foral-legislativo-1993-251,1,main
+2015-04-16,law,boe-a-2015-4951,ley-foral-2001-015 ley-foral-2007-008,37,main
+2015-04-16,law,boe-a-2015-4954,ley-foral-2006-016,4,main
+2015-04-16,law,boe-a-2105-4951,ley-foral-2007-008,1,main
+2015-04-16,law,boe-a-2015-4953,ley-foral-1998-017,72,main
+2015-06-16,law,boe-a-2015-3329,ley-foral-2002-035,93,main
+2015-12-19,law,boe-a-2015-13871,ley-foral-2007-008,4,main
+2015-12-31,law,boe-a-2015-573,decreto-foral-legislativo-1999-129,1,main
+2015-12-31,law,boe-a-2016-573,ley-foral-1992-013 ley-foral-1994-009 decreto-foral-legislativo-1999-129 ley-foral-2000-013 ley-foral-2002-001 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-1996-010 ley-foral-2001-007 ley-foral-2002-035 ley-foral-2014-008,109,main
+2016-01-01,law,boe-a-2016-33,ley-foral-2015-011,1,main
+2016-01-01,law,boe-a-2016-573,ley-foral-1988-010 ley-foral-2006-012 ley-foral-2013-039,20,main
+2016-01-01,law,boe-a-2016-823,ley-foral-2012-013,3,main
+2016-02-02,law,boe-a-2016-2285,ley-foral-1990-010 decreto-foral-legislativo-1998-054 ley-foral-1998-019 ley-foral-2002-001 ley-foral-2007-013 decreto-foral-legislativo-2008-004,13,main
+2016-02-12,law,boe-a-2016-2286,ley-foral-2007-014,1,main
+2016-03-01,law,boe-a-2016-2285,ley-foral-2005-017,1,main
+2016-04-22,law,boe-a-2016-3912,ley-foral-2001-017,1,main
+2016-05-07,law,boe-a-2016-4389,ley-foral-2007-008,4,main
+2016-05-10,law,boe-a-2016-4811,ley-foral-2012-011,13,main
+2016-06-16,start,boe-a-2016-6347,ley-foral-2016-008,31,main
+2016-07-01,start,boe-a-2017-2356,ley-foral-2016-026,2,main
+2016-07-15,law,boe-a-2016-7570,ley-foral-2007-014,1,main
+2016-10-29,law,boe-a-2016-10361,ley-foral-1997-011,4,main
+2016-11-19,start,boe-a-2016-11671,ley-foral-2016-015,53,main
+2016-11-19,law,boe-a-2016-11671,ley-foral-2006-015 decreto-foral-legislativo-2008-004 ley-foral-2013-006,8,main
+2016-11-23,start,boe-a-2016-11672,ley-foral-2016-016,14,main
+2016-11-23,law,boe-a-2016-11672,ley-foral-2012-011,1,main
+2017-01-01,start,boe-a-2017-661,ley-foral-2016-023,20,main
+2017-01-01,start,boe-a-2017-2357,ley-foral-2016-027,22,main
+2017-01-01,law,boe-a-2016-12489,ley-foral-2007-013,1,main
+2017-01-01,law,boe-a-2017-2354,ley-foral-2005-011 ley-foral-2005-012 ley-foral-2007-013 ley-foral-2010-017 ley-foral-2012-013 ley-foral-2006-006 ley-foral-2007-008,12,main
+2017-01-01,law,boe-a-2017-2355,ley-foral-1988-010 ley-foral-1992-013 ley-foral-1994-021 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-1996-010 ley-foral-2001-007,76,main
+2017-01-01,law,boe-a-2017-2358,ley-foral-2000-013,42,main
+2017-01-01,law,boe-a-2017-2359,ley-foral-1995-002,7,main
+2017-01-01,law,boe-a-2017-660,ley-foral-2010-010,24,main
+2017-01-01,law,boe-a-2017-2356,ley-foral-2016-026,179,main
+2017-05-01,law,boe-a-2017-5044,decreto-foral-legislativo-2008-004,1,main
+2017-05-20,start,boe-a-2017-5952,ley-foral-2017-007,18,main
+2017-05-20,law,boe-a-2017-5951,decreto-foral-legislativo-2008-004 ley-foral-2016-015,14,main
+2017-05-20,law,boe-a-2017-5952,ley-foral-1999-011,1,main
+2017-06-29,start,boe-a-2017-8527,ley-foral-2017-008,80,main
+2017-06-29,law,boe-a-2017-8527,ley-foral-2013-033,1,main
+2017-07-07,law,boe-a-2017-8667,ley-foral-1986-018,4,main
+2017-07-15,law,boe-a-2017-8344,ley-foral-1995-002,2,main
+2017-07-18,law,boe-a-2017-9490,ley-foral-2013-033,6,main
+2017-07-26,law,boe-a-2017-8668,ley-foral-2016-026,1,main
+2017-09-01,start,boe-a-2017-12907,decreto-foral-legislativo-2017-001,272,main
+2017-09-01,law,boe-a-2017-12907,ley-foral-2009-006 ley-foral-2010-010 ley-foral-2002-035 ley-foral-2005-004,285,main
+2017-12-01,start,boe-a-2017-15290,ley-foral-2017-013,21,main
+2017-12-01,law,boe-a-2017-15291,ley-foral-1990-006,1,main
+2017-12-31,law,boe-a-2017-805,ley-foral-2005-011,1,main
+2017-12-31,law,boe-a-2018-801,ley-foral-1992-013 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-2016-026 ley-foral-2001-007 ley-foral-2014-008,130,main
+2017-12-31,law,boe-a-2018-804,ley-foral-1995-002,8,main
+2017-12-31,law,boe-a-2018-805,ley-foral-1989-002 ley-foral-1992-011 decreto-foral-legislativo-1998-054 decreto-foral-legislativo-2002-150 ley-foral-2005-011 ley-foral-2007-013 ley-foral-2012-013 decreto-foral-legislativo-2017-001,20,main
+2018-01-08,law,boe-a-2018-283,ley-foral-2012-018,5,main
+2018-01-17,law,boe-a-2018-616,ley-foral-2007-008,4,main
+2018-03-23,law,boe-a-2018-4148,ley-foral-2010-010,1,main
+2018-05-04,law,boe-a-2018-6373,ley-foral-2015-014,2,main
+2018-05-04,law,boe-a-2018-6374,ley-foral-2005-011 ley-foral-2015-014,2,main
+2018-05-07,start,boe-a-2018-6001,ley-foral-2018-002,258,main
+2018-05-07,law,boe-a-2018-6001,ley-foral-2006-006,238,main
+2018-06-23,start,boe-a-2018-8951,ley-foral-2018-012,64,main
+2018-06-23,start,boe-a-2018-8953,ley-foral-2018-014,93,main
+2018-06-23,law,boe-a-2018-8951,ley-foral-2010-010 ley-foral-2010-005,30,main
+2018-07-13,start,boe-a-2018-10582,ley-foral-2018-015,42,main
+2018-07-13,law,boe-a-2018-10583,ley-foral-2013-033,10,main
+2018-07-13,law,boe-a-2018-10584,ley-foral-2006-008,5,main
+2018-07-19,law,boe-a-2018-10998,decreto-foral-legislativo-2008-004,2,main
+2018-08-23,start,boe-a-2018-7642,ley-foral-2018-005,84,main
+2018-08-23,start,boe-a-2018-7644,ley-foral-2018-007,63,main
+2018-08-23,law,boe-a-2018-7643,ley-foral-1996-019 ley-foral-2000-004 ley-foral-2004-014,7,main
+2018-08-23,law,boe-a-2018-7645,ley-foral-1996-019,6,main
+2018-08-23,law,boe-a-2018-7642,ley-foral-2012-011,12,main
+2018-09-01,law,boe-a-2018-10998,ley-foral-2015-011,1,main
+2018-10-07,law,boe-a-2019-401,ley-foral-2015-011,1,main
+2018-10-11,start,boe-a-2018-15143,ley-foral-2018-019,14,main
+2018-10-31,start,boe-a-2018-16535,decreto-ley-foral-2018-001,22,main
+2018-11-09,law,boe-a-2018-15968,ley-foral-1992-013 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-2016-026 ley-foral-2001-007,11,main
+2018-11-09,law,boe-a-2018-15969,ley-foral-2005-009,16,main
+2018-11-21,start,boe-a-2018-16533,ley-foral-2018-023,107,main
+2018-11-21,law,boe-a-2018-16533,ley-foral-2007-008,93,main
+2018-12-05,law,boe-a-2018-17139,ley-foral-1994-009 decreto-foral-legislativo-1999-129 ley-foral-2016-026,4,main
+2018-12-18,law,boe-a-2019-401,ley-foral-2015-011,1,main
+2019-01-01,start,boe-a-2019-750,ley-foral-2018-028,9,main
+2019-01-01,start,boe-a-2019-751,ley-foral-2018-029,32,main
+2019-01-01,start,boe-a-2019-3309,ley-foral-2019-005,38,main
+2019-01-01,law,boe-a-2018-16532,ley-foral-1995-002,1,main
+2019-01-01,law,boe-a-2019-749,ley-foral-1999-011 ley-foral-2005-011 ley-foral-2006-016 ley-foral-2007-013 ley-foral-2012-013 decreto-foral-legislativo-2017-001 ley-foral-2018-002 ley-foral-2018-005 ley-foral-2018-023,20,main
+2019-01-01,law,boe-a-2019-752,ley-foral-1984-001 ley-foral-1992-013 ley-foral-1994-009 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-2016-026 ley-foral-1996-010 ley-foral-2001-007 ley-foral-2014-008,104,main
+2019-01-01,law,boe-a-2019-750,decreto-foral-legislativo-2008-004 ley-foral-2010-010,27,main
+2019-01-01,law,boe-a-2019-751,ley-foral-2013-033,2,main
+2019-01-26,start,boe-a-2019-1541,ley-foral-2019-001,54,main
+2019-01-26,law,boe-a-2019-1541,ley-foral-1989-002 ley-foral-2002-032 ley-foral-2005-014,4,main
+2019-02-07,law,boe-a-2019-2641,ley-foral-1995-002,6,main
+2019-02-07,law,boe-a-2019-2642,ley-foral-1990-006 ley-foral-1995-002 ley-foral-2006-012,87,main
+2019-02-22,law,boe-a-2019-3310,decreto-foral-legislativo-1993-251,1,main
+2019-03-06,law,boe-a-2019-3644,decreto-foral-legislativo-1993-251 ley-foral-2005-008,37,main
+2019-03-15,start,boe-a-2019-4299,ley-foral-2019-011,150,main
+2019-03-15,law,boe-a-2019-4297,ley-foral-2004-014,8,main
+2019-03-15,law,boe-a-2019-4299,ley-foral-1990-010,1,main
+2019-04-02,start,boe-a-2019-5738,ley-foral-2019-016,30,main
+2019-04-02,law,boe-a-2019-5737,ley-foral-2018-002 ley-foral-2018-007,28,main
+2019-04-09,law,boe-a-2019-8513,ley-foral-2016-026,1,main
+2019-04-12,start,boe-a-2019-6777,ley-foral-2019-017,81,main
+2019-04-12,start,boe-a-2019-6778,ley-foral-2019-018,60,main
+2019-04-12,law,boe-a-2019-6780,ley-foral-1990-006,1,main
+2019-04-12,law,boe-a-2019-6777,ley-foral-2005-011 ley-foral-2002-033,5,main
+2019-04-12,law,boe-a-2019-6778,ley-foral-2001-015,3,main
+2019-05-18,start,boe-a-2019-8514,decreto-ley-foral-2019-002,13,main
+2019-07-01,start,boe-a-2019-5734,ley-foral-2019-012,73,main
+2019-07-01,law,boe-a-2019-5734,ley-foral-2012-011,99,main
+2019-07-11,start,boe-a-2019-6779,ley-foral-2019-019,48,main
+2019-07-11,law,boe-a-2019-6779,ley-foral-1994-007,35,main
+2019-09-25,law,boe-a-2019-13559,ley-foral-2018-023,2,main
+2019-10-16,law,boe-a-2019-8512,ley-foral-2000-006 ley-foral-2005-015,7,main
+2019-11-01,law,boe-a-2020-349,decreto-foral-legislativo-1993-251,1,main
+2020-01-01,law,boe-a-2020-450,ley-foral-1992-013 ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-2010-010 ley-foral-2012-013 ley-foral-2016-026 ley-foral-2016-027 ley-foral-2018-014 ley-foral-1996-010 ley-foral-2001-007 ley-foral-2014-008,136,main
+2020-01-01,law,boe-a-2020-451,decreto-foral-legislativo-2008-004,1,main
+2020-01-01,law,boe-a-2020-452,ley-foral-1992-013,3,main
+2020-01-01,law,boe-a-2020-453,ley-foral-1996-019,1,main
+2020-01-24,law,boe-a-2020-1122,ley-foral-2018-023,5,main
+2020-03-05,start,boe-a-2020-3355,ley-foral-2020-004,18,main
+2020-03-11,law,boe-a-2020-3785,decreto-foral-legislativo-1998-054 ley-foral-2002-001 ley-foral-2006-016 decreto-foral-legislativo-2008-004 ley-foral-2010-010 ley-foral-2016-026 decreto-foral-legislativo-2017-001 ley-foral-2018-002 ley-foral-2019-005 ley-foral-2019-011 ley-foral-2006-007,30,main
+2020-03-15,start,boe-a-2020-4382,decreto-ley-foral-2020-002,2,main
+2020-03-15,start,boe-a-2020-4541,ley-foral-2020-007,2,main
+2020-03-19,start,boe-a-2020-4381,decreto-ley-foral-2020-001,27,main
+2020-03-26,law,boe-a-2020-4382,decreto-foral-legislativo-1999-129 decreto-foral-legislativo-2008-004 decreto-ley-foral-2020-001 decreto-ley-foral-2020-002,23,main
+2020-04-09,start,boe-a-2020-4540,ley-foral-2020-006,27,main
+2020-04-09,law,boe-a-2020-4541,ley-foral-1995-002 decreto-foral-legislativo-1999-129 decreto-foral-legislativo-2008-004 ley-foral-2020-007,27,main
+2020-04-17,start,boe-a-2020-4794,decreto-ley-foral-2020-003,19,main
+2020-04-17,law,boe-a-2020-4794,decreto-foral-legislativo-1999-129 ley-foral-2020-006 ley-foral-2020-007,6,main
+2020-05-04,start,boe-a-2020-6928,decreto-ley-foral-2020-004,21,main
+2020-05-04,law,boe-a-2020-6928,ley-foral-2000-013 ley-foral-2020-007,3,main
+2020-05-25,start,boe-a-2020-6929,decreto-ley-foral-2020-005,12,main
+2020-05-25,law,boe-a-2020-6929,ley-foral-2020-007,1,main
+2020-06-23,start,boe-a-2020-9675,decreto-ley-foral-2020-006,25,main
+2020-06-23,law,boe-a-2020-9675,decreto-foral-legislativo-1999-129 ley-foral-2000-013 ley-foral-2007-005 ley-foral-2016-026 ley-foral-2019-018 decreto-ley-foral-2020-003,17,main
+2020-07-23,start,boe-a-2020-10492,decreto-ley-foral-2020-007,13,main
+2020-07-23,law,boe-a-2020-10492,decreto-foral-legislativo-1999-129,1,main
+2020-08-18,start,boe-a-2020-11364,decreto-ley-foral-2020-008,22,main
+2020-08-18,law,boe-a-2020-11364,decreto-foral-legislativo-1999-129 decreto-ley-foral-2020-007,4,main
+2020-09-07,start,boe-a-2020-10783,ley-foral-2020-014,12,main
+2020-09-07,law,boe-a-2020-10783,decreto-foral-legislativo-1999-129 ley-foral-2006-016,2,main
+2020-09-18,start,boe-a-2020-12900,decreto-ley-foral-2020-009,24,main
+2020-09-18,law,boe-a-2020-12900,ley-foral-2006-016,1,main
+2020-09-22,start,boe-a-2020-12901,decreto-ley-foral-2020-010,22,main
+2020-12-22,start,boe-a-2021-527,ley-foral-2020-018,13,main
+2020-12-23,law,boe-a-2021-528,ley-foral-2003-007,41,main
+2021-01-01,start,boe-a-2021-1355,ley-foral-2020-021,19,main
+2021-01-01,law,boe-a-2021-1354,ley-foral-2005-011 ley-foral-2007-013 ley-foral-2010-010 ley-foral-2012-013 ley-foral-2018-002 ley-foral-2019-017 decreto-ley-foral-2020-010,9,main
+2021-01-01,law,boe-a-2021-1356,ley-foral-1995-002,35,main
+2021-01-01,law,boe-a-2021-1355,ley-foral-1994-009 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2007-013 decreto-foral-legislativo-2008-004 ley-foral-2016-026 decreto-foral-legislativo-2017-001 ley-foral-1996-010 ley-foral-2014-008,73,main
+2021-01-18,start,boe-a-2021-3493,decreto-ley-foral-2021-001,12,main
+2021-01-18,law,boe-a-2021-3493,decreto-foral-legislativo-2008-004 ley-foral-2016-026,2,main
+2021-01-26,start,boe-a-2021-1625,decreto-foral-legislativo-2021-001,7,main
+2021-02-20,start,boe-a-2021-3492,ley-foral-2021-002,76,main
+2021-02-20,law,boe-a-2021-3492,ley-foral-2001-007,215,main
+2021-02-27,law,boe-a-2021-5952,ley-foral-2000-013 ley-foral-2006-016 ley-foral-2016-026,4,main
+2021-04-01,start,,ley-foral-2021-003,19,main
+2021-04-12,law,boe-a-2021-7762,decreto-foral-legislativo-1999-129,1,main
+2021-04-23,start,boe-a-2021-9240,decreto-ley-foral-2021-004,22,main
+2021-04-23,law,boe-a-2021-9240,ley-foral-2007-013,3,main
+2021-04-29,law,boe-a-2021-7761,decreto-foral-legislativo-2017-001,1,main
+2021-05-21,start,boe-a-2021-9237,ley-foral-2021-005,19,main
+2021-05-21,law,boe-a-2021-9238,ley-foral-2004-014,1,main
+2021-05-21,law,boe-a-2021-9239,ley-foral-2000-011,1,main
+2021-05-21,law,boe-a-2021-9237,ley-foral-1997-011 ley-foral-2019-011,22,main
+2021-06-15,law,boe-a-2021-10021,ley-foral-2019-016,4,main
+2021-06-22,start,boe-a-2021-526,ley-foral-2020-017,111,main
+2021-06-22,law,boe-a-2021-526,decreto-foral-legislativo-2017-001 ley-foral-2005-004,106,main
+2021-06-26,start,boe-a-2021-11475,ley-foral-2021-010,15,main
+2021-07-02,law,boe-a-2021-12830,decreto-ley-foral-2020-008 decreto-ley-foral-2020-007,14,main
+2021-07-15,law,boe-a-2021-12828,ley-foral-2018-005,1,main
+2021-07-17,start,boe-a-2021-12827,ley-foral-2021-013,76,main
+2021-07-17,law,boe-a-2021-12827,ley-foral-1996-010,6,main
+2021-10-01,law,boe-a-2021-16586,ley-foral-2000-004,1,main
+2021-11-03,law,boe-a-2021-18406,ley-foral-2018-002,47,main
+2022-01-01,law,boe-a-2022-2066,decreto-foral-legislativo-1993-251 ley-foral-2002-001 ley-foral-2007-013 ley-foral-2010-010 ley-foral-2012-013 ley-foral-2017-008 ley-foral-2019-011 ley-foral-2019-018 decreto-ley-foral-2021-004,19,main
+2022-01-01,law,boe-a-2022-2067,ley-foral-1988-010 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2006-012 decreto-foral-legislativo-2008-004 ley-foral-2009-007 ley-foral-2010-010 ley-foral-2016-026 ley-foral-2021-002 ley-foral-1996-010,77,main
+2022-01-01,law,boe-a-2022-2068,ley-foral-1995-002,1,main
+2022-01-01,law,boe-a-2022-2069,ley-foral-2014-002,23,main
+2022-02-09,law,boe-a-2022-2330,decreto-foral-legislativo-2021-001,1,main
+2022-02-19,start,boe-a-2022-3481,ley-foral-2022-003,13,main
+2022-04-01,start,boe-a-2022-6450,ley-foral-2022-007,30,main
+2022-04-01,start,boe-a-2022-6451,ley-foral-2022-008,40,main
+2022-04-01,law,boe-a-2022-6404,ley-foral-1995-002,2,main
+2022-04-02,start,boe-a-2022-6402,ley-foral-2022-004,110,main
+2022-04-02,start,boe-a-2022-6452,ley-foral-2022-009,4,main
+2022-04-02,law,boe-a-2022-6403,ley-foral-1990-006,2,main
+2022-04-02,law,boe-a-2022-6402,ley-foral-1990-013 ley-foral-1997-019 ley-foral-2006-014 ley-foral-2018-014 ley-foral-2005-010,40,main
+2022-04-02,law,boe-a-2022-6452,ley-foral-2019-005,3,main
+2022-04-22,start,boe-a-2022-8642,decreto-ley-foral-2022-001,35,main
+2022-04-22,law,boe-a-2022-7706,ley-foral-1996-010 ley-foral-2014-008,7,main
+2022-04-22,law,boe-a-2022-8642,decreto-foral-legislativo-2008-004 decreto-ley-foral-2021-004 ley-foral-2022-004,3,main
+2022-05-07,start,boe-a-2022-8062,ley-foral-2022-011,15,main
+2022-05-25,law,boe-a-2022-10517,ley-foral-1992-011 decreto-foral-legislativo-1993-251,2,main
+2022-05-31,law,boe-a-2022-9766,ley-foral-1990-006,2,main
+2022-06-01,law,boe-a-2022-9767,ley-foral-2000-011,1,main
+2022-06-21,law,boe-a-2022-10516,ley-foral-2019-019,4,main
+2022-06-27,start,boe-a-2022-13476,decreto-foral-legislativo-2022-004,1,main
+2022-06-27,law,boe-a-2022-13476,ley-foral-2015-011,1,main
+2022-07-01,law,boe-a-2022-13476,decreto-foral-legislativo-2021-001 decreto-foral-legislativo-2022-004,3,main
+2022-07-15,start,boe-a-2022-12939,ley-foral-2022-019,25,main
+2022-07-15,start,boe-a-2022-12943,ley-foral-2022-023,11,main
+2022-07-15,law,boe-a-2022-12941,ley-foral-2006-016,18,main
+2022-07-15,law,boe-a-2022-12942,ley-foral-2019-016,7,main
+2022-07-15,law,boe-a-2022-12939,ley-foral-1992-011 decreto-foral-legislativo-1993-251,2,main
+2022-07-15,law,boe-a-2022-12943,ley-foral-2007-005,1,main
+2022-07-19,start,boe-a-2022-8641,ley-foral-2022-012,183,main
+2022-07-19,law,boe-a-2022-8641,ley-foral-2005-015,131,main
+2022-07-22,start,boe-a-2022-12944,ley-foral-2022-024,27,main
+2022-07-29,start,boe-a-2022-12940,ley-foral-2022-020,14,main
+2022-07-29,law,boe-a-2022-12940,decreto-foral-legislativo-2008-004 ley-foral-2010-010 decreto-foral-legislativo-2017-001,56,main
+2022-07-29,law,boe-a-2022-13476,decreto-foral-legislativo-2022-004,4,main
+2022-08-26,law,boe-a-2022-16897,decreto-ley-foral-2022-001,2,main
+2022-09-14,law,boe-a-2022-15288,ley-foral-2015-011,1,main
+2022-09-27,law,boe-a-2022-16128,ley-foral-2022-019,3,main
+2022-10-07,law,boe-a-2022-16896,ley-foral-2005-011,1,main
+2022-10-27,start,boe-a-2022-18154,ley-foral-2022-028,4,main
+2022-12-16,start,boe-a-2022-22470,ley-foral-2022-031,149,main
+2022-12-16,law,boe-a-2022-22472,decreto-foral-legislativo-2008-004,1,main
+2022-12-16,law,boe-a-2022-22470,ley-foral-2005-011 ley-foral-2006-015 ley-foral-2006-016 ley-foral-2010-017 ley-foral-2011-001 ley-foral-2016-015 ley-foral-2018-002 ley-foral-2018-012,18,main
+2022-12-23,law,boe-a-2023-470,ley-foral-2006-007,52,main
+2022-12-31,start,boe-a-2023-3350,ley-foral-2022-037,14,main
+2022-12-31,start,boe-a-2023-3351,ley-foral-2022-038,22,main
+2022-12-31,law,boe-a-2023-1406,ley-foral-1990-013 decreto-foral-legislativo-1993-251 ley-foral-2002-001 ley-foral-2007-013 ley-foral-2010-010 ley-foral-2011-001 ley-foral-2012-013 ley-foral-2016-015 ley-foral-2017-013 ley-foral-2018-002 ley-foral-2018-007 ley-foral-2018-023 ley-foral-2019-018 ley-foral-2022-004 ley-foral-2022-024,30,main
+2022-12-31,law,boe-a-2023-3349,ley-foral-1992-013 ley-foral-1994-009 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2006-012 decreto-foral-legislativo-2008-004 ley-foral-2016-026 ley-foral-2018-014 ley-foral-2021-002 ley-foral-1996-010,98,main
+2023-01-01,law,boe-a-2023-3349,ley-foral-1988-010 ley-foral-1992-013 ley-foral-1995-002 decreto-foral-legislativo-2008-004,14,main
+2023-02-08,law,boe-a-2023-3848,decreto-foral-legislativo-2021-001 decreto-foral-legislativo-2022-004 ley-foral-2022-037,4,main
+2023-03-06,law,boe-a-2023-4814,ley-foral-1990-006,1,main
+2023-03-10,start,boe-a-2023-7508,ley-foral-2023-003,19,main
+2023-03-22,start,boe-a-2023-8479,ley-foral-2023-004,59,main
+2023-03-22,start,boe-a-2023-8480,ley-foral-2023-005,22,main
+2023-03-22,law,boe-a-2023-8482,ley-foral-2010-010,8,main
+2023-03-22,law,boe-a-2023-8483,ley-foral-2005-008,18,main
+2023-03-22,law,boe-a-2023-8480,ley-foral-2010-008,18,main
+2023-04-05,start,boe-a-2023-9222,ley-foral-2023-009,36,main
+2023-04-05,law,boe-a-2023-9222,ley-foral-1993-001,11,main
+2023-04-05,law,boe-a-2023-9223,ley-foral-2000-011,8,main
+2023-04-19,law,boe-a-2023-10135,ley-foral-1992-011,11,main
+2023-04-19,law,boe-a-2023-10136,decreto-foral-legislativo-1993-251,14,main
+2023-04-25,start,boe-a-2023-10922,ley-foral-2023-013,39,main
+2023-04-25,start,boe-a-2023-10923,ley-foral-2023-014,22,main
+2023-04-25,law,boe-a-2023-10925,ley-foral-2006-015,1,main
+2023-04-25,law,boe-a-2023-10923,decreto-foral-legislativo-2008-004,1,main
+2023-06-14,start,boe-a-2023-16401,decreto-foral-legislativo-2023-002,67,main
+2023-06-14,law,boe-a-2023-16401,ley-foral-2001-005 ley-foral-1996-010 ley-foral-2014-008,111,main
+2023-11-08,law,boe-a-2023-23346,ley-foral-2000-013,4,main
+2023-11-08,law,boe-a-2023-23347,ley-foral-1997-011,1,main
+2023-12-23,start,boe-a-2023-470,ley-foral-2022-034,94,main
+2023-12-30,law,boe-a-2024-1694,ley-foral-1992-013 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2006-012 decreto-foral-legislativo-2008-004 ley-foral-2016-026 ley-foral-2018-014 ley-foral-2021-002 decreto-foral-legislativo-2023-002,75,main
+2024-01-01,law,boe-a-2024-1694,ley-foral-1988-010,1,main
+2024-01-13,start,boe-a-2024-1208,ley-foral-2023-021,95,main
+2024-01-13,law,boe-a-2024-1208,ley-foral-1993-002 ley-foral-2005-017,27,main
+2024-03-15,law,boe-a-2024-5989,decreto-foral-legislativo-1993-251 ley-foral-2000-013 ley-foral-2007-013 decreto-foral-legislativo-2008-004 ley-foral-2018-002 ley-foral-2019-016,23,main
+2024-04-02,law,boe-a-2022-6402,ley-foral-2022-004,9,main
+2024-05-15,law,boe-a-2024-9848,ley-foral-2018-002,1,main
+2024-05-18,law,boe-a-2024-10501,ley-foral-2005-008,1,main
+2024-06-14,law,boe-a-2024-12566,ley-foral-2005-008,1,main
+2024-07-20,law,boe-a-2024-15431,ley-foral-2019-001,4,main
+2024-07-20,law,boe-a-2024-15432,decreto-foral-legislativo-1993-251,1,main
+2024-07-20,law,boe-a-2024-15433,ley-foral-2019-018,2,main
+2024-10-09,start,boe-a-2024-21593,ley-foral-2024-012,24,main
+2024-11-08,law,boe-a-2024-24026,decreto-foral-legislativo-2008-004,2,main
+2024-11-19,law,boe-a-2024-24453,ley-foral-2010-010,1,main
+2024-12-07,law,boe-a-2024-25451,lorafna,2,main
+2025-01-01,law,boe-a-2024-21594,decreto-foral-legislativo-1993-251,1,main
+2025-01-01,law,boe-a-2024-23181,decreto-foral-legislativo-1993-251,1,main
+2025-01-01,law,boe-a-2025-718,ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-2012-013 ley-foral-2018-002 ley-foral-2018-014 ley-foral-2019-016,14,main
+2025-01-01,law,boe-a-2025-719,ley-foral-1988-010 ley-foral-1992-013 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 decreto-foral-legislativo-2008-004 ley-foral-2016-026 ley-foral-2018-002 ley-foral-2021-002 decreto-foral-legislativo-2023-002,75,main
+2025-03-14,law,boe-a-2025-5610,ley-foral-1997-011,10,main
+2025-03-28,law,boe-a-2025-6952,ley-foral-2013-033,1,main
+2025-04-23,law,boe-a-2025-10092,ley-foral-1989-002,1,main
+2025-05-10,law,boe-a-2025-12060,ley-foral-1992-011 decreto-foral-legislativo-1993-251,9,main
+2025-06-17,law,boe-a-2025-13562,ley-foral-1992-011 decreto-foral-legislativo-1993-251,9,main
+2025-07-05,law,boe-a-2025-14459,ley-foral-2005-009,11,main
+2025-07-12,law,boe-a-2025-15656,ley-foral-2010-010 decreto-foral-legislativo-2017-001,85,main
+2025-11-14,law,boe-a-2025-23425,ley-foral-2020-017,1,main
+2025-12-13,law,boe-a-2025-26135,ley-foral-2010-010,16,main
+2026-01-01,start,boe-a-2026-3911,ley-foral-2025-018,68,main
+2026-01-01,law,boe-a-2026-3910,ley-foral-1988-010 ley-foral-1992-013 decreto-foral-legislativo-1993-251 ley-foral-1994-009 ley-foral-1995-002 decreto-foral-legislativo-1999-129 ley-foral-2000-013 decreto-foral-legislativo-2002-250 ley-foral-2007-013 decreto-foral-legislativo-2008-004 ley-foral-2013-014 ley-foral-2016-026 ley-foral-2021-002,70,main
+2026-01-01,law,boe-a-2026-5611,ley-foral-1992-011 decreto-foral-legislativo-1993-251 ley-foral-1996-019 ley-foral-1999-011 ley-foral-2005-008 ley-foral-2005-011 ley-foral-2007-013 ley-foral-2012-013 ley-foral-2014-002 ley-foral-2015-014 decreto-foral-legislativo-2017-001 ley-foral-2018-002 ley-foral-2018-014 ley-foral-2018-023 ley-foral-2024-012,33,main
+2026-01-01,law,boe-a-2026-3911,ley-foral-2000-013 ley-foral-2016-026,2,main
+2026-02-21,law,boe-a-2026-4524,ley-foral-1995-002,2,main
+2026-03-19,law,boe-a-2026-6478,ley-foral-2018-002,1,main
+2026-03-19,law,boe-a-2026-6479,ley-foral-2005-008,1,main
+2026-04-08,start,boe-a-2026-9047,ley-foral-2026-005,52,main
+2026-04-08,law,boe-a-2026-9044,ley-foral-2018-015,16,main
+2026-04-08,law,boe-a-2026-9045,ley-foral-2018-005 ley-foral-2018-007,33,main
+2026-04-08,law,boe-a-2026-9046,ley-foral-1990-006,1,main
+2026-04-08,law,boe-a-2026-9047,ley-foral-1998-002,26,main
+2026-04-20,law,boe-a-2026-10888,decreto-foral-legislativo-1999-129 decreto-foral-legislativo-2008-004,2,main
+2026-07-14,start,boe-a-2026-16356,ley-foral-2026-011,17,main
+2026-07-14,law,boe-a-2026-16357,ley-foral-2007-005,4,main
+2026-07-14,law,boe-a-2026-16358,ley-foral-2005-021,1,main
+2026-07-14,law,boe-a-2026-16359,ley-foral-2010-010 ley-foral-2022-020,3,main
+2026-07-14,law,boe-a-2026-16356,ley-foral-2010-010,4,main
+2026-08-02,start,boe-a-2026-12613,ley-foral-2026-009,109,main
+2026-08-02,law,boe-a-2026-12613,ley-foral-2005-014 ley-foral-2007-012,54,main
+2026-08-10,law,boe-a-2026-17838,ley-foral-2015-011,1,main
+2026-09-30,law,boe-a-2026-20747,ley-foral-2020-017,1,main
+2027-01-01,law,boe-a-2026-16356,ley-foral-2010-010 ley-foral-2026-011,2,futuro
