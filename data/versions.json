@@ -8438,6 +8438,46 @@
      "sha256": "25272b9d350b3934fd684a6c5f330cad7da1d6951515efed79c86760c545f70c"
     }
    ]
+  },
+  {
+   "slug": "ley-foral-2011-003",
+   "short": "Ley Foral 3/2011, de 17 de marzo",
+   "title": "Ley Foral 3/2011, de 17 de marzo, sobre custodia de los hijos en los casos de ruptura de la convivencia de los padres.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-6554",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6554",
+     "sha256": "a1df5e53215d65129f36abb9f4441e52aae21dd5351627ee1b4b0c873350e22a"
+    },
+    {
+     "from": "2019-04-17",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6554",
+     "sha256": "a1df5e53215d65129f36abb9f4441e52aae21dd5351627ee1b4b0c873350e22a"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ley-foral-2022-002",
+   "short": "Decreto-ley Foral 2/2022, de 23 de mayo",
+   "title": "Decreto-ley Foral 2/2022, de 23 de mayo, de medidas para la realización de los procesos de estabilización derivados de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, en las Administraciones Públicas de Navarra.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-10517",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-10517",
+     "sha256": "c28349d12d17319ff0918b3699707a0dc8d1c535b32d5fa35c9b5c6f909c24b3"
+    },
+    {
+     "from": "2022-07-15",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-10517",
+     "sha256": "c28349d12d17319ff0918b3699707a0dc8d1c535b32d5fa35c9b5c6f909c24b3"
+    }
+   ]
   }
  ]
 }

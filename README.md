@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-229 norms with 1101 versions so far: the Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra (LORAFNA, its statute) first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 21 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+231 norms with 1105 versions so far: the Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra (LORAFNA, its statute) first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 23 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -243,6 +243,8 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-foral-2013-039/` | Ley Foral 39/2013, de 28 de diciembre, reguladora del Impuesto sobre los grandes establecimientos comerciales. | 2 | as first published, then each change: 9 January 2014 to 1 January 2016; **repealed** 1 January 2016 by Ley Foral 23/2015, de 28 de diciembre (BOE-A-2016-573) | 2025-12-19 |
 | `ley-foral-2014-008/` | Ley Foral 8/2014, de 16 de mayo, reguladora del mecenazgo cultural y de sus incentivos fiscales en la Comunidad Foral de Navarra. | 8 | as first published, then each change: 27 May 2014 to 14 June 2023; **repealed** 14 June 2023 by Decreto Foral Legislativo 2/2023, de 24 de mayo (BOE-A-2023-16401) | 2025-12-19 |
 | `decreto-ley-foral-2020-007/` | Decreto-Ley Foral 7/2020, de 22 de julio, por el que se aprueban medidas preventivas extraordinarias para hacer frente a la crisis sanitaria del coronavirus (COVID-19), una vez superada la fase 3 del Plan para la transición hacia una nueva normalidad. | 3 | as first published, then each change: 23 July 2020 to 2 July 2021; **repealed** 2 July 2021 by Decreto-ley Foral 6/2021, de 21 de junio (BOE-A-2021-12830) | 2025-12-20 |
+| `ley-foral-2011-003/` | Ley Foral 3/2011, de 17 de marzo, sobre custodia de los hijos en los casos de ruptura de la convivencia de los padres. | 2 | as first published, then each change: 28 June 2011 to 17 April 2019; **repealed** 17 April 2019 by Ley Foral 21/2019, de 4 de abril (BOE-A-2019-8512) | 2025-12-19 |
+| `decreto-ley-foral-2022-002/` | Decreto-ley Foral 2/2022, de 23 de mayo, de medidas para la realización de los procesos de estabilización derivados de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, en las Administraciones Públicas de Navarra. | 2 | as first published, then each change: 25 May 2022 to 15 July 2022; **repealed** 15 July 2022 by Ley Foral 19/2022, de 1 de julio (BOE-A-2022-12939) | 2025-12-20 |
 
 ## Source
 
