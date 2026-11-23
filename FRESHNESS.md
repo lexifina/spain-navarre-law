@@ -4,12 +4,13 @@
 
 [English](FRESHNESS.en.md)
 
-Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para España:
+Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para Comunidad Foral de Navarra:
 
 ### Legislación consolidada del BOE, comunidades autónomas (datos abiertos) · `spain/navarre/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 01:08 UTC**.
-- Normas en este repositorio: 231; al día con la fuente: 228; modificadas en la fuente después de la versión de aquí: 3; ya no están en la fuente: 0.
-- Sin publicar: 10 (modificada en la fuente después de la versión de aquí: 3, fuera del alcance de este repositorio: 6, ?: 1); sin motivo: 1.
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 14:04 UTC**.
+- Normas en este repositorio: 231; al día con la fuente: 231; modificadas en la fuente después de la versión de aquí: 0; ya no están en la fuente: 0.
+- Compared with the source in this read: 11 of the 231 acts held here; the others were not compared in this read (see the check's note).
+- Sin publicar: 7 (fuera del alcance de este repositorio: 6, la fuente aún no ha publicado su texto: 1); sin motivo: 0.
 
 En detalle: [monitoring/](monitoring/README.md). Para programas: [data/checks/latest.json](data/checks/latest.json).
