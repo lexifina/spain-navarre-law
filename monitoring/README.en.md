@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Navarre only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 06:28 UTC, BOE consolidated legislation, autonomous communities (open data): 28 addresses read; 0 added, 1 changed, 0 removed; changes found; 7 not published, 0 of them with no reason. Flags: `audit-disagrees`.
+**Last check:** 2026-11-26 06:32 UTC, BOE consolidated legislation, autonomous communities (open data): 26 addresses read; 0 added, 0 changed, 0 removed; no change; 7 not published, 0 of them with no reason. Flags: `audit-disagrees`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [BOE consolidated legislation, autonomous communities (open data)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | daily | 2026-11-25 06:28 UTC | changes found | watched |
+| [BOE consolidated legislation, autonomous communities (open data)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | daily | 2026-11-26 06:32 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 06:31](checks/2026-11.md#es-boe-autonomico-20261126t063159z) | boe-autonomico | 26 | 0 | 0 | 0 | 7 (0) | no change `audit-disagrees` | — |
 | [2026-11-25 06:27](checks/2026-11.md#es-boe-autonomico-20261125t062730z) | boe-autonomico | 28 | 0 | 1 | 0 | 7 (0) | changes found `audit-disagrees` | — |
 | [2026-11-24 07:27](checks/2026-11.md#es-boe-autonomico-20261124t072747z) | boe-autonomico | 26 | 0 | 0 | 0 | 7 (0) | no change | — |
 | [2026-11-23 14:03](checks/2026-11.md#es-boe-autonomico-20261123t140316z) | boe-autonomico | 30 | 0 | 3 | 0 | 7 (0) | changes found `audit-disagrees` | — |

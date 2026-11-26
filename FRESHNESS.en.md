@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/navarre/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:28 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:32 UTC**.
 - Acts held here: 231; current at the source: 231; changed at the source since the version held here: 0; no longer at the source: 0.
-- Compared with the source in this read: 8 of the 231 acts held here; the others were not compared in this read (see the check's note).
+- Compared with the source in this read: 7 of the 231 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 7 (outside this repository's scope: 6, the source has not published its text yet: 1); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).

@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-25T06:30:18Z",
+ "generated": "2026-11-26T06:34:58Z",
  "latest": {
   "boe-autonomico|spain/navarre/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1990-19817: 0 of 488 blocks of the page not found here; 22597 of 317504 letters here not on the page as such",
-     "BOE-A-1995-16401: 1 of 355 blocks of the page not found here; 635 of 261163 letters here not on the page as such"
+     "BOE-A-1993-13993: 0 of 114 blocks of the page not found here; 44192 of 127108 letters here not on the page as such",
+     "BOE-A-1993-2875: 1 of 76 blocks of the page not found here; 163 of 53120 letters here not on the page as such"
     ],
     "match_neither": 2,
-    "match_new": 6,
+    "match_new": 5,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
-    "sampled": 8,
+    "sampled": 7,
     "unread": 0
    },
    "census": {
     "awaiting_text": 0,
-    "checked": 8,
+    "checked": 7,
     "current": 231,
     "gone": 0,
     "held": 231,
@@ -29,48 +29,46 @@
     "repo": 231,
     "source_in_scope": 238
    },
-   "check_id": "es-boe-autonomico-20261125T062730Z",
+   "check_id": "es-boe-autonomico-20261126T063159Z",
    "commits": null,
    "corpus": "spain/navarre/acts",
    "error": null,
-   "finished": "2026-11-25T06:28:15Z",
+   "finished": "2026-11-26T06:32:40Z",
    "flags": [
     {
-     "detail": "2 of 8 read again by a second route disagree",
+     "detail": "2 of 7 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
    "gap": 7,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 05:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261125T052409Z); this repository's data run to 2026-10-30; 6 norms whose force ran out at the BOE are not held: outside this repository's scope",
-   "outcome": "changed",
+   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-10-30; 6 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 28,
+   "requests": 26,
    "runner": "lawwatch spain (e9c9e7e229)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "BOE-A-1995-16401"
-    ],
+    "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-24T12:36:43Z",
+   "snapshot": "2026-11-25T14:14:13Z",
    "source": "boe-autonomico",
-   "started": "2026-11-25T06:27:30Z",
+   "started": "2026-11-26T06:31:59Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
     "examples": [],
     "held": 208,
-    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 9 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (7 of 208 swept this check)",
+    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 8 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (7 of 208 swept this check)",
     "ok": true,
     "swept": 7,
     "unread": 0,
-    "versions_checked": 8,
+    "versions_checked": 7,
     "versions_differ": 0
    }
   }
