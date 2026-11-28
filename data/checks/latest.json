@@ -1,15 +1,12 @@
 {
- "generated": "2026-11-27T06:34:42Z",
+ "generated": "2026-11-28T08:12:23Z",
  "latest": {
   "boe-autonomico|spain/navarre/acts": {
    "attempt": 1,
    "audit": {
-    "examples": [
-     "BOE-A-1995-16401: 1 of 355 blocks of the page not found here; 635 of 261163 letters here not on the page as such",
-     "BOE-A-1997-1256: 11 of 37 blocks of the page not found here; 6401 of 35593 letters here not on the page as such"
-    ],
-    "match_neither": 2,
-    "match_new": 5,
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 7,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 7,
@@ -29,19 +26,14 @@
     "repo": 231,
     "source_in_scope": 238
    },
-   "check_id": "es-boe-autonomico-20261127T063204Z",
+   "check_id": "es-boe-autonomico-20261128T063349Z",
    "commits": null,
    "corpus": "spain/navarre/acts",
    "error": null,
-   "finished": "2026-11-27T06:32:44Z",
-   "flags": [
-    {
-     "detail": "2 of 7 read again by a second route disagree",
-     "flag": "audit-disagrees"
-    }
-   ],
+   "finished": "2026-11-28T06:34:28Z",
+   "flags": [],
    "gap": 7,
-   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-10-30; 6 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 05:28 UTC for the 20 Spanish corpora (check es-boe-estatal-20261128T052859Z); this repository's data run to 2026-10-30; 6 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -56,9 +48,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-26T13:04:42Z",
+   "snapshot": "2026-11-27T23:10:03Z",
    "source": "boe-autonomico",
-   "started": "2026-11-27T06:32:04Z",
+   "started": "2026-11-28T06:33:49Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,

@@ -6,18 +6,19 @@
 
 Cómo supervisa global-law todos los países: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Esta página hace lo mismo solo para Comunidad Foral de Navarra: cada vez que se lee una fuente oficial, cuándo y qué resultó (normas añadidas, modificadas y retiradas). La forma legible por máquina está en [data/checks/](../data/checks/) (JSON Lines, esquema `lexifina-check/1`), en `git log` como commits `Kind: check`, y mes a mes en [checks/](checks/).
 
-**Última comprobación:** 2026-11-27 06:32 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 26 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; sin cambios; 7 sin publicar, 0 de ellas sin motivo. Avisos: `audit-disagrees`.
+**Última comprobación:** 2026-11-28 06:34 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 26 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; sin cambios; 7 sin publicar, 0 de ellas sin motivo.
 
 ## Fuentes
 
 | Fuente | Carpetas | Frecuencia | Última comprobación correcta | Último resultado | Estado |
 | --- | --- | --- | --- | --- | --- |
-| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-27 06:32 UTC | sin cambios | vigilada |
+| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-28 06:34 UTC | sin cambios | vigilada |
 
 ## Los últimos 30 días
 
 | Inicio (UTC) | Fuente | Leídas | Añadidas | Modificadas | Retiradas | Sin publicar (sin motivo) | Resultado | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 06:33](checks/2026-11.md#es-boe-autonomico-20261128t063349z) | boe-autonomico | 26 | 0 | 0 | 0 | 7 (0) | sin cambios | — |
 | [2026-11-27 06:32](checks/2026-11.md#es-boe-autonomico-20261127t063204z) | boe-autonomico | 26 | 0 | 0 | 0 | 7 (0) | sin cambios `audit-disagrees` | — |
 | [2026-11-26 06:31](checks/2026-11.md#es-boe-autonomico-20261126t063159z) | boe-autonomico | 26 | 0 | 0 | 0 | 7 (0) | sin cambios `audit-disagrees` | — |
 | [2026-11-25 06:27](checks/2026-11.md#es-boe-autonomico-20261125t062730z) | boe-autonomico | 28 | 0 | 1 | 0 | 7 (0) | cambios encontrados `audit-disagrees` | — |
